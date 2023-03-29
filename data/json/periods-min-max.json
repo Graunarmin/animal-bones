@@ -1,0 +1,86 @@
+{
+  "Late Bronze Age - Early Iron Age": [
+    -1000,
+    -400
+  ],
+  "Early Iron Age": [
+    -800,
+    -400
+  ],
+  "Early - Middle Iron Age": [
+    -800,
+    -100
+  ],
+  "Middle Iron Age": [
+    -400,
+    -100
+  ],
+  "Iron Age": [
+    -800,
+    43
+  ],
+  "Mid - Late Iron Age": [
+    -400,
+    43
+  ],
+  "Late Iron Age": [
+    -299,
+    43
+  ],
+  "Late Iron Age - Early Roman": [
+    -299,
+    150
+  ],
+  "Early Roman": [
+    43,
+    200
+  ],
+  "Mid Roman": [
+    150,
+    200
+  ],
+  "Roman": [
+    43,
+    410
+  ],
+  "Late Roman": [
+    43,
+    410
+  ],
+  "Early Saxon": [
+    410,
+    650
+  ],
+  "Saxon": [
+    410,
+    1066
+  ],
+  "Late Saxon": [
+    850,
+    1066
+  ],
+  "Roman - Early Medieval": [
+    43,
+    1066
+  ],
+  "Early Medieval": [
+    400,
+    1139
+  ],
+  "Medieval": [
+    1000,
+    1599
+  ],
+  "Medieval - Post Medieval": [
+    1450,
+    1800
+  ],
+  "Post Medieval": [
+    1500,
+    1901
+  ],
+  "Modern": [
+    1900,
+    2500
+  ]
+}

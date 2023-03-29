@@ -1,0 +1,121 @@
+Code,Measurement,Reference
+1,"Antero-posterior depth of external trochlea, medial condyle metapodial",Davis 1992 p14
+10,"Length of molar row measured along alveoli, dog",Driesch 1976 p61
+10b,Breadth of M3,"Driesch 1976 p57, 59, Payne & Bull 1988 p42"
+10l,Length of M3,"Driesch 1976 p57, 59, Payne & Bull 1988 p42"
+11,"Length of diastema, cattle, ovicapra, pig; P1-P4 dog","Driesch 1976 p57, 59, 61"
+12,"Length of premolar row P2-P4 along alveoli, dog",Driesch 1976 p61
+13,"Middle height vertical ramus, cattle, ovicapra",Driesch 1976 p57
+13P,"Aboral height of the vertical ramus, pig",Driesch 1976 p59
+14,"Oral height of vertical ramus, cattle, ovicapra; length mandibular carnassial alveolus, dog",Driesch 1976 p57
+14B,Breadth of M3,Von den Driesch 1976 p. 53
+14L,Length of M3,Von den Driesch 1976 p. 53
+14P,"Middle height of vertical ramus, pig",Driesch 1976 p59
+15,"Length of maxillary cheektooth row, dog",Driesch 1976 p42
+15b,"Breadth of M2, dog",Driesch 1976 p61
+15c,"Height of the mandible in front of P2, cattle, ovicapra",Driesch 1976 p57
+15l,"Length of M2, dog",Driesch 1976 p61
+16,"Length maxillary molar row, dog",Driesch 1976 p42
+16b,"Breadth of M3, dog",Driesch 1976 p61
+16c,Height of mandible in front of P2 in pig,Driesch 1976 p59
+16l,"Length of M3, dog",Driesch 1976 p61
+17,"Length maxillary PM row, dog",Driesch 1976 p42
+17m,"Greatest thickness body of jaw below M1, dog",Driesch 1976 p61
+18,"Height of the vertical ramus, dog",Driesch 1976 p61
+19,Length maxillary carnassial alveolus dog,Driesch 1976 p42
+19m,"Height of mandible behind M1, dog",Driesch 1976 p61
+2,"Length of mandible: angular process - infradentale, dog",Driesch 1976 p61
+20,"Height of mandible between P2 and P3, dog",Driesch 1976 p61
+20b,"Breadth M1 at cingulum, dog",Driesch 1976 p42
+20l,"Length M1 at cingulum, dog",Driesch 1976 p42
+21b,"Breadth M2 at cingulum, dog",Driesch 1976 p42
+21l,"Length M2 at cingulum, dog",Driesch 1976 p42
+22,"Greatest diameter of the auditory bulla, dog",Driesch 1976 p43
+23,Length of the premolar row measured along the alveoli on the buccal side,Von den Driesch 1976 p. 31
+25,"Greatest breadth of the occipital condyles, dog",Driesch 1976 p43
+27,"Greatest breadth of the foramen magnum, dog",Driesch 1976 p43
+28,"Height of the foramen magnum: basion-opisthion, dog",Driesch 1976 p43
+31,"Least breadth of the skull, dog",Driesch 1976 p43
+32,"Frontal breadth: ectorbitale-ectorbitale, dog",Driesch 1976 p43
+33,"Least breadth between orbits: entorbitale-entorbitale, dog",Driesch 1976 p43
+37,"Greatest inner height of the orbit, dog",Driesch 1976 p43
+4,"Antero-posterior depth of external trochlea, lateral condyle metapodial",Davis 1992 p14
+40,"Horncore basal circumference, ovicapra",Driesch 1976 p34
+41,"Greatest diameter of the horn core base, ovicapra",Driesch 1976 p34
+42,"Least diameter of horn core base, ovicapra",Driesch 1976 p34
+43,"Length of horn core on front margin, ovicapra",Driesch 1976 p34
+44,"Horncore basal circumference, cattle",Driesch 1976 p28
+45,"Greatest diameter horn core base, cattle",Driesch 1976 p28
+46,"Least diameter of horn core base, cattle",Driesch 1976 p28
+47,"Length outer curvature of horn core, cattle",Driesch 1976 p28
+5,"Length: indentation between processes to aboral border of the canine alveolus, dog",Driesch 1976 p61
+7,"Length of cheektooth row P2-M3, cattle, ovicapra; P1-M3, pig","Driesch 1976 p57, 59"
+7a,"Length of cheektooth row, P2-M3, pig",Driesch 1976 p57
+8,"Length of molar row, cattle, ovicapra, pig; P1-M3, dog","Driesch 1976 p57, 59, 61"
+9,"Length of premolar row, cattle, ovicapra, pig; P2-M3 dog","Driesch 1976 p57, 59, 61"
+9B,Breadth of P2,Von den Driesch 1976 p. 53
+9L,Length of P2,Von den Driesch 1976 p. 53
+9a,"Length of premolar row, P2-P4, pig",Driesch 1976 p59
+AA,Breadth between the borders of the acetabula,Von den Driesch 1976 p. 123
+B,"Breadth in middle of diaphysis, pig metapodial",Driesch 1976 p95
+B@F,"Maximum breadth distal fusion point, metapodial",Davis 1992 p14
+BF,Breadth facies articularis basalis,Driesch 1976 p113
+BFd,Greatest breadth of facies articularis distalis,"Driesch 1976 pp79, 89, 97"
+BFdl,Breadth of lateral condyle metapodial,"Payne 1969 p296, Davis 1992 p14"
+BFdm,Breadth of medial condyle metapodial,"Payne 1969 p296, Davis 1992 p14"
+BFp,Greatest breadth of facies articularis proximalis,"Driesch 1976 pp79, 97"
+BG,Breadth of glenoid cavity,Driesch 1976 p75
+BPC,Greatest breadth across the coronoid process,Von den Driesch 1976 p. 79
+BT,Breadth of trochlea,"Driesch 1976 p77, Payne & Bull 1988 p42"
+Bb,Greatest basal breadth,Driesch 1976 p113
+Bd,Greatest breadth of distal end,"Driesch 1976 pp75, 79, 85, 87, 89, 93, 117, 119, 125-129"
+Bp,Greatest breadth of proximal end,"Driesch 1976 pp77, 79, 85, 87, 93, 97,117-121,125,129"
+CB,Cranial breadth,Von den Driesch 1976 p. 123
+CD,Smallest circumference of diaphysis,Driesch 1976 p93
+DC,Greatest depth of caput femoris,Driesch 1976 p85
+DD,Smallest depth of the diaphysis,Von den Driesch 1976 p. 93
+DHA,Diagonal height of scapula,Driesch 1976 p75
+DPA,Depth across the Processus anconaeus,Von den Driesch 1976 p. 79
+Dd,Greatest depth of the distal end,"Driesch 1976 p93,125,127"
+Ddl,Depth of lateral condyle of metapodial,Davis 1992 p14
+Ddm,Depth of medial condyle of metapodial,Davis 1992 p14
+DiA,Diameter of the acetabulum,Von den Driesch 1976 p. 123
+Dic,Greatest cranial diagonal,Driesch 1976 p115
+Did,Greatest diagonal of the distal end,"Driesch 1976 p119, 121"
+Dip,Greatest diagonal of proximal end,"Driesch 1976 p119, 127"
+Dl,Greatest depth lateral half of astragalus,Driesch 1976 p89
+Dm,Greatest depth medial,Von den Driesch 1976 p. 89
+Dp,Greatest depth proximal end,"Driesch 1976 p93, 125"
+GB,Greatest breadth of calcaneum,Driesch 1976 p91
+GBA,Greatest breadth across the acetabula,Driesch 1976 p83
+GH,Greatest height - horse astragalus,Driesch 1976 p89
+GL,Greatest length,"Driesch 1976 pp77, 79, 83, 85, 87, 91, 93,113-121,125-129"
+GLC,Greatest length from caput femoris,Driesch 1976 p85
+GLP,Greatest length of glenoid process,Driesch 1976 p75
+GLl,Greatest length of lateral half of astragalus,Driesch 1976 p89
+GLm,Greatest length of medial half of astragalus,Driesch 1976 p89
+GLpe,Greatest length of peripheral half,Driesch 1976 p97
+H1,Height of the medial wall of the acetabulum at the ilio-pubic juncture,Greenfield 2005 p. 73
+HS,Height along the spine,Driesch 1976 p75
+HT,Height of the distal trochlea,Jones et al 1978 p110: meas 10
+HTC,Narrowest diameter of the distal trochlea,Payne & Bull 1988 p40
+L,Carpometacarpus,Length of the metacarpus II
+LA,Length of acetabulum including lip,Driesch 1976 p83
+LAR,Length of acetabulum on rim,Driesch 1976 p83
+LFo,Inner length of foramen obturatum,Driesch 1976 p83
+LG,Length of glenoid cavity,Driesch 1976 p75
+LS,Length of symphysis,Driesch 1976 p83
+LV,Length along the vertebrae,Von den Driesch 1976 p. 123
+La,Axial length: tuberculum centrale - distal border of trochlea tibiotarsi,Driesch 1976 p127
+Ld,Greatest dorsal length,Driesch 1976 p75
+Ll,Lateral length,Driesch 1976 p93
+Lm,Medial length,"Driesch 1976 p113, 125"
+LmT,Length medial part of trochlea tali,Driesch 1976 p89
+Lo,Ulna,Von den Driesch 1976 p. 79
+SB,Smallest breadth of illium shaft,Driesch 1976 p83
+SC,Smallest breadth of corpus,"Driesch 1976 p117, 119, 125, 127, 129"
+SD,Smallest breadth of diaphysis,"Driesch 1976 pp77, 79, 85, 87, 93, 97"
+SDO,Smallest depth of the olecranon,Von den Driesch 1976 p. 79
+SH,Smallest height of illium shaft,Driesch 1976 p83
+SLC,Smallest length of neck of scapula,Driesch 1976 p75
+TD,Smallest depth of diaphysis,Driesch 1976 p93

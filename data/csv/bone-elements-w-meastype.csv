@@ -1,0 +1,89 @@
+,ELEMENT,MEASTYPE,COUNT,EXPLANATION
+0,Astragalus,GB,65,Greatest breadth of calcaneum
+1,Astragalus,GH,60,Greatest height - horse astragalus
+2,Astragalus,BFd,51,Greatest breadth of facies articularis distalis
+3,Astragalus,LmT,51,Length medial part of trochlea tali
+4,Astragalus,Lm,1,Medial length
+5,Calcaneum,GB,24,Greatest breadth of calcaneum
+6,Calcaneum,GL,22,Greatest length
+7,Femur,DC,24,Greatest depth of caput femoris
+8,Femur,SD,24,Smallest breadth of diaphysis
+9,Femur,Bd,23,Greatest breadth of distal end
+10,Femur,Bp,12,Greatest breadth of proximal end
+11,Femur,GL,12,Greatest length
+12,Femur,GLC,10,Greatest length from caput femoris
+13,Femur,CD,3,Smallest circumference of diaphysis
+14,First phalanx,SD,119,Smallest breadth of diaphysis
+15,First phalanx,GL,108,Greatest length
+16,First phalanx,Bd,102,Greatest breadth of distal end
+17,First phalanx,Bp,68,Greatest breadth of proximal end
+18,First phalanx,Dp,53,Greatest depth proximal end
+19,First phalanx,BFd,47,Greatest breadth of facies articularis distalis
+20,First phalanx,BFp,40,Greatest breadth of facies articularis proximalis
+21,First phalanx,Dd,3,Greatest depth of the distal end
+22,Humerus,BT,74,Breadth of trochlea
+23,Humerus,Bd,58,Greatest breadth of distal end
+24,Humerus,SD,32,Smallest breadth of diaphysis
+25,Humerus,HTC,19,Narrowest diameter of the distal trochlea
+26,Humerus,GLl,13,Greatest length of lateral half of astragalus
+27,Humerus,GLC,7,Greatest length from caput femoris
+28,Humerus,Bp,4,Greatest breadth of proximal end
+29,Humerus,GL,1,Greatest length
+30,Mandible,14B,1,Breadth of M3
+31,Mandible,14L,1,Length of M3
+32,Mandible,9B,1,Breadth of P2
+33,Mandible,9L,1,Length of P2
+34,Metacarpal,Bd,90,Greatest breadth of distal end
+35,Metacarpal,Bp,76,Greatest breadth of proximal end
+36,Metacarpal,GL,72,Greatest length
+37,Metacarpal,SD,72,Smallest breadth of diaphysis
+38,Metacarpal,Dp,50,Greatest depth proximal end
+39,Metacarpal,Ll,30,Lateral length
+40,Metacarpal,Dd,25,Greatest depth of the distal end
+41,Metacarpal,GLl,16,Greatest length of lateral half of astragalus
+42,Metacarpal,TD,13,Smallest depth of diaphysis
+43,Metacarpal,CD,11,Smallest circumference of diaphysis
+44,Metatarsal,Bd,105,Greatest breadth of distal end
+45,Metatarsal,SD,85,Smallest breadth of diaphysis
+46,Metatarsal,GL,84,Greatest length
+47,Metatarsal,Bp,79,Greatest breadth of proximal end
+48,Metatarsal,Dd,48,Greatest depth of the distal end
+49,Metatarsal,Dp,48,Greatest depth proximal end
+50,Metatarsal,Ll,39,Lateral length
+51,Metatarsal,CD,23,Smallest circumference of diaphysis
+52,Metatarsal,TD,15,Smallest depth of diaphysis
+53,Metatarsal,GLl,7,Greatest length of lateral half of astragalus
+54,Metatarsal,DD,3,Smallest depth of the diaphysis
+55,Metatarsal,BFd,1,Greatest breadth of facies articularis distalis
+56,Pelvis,LAR,28,Length of acetabulum on rim
+57,Pelvis,LA,10,Length of acetabulum including lip
+58,Pelvis,SB,8,Smallest breadth of illium shaft
+59,Pelvis,SH,7,Smallest height of illium shaft
+60,Pelvis,SC,3,Smallest breadth of corpus
+61,Pelvis,LFo,2,Inner length of foramen obturatum
+62,Radius,Bd,69,Greatest breadth of distal end
+63,Radius,Bp,61,Greatest breadth of proximal end
+64,Radius,GL,56,Greatest length
+65,Radius,BFd,53,Greatest breadth of facies articularis distalis
+66,Radius,BFp,50,Greatest breadth of facies articularis proximalis
+67,Radius,SD,49,Smallest breadth of diaphysis
+68,Radius,Ll,22,Lateral length
+69,Radius,CD,7,Smallest circumference of diaphysis
+70,Scapula,SLC,63,Smallest length of neck of scapula
+71,Scapula,BG,47,Breadth of glenoid cavity
+72,Scapula,LG,46,Length of glenoid cavity
+73,Scapula,GLP,42,Greatest length of glenoid process
+74,Second phalanx,Bd,1,Greatest breadth of distal end
+75,Second phalanx,Bp,1,Greatest breadth of proximal end
+76,Second phalanx,GL,1,Greatest length
+77,Second phalanx,SD,1,Smallest breadth of diaphysis
+78,Tibia,Bd,120,Greatest breadth of distal end
+79,Tibia,Dd,79,Greatest depth of the distal end
+80,Tibia,SD,48,Smallest breadth of diaphysis
+81,Tibia,GL,42,Greatest length
+82,Tibia,Bp,23,Greatest breadth of proximal end
+83,Tibia,Ll,17,Lateral length
+84,Tibia,CD,6,Smallest circumference of diaphysis
+85,Ulna,BPC,4,Greatest breadth across the coronoid process
+86,Ulna,DPA,4,Depth across the Processus anconaeus
+87,Ulna,SDO,2,Smallest depth of the olecranon
