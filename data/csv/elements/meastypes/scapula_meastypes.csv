@@ -1,0 +1,199 @@
+,BONEID,MEASURE,MEASTYPE,PERIOD,RANGE,Unnamed: 0,ELEMENT
+2,ABMAP15381,41.7,BG,Roman - Saxon,43 -- 410,88.0,Scapula
+5,ABMAP3086,42.0,BG,Roman - Saxon,800 -- 999,122.0,Scapula
+9,ABMAP58,46.0,BG,Roman - Saxon,775 -- 800,173.0,Scapula
+13,ABMAP57,46.1,BG,Roman - Saxon,775 -- 800,202.0,Scapula
+15,ABMAP17096,44.6,BG,Bronze - Iron Age,-99 -- 99,228.0,Scapula
+19,ABMAP2962,44.5,BG,Roman - Saxon,900 -- 999,582.0,Scapula
+23,ABMAP2963,46.3,BG,Roman - Saxon,900 -- 999,666.0,Scapula
+27,ABMAP475,47.3,BG,Bronze - Iron Age,-100 -- -43,767.0,Scapula
+31,ABMAP521,43.8,BG,Bronze - Iron Age,-100 -- -43,819.0,Scapula
+36,ABMAP21043,49.4,BG,Medieval,1066 -- 1540,898.0,Scapula
+53,ABMAP18119,53.5,BG,Medieval,1600 -- 1799,1355.0,Scapula
+58,ABMAP16613,39.1,BG,Medieval,1033 -- 1199,1386.0,Scapula
+61,ABMAP16614,44.7,BG,Medieval,1167 -- 1399,1391.0,Scapula
+64,ABMAP16610,40.3,BG,Medieval,1167 -- 1399,1474.0,Scapula
+67,ABMAP16611,41.5,BG,Medieval,1167 -- 1399,1493.0,Scapula
+69,ABMAP3274,47.7,BG,Roman - Saxon,400 -- 1066,1609.0,Scapula
+73,ABMAP1926,43.3,BG,Roman - Saxon,43 -- 410,1650.0,Scapula
+77,ABMAP13142,47.8,BG,Roman - Saxon,650 -- 850,1686.0,Scapula
+80,ABMAP28118,41.3,BG,Roman - Saxon,800 -- 1066,1700.0,Scapula
+85,ABMAP28085,41.6,BG,Roman - Saxon,800 -- 1066,1709.0,Scapula
+89,ABMAP18516,36.3,BG,Bronze - Iron Age,-1000 -- -400,1740.0,Scapula
+93,ABMAP27806,47.7,BG,Roman - Saxon,950 -- 980,1803.0,Scapula
+102,ABMAP1144,48.5,BG,Roman - Saxon,43 -- 410,1880.0,Scapula
+106,ABMAP1161,41.4,BG,Roman - Saxon,43 -- 410,1884.0,Scapula
+110,ABMAP1162,48.5,BG,Roman - Saxon,43 -- 410,1888.0,Scapula
+114,ABMAP1163,38.3,BG,Roman - Saxon,43 -- 410,1892.0,Scapula
+118,ABMAP1332,44.2,BG,Roman - Saxon,43 -- 410,1896.0,Scapula
+119,ABMAP737,48.2,BG,Roman - Saxon,43 -- 410,1902.0,Scapula
+120,ABMAP1064,43.2,BG,Roman - Saxon,43 -- 410,1951.0,Scapula
+122,ABMAP8944,38.5,BG,Bronze - Iron Age,-299 -- -100,1997.0,Scapula
+125,ABMAP8977,43.0,BG,Bronze - Iron Age,-299 -- -100,2005.0,Scapula
+131,J_GRIMM_08WA58720-32,44.0,BG,Medieval,1075 -- 1125,2113.0,Scapula
+137,J_GRIMM_08WA59480-214,40.0,BG,Roman - Saxon,43 -- 410,2143.0,Scapula
+145,J_GRIMM_08WA63661-186,35.6,BG,Bronze - Iron Age,-700 -- -100,2352.0,Scapula
+148,ABMAP14061,53.4,BG,Medieval,1300 -- 1499,2438.0,Scapula
+152,ABMAP14076,47.8,BG,Medieval,1300 -- 1499,2451.0,Scapula
+156,ABMAP14082,43.7,BG,Medieval,1300 -- 1499,2455.0,Scapula
+163,ABMAP15708,37.4,BG,Bronze - Iron Age,-400 -- -100,2528.0,Scapula
+167,ABMAP16097,40.0,BG,Bronze - Iron Age,-400 -- -100,2600.0,Scapula
+169,ABMAP15785,40.9,BG,Bronze - Iron Age,-400 -- -100,2642.0,Scapula
+173,ABMAP15786,41.7,BG,Bronze - Iron Age,-400 -- -100,2646.0,Scapula
+176,ABMAP16233,45.5,BG,Bronze - Iron Age,-400 -- -100,2675.0,Scapula
+180,ABMAP16226,40.0,BG,Bronze - Iron Age,-400 -- -100,2686.0,Scapula
+182,ABMAP16114,45.2,BG,Bronze - Iron Age,-400 -- -100,2725.0,Scapula
+185,ABMAP16161,43.5,BG,Bronze - Iron Age,-400 -- -100,2751.0,Scapula
+186,ABMAP334,39.3,BG,Bronze - Iron Age,-199 -- 0,2779.0,Scapula
+192,ABMAP14381,40.2,BG,Roman - Saxon,43 -- 410,3005.0,Scapula
+0,ABMAP14549,87.0,GLP,Medieval,1600 -- 1650,55.0,Scapula
+6,ABMAP3086,88.8,GLP,Roman - Saxon,800 -- 999,123.0,Scapula
+16,ABMAP17096,80.8,GLP,Bronze - Iron Age,-99 -- 99,229.0,Scapula
+20,ABMAP2962,85.3,GLP,Roman - Saxon,900 -- 999,583.0,Scapula
+24,ABMAP2963,89.6,GLP,Roman - Saxon,900 -- 999,667.0,Scapula
+28,ABMAP475,84.6,GLP,Bronze - Iron Age,-100 -- -43,768.0,Scapula
+32,ABMAP521,83.0,GLP,Bronze - Iron Age,-100 -- -43,820.0,Scapula
+37,ABMAP21043,94.3,GLP,Medieval,1066 -- 1540,899.0,Scapula
+54,ABMAP18119,104.5,GLP,Medieval,1600 -- 1799,1356.0,Scapula
+59,ABMAP16613,83.2,GLP,Medieval,1033 -- 1199,1387.0,Scapula
+65,ABMAP16610,82.0,GLP,Medieval,1167 -- 1399,1475.0,Scapula
+70,ABMAP3274,93.8,GLP,Roman - Saxon,400 -- 1066,1610.0,Scapula
+74,ABMAP1926,86.6,GLP,Roman - Saxon,43 -- 410,1651.0,Scapula
+78,ABMAP13142,94.0,GLP,Roman - Saxon,650 -- 850,1687.0,Scapula
+81,ABMAP28118,85.3,GLP,Roman - Saxon,800 -- 1066,1701.0,Scapula
+86,ABMAP28085,85.7,GLP,Roman - Saxon,800 -- 1066,1710.0,Scapula
+90,ABMAP18516,72.6,GLP,Bronze - Iron Age,-1000 -- -400,1741.0,Scapula
+94,ABMAP27806,86.8,GLP,Roman - Saxon,950 -- 980,1804.0,Scapula
+99,ABMAP1359,92.2,GLP,Roman - Saxon,43 -- 410,1859.0,Scapula
+103,ABMAP1144,93.4,GLP,Roman - Saxon,43 -- 410,1881.0,Scapula
+107,ABMAP1161,81.3,GLP,Roman - Saxon,43 -- 410,1885.0,Scapula
+111,ABMAP1162,88.7,GLP,Roman - Saxon,43 -- 410,1889.0,Scapula
+115,ABMAP1163,72.2,GLP,Roman - Saxon,43 -- 410,1893.0,Scapula
+123,ABMAP8944,77.0,GLP,Bronze - Iron Age,-299 -- -100,1998.0,Scapula
+126,ABMAP8977,78.5,GLP,Bronze - Iron Age,-299 -- -100,2006.0,Scapula
+129,J_GRIMM_08WA57960-216,84.5,GLP,Medieval,1050 -- 1225,2064.0,Scapula
+132,J_GRIMM_08WA58720-32,89.6,GLP,Medieval,1075 -- 1125,2114.0,Scapula
+138,J_GRIMM_08WA59480-214,74.7,GLP,Roman - Saxon,43 -- 410,2144.0,Scapula
+140,J_GRIMM_08WA59480-1250,76.6,GLP,Bronze - Iron Age,-100 -- 43,2165.0,Scapula
+143,J_GRIMM_08WA59480-1138,92.1,GLP,Bronze - Iron Age,100 -- 150,2235.0,Scapula
+149,ABMAP14061,103.6,GLP,Medieval,1300 -- 1499,2439.0,Scapula
+153,ABMAP14076,96.0,GLP,Medieval,1300 -- 1499,2452.0,Scapula
+157,ABMAP14082,89.7,GLP,Medieval,1300 -- 1499,2456.0,Scapula
+160,ABMAP10071,87.6,GLP,Roman - Saxon,650 -- 950,2490.0,Scapula
+164,ABMAP15708,74.0,GLP,Bronze - Iron Age,-400 -- -100,2529.0,Scapula
+170,ABMAP15785,82.6,GLP,Bronze - Iron Age,-400 -- -100,2643.0,Scapula
+177,ABMAP16233,85.3,GLP,Bronze - Iron Age,-400 -- -100,2676.0,Scapula
+183,ABMAP16114,88.3,GLP,Bronze - Iron Age,-400 -- -100,2726.0,Scapula
+187,ABMAP334,72.4,GLP,Bronze - Iron Age,-199 -- 0,2780.0,Scapula
+193,ABMAP14381,77.0,GLP,Roman - Saxon,43 -- 410,3006.0,Scapula
+195,ABMAP10859,85.7,GLP,Roman - Saxon,43 -- 410,3045.0,Scapula
+197,ABMAP10839,84.0,GLP,Roman - Saxon,200 -- 410,3049.0,Scapula
+1,ABMAP14549,54.5,LG,Medieval,1600 -- 1650,56.0,Scapula
+3,ABMAP15381,50.0,LG,Roman - Saxon,43 -- 410,89.0,Scapula
+7,ABMAP3086,52.7,LG,Roman - Saxon,800 -- 999,124.0,Scapula
+10,ABMAP58,56.0,LG,Roman - Saxon,775 -- 800,174.0,Scapula
+17,ABMAP17096,51.3,LG,Bronze - Iron Age,-99 -- 99,230.0,Scapula
+21,ABMAP2962,55.3,LG,Roman - Saxon,900 -- 999,584.0,Scapula
+25,ABMAP2963,56.9,LG,Roman - Saxon,900 -- 999,668.0,Scapula
+29,ABMAP475,55.1,LG,Bronze - Iron Age,-100 -- -43,769.0,Scapula
+33,ABMAP521,52.5,LG,Bronze - Iron Age,-100 -- -43,821.0,Scapula
+38,ABMAP21043,49.9,LG,Medieval,1066 -- 1540,900.0,Scapula
+55,ABMAP18119,63.6,LG,Medieval,1600 -- 1799,1357.0,Scapula
+62,ABMAP16614,53.3,LG,Medieval,1167 -- 1399,1392.0,Scapula
+71,ABMAP3274,57.4,LG,Roman - Saxon,400 -- 1066,1611.0,Scapula
+75,ABMAP1926,59.6,LG,Roman - Saxon,43 -- 410,1652.0,Scapula
+79,ABMAP13142,57.1,LG,Roman - Saxon,650 -- 850,1688.0,Scapula
+82,ABMAP28118,49.7,LG,Roman - Saxon,800 -- 1066,1702.0,Scapula
+87,ABMAP28085,49.5,LG,Roman - Saxon,800 -- 1066,1711.0,Scapula
+91,ABMAP18516,46.1,LG,Bronze - Iron Age,-1000 -- -400,1742.0,Scapula
+95,ABMAP27806,51.6,LG,Roman - Saxon,950 -- 980,1805.0,Scapula
+98,ABMAP1014,51.3,LG,Roman - Saxon,43 -- 410,1853.0,Scapula
+100,ABMAP1359,58.8,LG,Roman - Saxon,43 -- 410,1860.0,Scapula
+104,ABMAP1144,59.4,LG,Roman - Saxon,43 -- 410,1882.0,Scapula
+108,ABMAP1161,52.5,LG,Roman - Saxon,43 -- 410,1886.0,Scapula
+112,ABMAP1162,57.2,LG,Roman - Saxon,43 -- 410,1890.0,Scapula
+116,ABMAP1163,46.6,LG,Roman - Saxon,43 -- 410,1894.0,Scapula
+121,ABMAP8943,46.5,LG,Bronze - Iron Age,-299 -- -100,1996.0,Scapula
+124,ABMAP8944,46.5,LG,Bronze - Iron Age,-299 -- -100,1999.0,Scapula
+127,ABMAP8977,47.5,LG,Bronze - Iron Age,-299 -- -100,2007.0,Scapula
+133,J_GRIMM_08WA58720-32,56.9,LG,Medieval,1075 -- 1125,2115.0,Scapula
+139,J_GRIMM_08WA59480-214,49.5,LG,Roman - Saxon,43 -- 410,2145.0,Scapula
+141,J_GRIMM_08WA59480-1250,47.3,LG,Bronze - Iron Age,-100 -- 43,2166.0,Scapula
+146,J_GRIMM_08WA63661-186,47.3,LG,Bronze - Iron Age,-700 -- -100,2353.0,Scapula
+150,ABMAP14061,63.4,LG,Medieval,1300 -- 1499,2440.0,Scapula
+154,ABMAP14076,60.5,LG,Medieval,1300 -- 1499,2453.0,Scapula
+158,ABMAP14082,53.7,LG,Medieval,1300 -- 1499,2457.0,Scapula
+161,ABMAP10071,57.3,LG,Roman - Saxon,650 -- 950,2491.0,Scapula
+165,ABMAP15708,46.1,LG,Bronze - Iron Age,-400 -- -100,2530.0,Scapula
+168,ABMAP16097,48.0,LG,Bronze - Iron Age,-400 -- -100,2601.0,Scapula
+171,ABMAP15785,50.1,LG,Bronze - Iron Age,-400 -- -100,2644.0,Scapula
+174,ABMAP15786,51.9,LG,Bronze - Iron Age,-400 -- -100,2647.0,Scapula
+178,ABMAP16233,53.3,LG,Bronze - Iron Age,-400 -- -100,2677.0,Scapula
+181,ABMAP16226,51.5,LG,Bronze - Iron Age,-400 -- -100,2687.0,Scapula
+184,ABMAP16114,54.3,LG,Bronze - Iron Age,-400 -- -100,2727.0,Scapula
+188,ABMAP334,45.4,LG,Bronze - Iron Age,-199 -- 0,2781.0,Scapula
+190,ABMAP14458,54.0,LG,Roman - Saxon,43 -- 410,2986.0,Scapula
+194,ABMAP14381,46.5,LG,Roman - Saxon,43 -- 410,3007.0,Scapula
+4,ABMAP15381,51.8,SLC,Roman - Saxon,43 -- 410,90.0,Scapula
+8,ABMAP60,50.0,SLC,Roman - Saxon,775 -- 800,153.0,Scapula
+11,ABMAP58,71.0,SLC,Roman - Saxon,775 -- 800,175.0,Scapula
+12,ABMAP59,71.3,SLC,Roman - Saxon,775 -- 800,176.0,Scapula
+14,ABMAP17110,54.3,SLC,Bronze - Iron Age,-99 -- 99,225.0,Scapula
+18,ABMAP17096,60.3,SLC,Bronze - Iron Age,-99 -- 99,231.0,Scapula
+22,ABMAP2962,60.5,SLC,Roman - Saxon,900 -- 999,585.0,Scapula
+26,ABMAP2963,63.2,SLC,Roman - Saxon,900 -- 999,669.0,Scapula
+30,ABMAP475,66.6,SLC,Bronze - Iron Age,-100 -- -43,770.0,Scapula
+34,ABMAP521,66.5,SLC,Bronze - Iron Age,-100 -- -43,822.0,Scapula
+35,ABMAP537,61.2,SLC,Bronze - Iron Age,-100 -- -43,868.0,Scapula
+39,ABMAP21043,72.5,SLC,Medieval,1066 -- 1540,901.0,Scapula
+40,ABMAP29016,53.3,SLC,Medieval,1250 -- 1400,930.0,Scapula
+41,ABMAP29189,60.9,SLC,Medieval,1100 -- 1250,977.0,Scapula
+42,ABMAP29261,50.0,SLC,Medieval,1300 -- 1450,1024.0,Scapula
+43,ABMAP29278,47.9,SLC,Medieval,1300 -- 1450,1037.0,Scapula
+44,ABMAP29299,44.5,SLC,Medieval,1250 -- 1400,1049.0,Scapula
+45,ABMAP29319,60.1,SLC,Medieval,1250 -- 1400,1070.0,Scapula
+46,ABMAP29406,52.0,SLC,Medieval,1450 -- 1800,1116.0,Scapula
+47,ABMAP29427,61.2,SLC,Medieval,1100 -- 1250,1123.0,Scapula
+48,ABMAP29520,54.0,SLC,Roman - Saxon,950 -- 1100,1148.0,Scapula
+49,ABMAP28797,48.9,SLC,Medieval,1250 -- 1400,1181.0,Scapula
+50,ABMAP28675,55.5,SLC,Medieval,1300 -- 1450,1194.0,Scapula
+51,ABMAP28761,60.1,SLC,Medieval,1250 -- 1400,1218.0,Scapula
+52,ABMAP28884,55.8,SLC,Medieval,1250 -- 1400,1318.0,Scapula
+56,ABMAP18119,71.5,SLC,Medieval,1600 -- 1799,1358.0,Scapula
+57,ABMAP16612,53.0,SLC,Medieval,1367 -- 1499,1382.0,Scapula
+60,ABMAP16613,55.5,SLC,Medieval,1033 -- 1199,1388.0,Scapula
+63,ABMAP16615,47.1,SLC,Medieval,1167 -- 1399,1473.0,Scapula
+66,ABMAP16610,55.3,SLC,Medieval,1167 -- 1399,1476.0,Scapula
+68,ABMAP16611,56.5,SLC,Medieval,1167 -- 1399,1494.0,Scapula
+72,ABMAP3274,68.5,SLC,Roman - Saxon,400 -- 1066,1612.0,Scapula
+76,ABMAP1926,59.8,SLC,Roman - Saxon,43 -- 410,1653.0,Scapula
+83,ABMAP28118,56.9,SLC,Roman - Saxon,800 -- 1066,1703.0,Scapula
+84,ABMAP28030,46.1,SLC,Roman - Saxon,800 -- 1066,1707.0,Scapula
+88,ABMAP28085,59.7,SLC,Roman - Saxon,800 -- 1066,1712.0,Scapula
+92,ABMAP18516,52.2,SLC,Bronze - Iron Age,-1000 -- -400,1743.0,Scapula
+96,ABMAP27806,55.7,SLC,Roman - Saxon,950 -- 980,1806.0,Scapula
+97,ABMAP27508,62.4,SLC,Roman - Saxon,950 -- 980,1812.0,Scapula
+101,ABMAP1359,60.7,SLC,Roman - Saxon,43 -- 410,1861.0,Scapula
+105,ABMAP1144,62.6,SLC,Roman - Saxon,43 -- 410,1883.0,Scapula
+109,ABMAP1161,53.9,SLC,Roman - Saxon,43 -- 410,1887.0,Scapula
+113,ABMAP1162,66.5,SLC,Roman - Saxon,43 -- 410,1891.0,Scapula
+117,ABMAP1163,51.8,SLC,Roman - Saxon,43 -- 410,1895.0,Scapula
+128,J_GRIMM_08WA56530-973,63.1,SLC,Roman - Saxon,300 -- 400,2031.0,Scapula
+130,J_GRIMM_08WA57960-216,58.3,SLC,Medieval,1050 -- 1225,2065.0,Scapula
+134,J_GRIMM_08WA58720-32,63.6,SLC,Medieval,1075 -- 1125,2116.0,Scapula
+135,J_GRIMM_08WA58720-33,61.2,SLC,Medieval,1300 -- 1400,2131.0,Scapula
+136,J_GRIMM_08WA58720-34,53.7,SLC,Medieval,1300 -- 1400,2132.0,Scapula
+142,J_GRIMM_08WA59480-1250,52.7,SLC,Bronze - Iron Age,-100 -- 43,2167.0,Scapula
+144,J_GRIMM_08WA59480-1138,66.8,SLC,Bronze - Iron Age,100 -- 150,2236.0,Scapula
+147,ABMAP14060,52.9,SLC,Medieval,1300 -- 1499,2437.0,Scapula
+151,ABMAP14061,66.0,SLC,Medieval,1300 -- 1499,2441.0,Scapula
+155,ABMAP14076,70.2,SLC,Medieval,1300 -- 1499,2454.0,Scapula
+159,ABMAP14082,57.0,SLC,Medieval,1300 -- 1499,2458.0,Scapula
+162,ABMAP10071,65.4,SLC,Roman - Saxon,650 -- 950,2492.0,Scapula
+166,ABMAP15708,51.8,SLC,Bronze - Iron Age,-400 -- -100,2531.0,Scapula
+172,ABMAP15785,56.4,SLC,Bronze - Iron Age,-400 -- -100,2645.0,Scapula
+175,ABMAP15786,56.4,SLC,Bronze - Iron Age,-400 -- -100,2648.0,Scapula
+179,ABMAP16233,63.0,SLC,Bronze - Iron Age,-400 -- -100,2678.0,Scapula
+189,ABMAP334,51.3,SLC,Bronze - Iron Age,-199 -- 0,2782.0,Scapula
+191,ABMAP14458,53.0,SLC,Roman - Saxon,43 -- 410,2987.0,Scapula
+196,ABMAP10859,55.0,SLC,Roman - Saxon,43 -- 410,3046.0,Scapula

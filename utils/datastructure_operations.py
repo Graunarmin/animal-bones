@@ -1,6 +1,5 @@
 from collections import Counter
 import pprint
-from . import load_write as lw
 
 
 pp = pprint.PrettyPrinter(indent=2, compact=True)
@@ -47,6 +46,14 @@ def range_to_tuple(range_string):
 
 
 def update_period(dataframe, periods_dict):
+    """
+    Updates the values in the 'PERIOD' column to be
+    one of the four periods we summarized.
+    Also deletes all columns we no longer need.
+    :param dataframe:
+    :param periods_dict:
+    :return:
+    """
     for range_string in dataframe['RANGE']:
         range_tuple = range_to_tuple(range_string)
         find_me = (dataframe['RANGE'] == range_string)
@@ -58,12 +65,64 @@ def update_period(dataframe, periods_dict):
     return df
 
 
-def create_dataframe_from_groups(grouped_dataframe):
+def dimensions_dict(grouped_dataframe):
+    """
+    Creates a dictionary of separate dataframes from a grouped dataframe
+    The key is the name of the group, the value another dictionary
+    with "df" as key for the dataframe and "size" as key for the size
+    :param grouped_dataframe:
+    :param keys:
+    :return:
+    """
     group_names = list(grouped_dataframe.groups.keys())
     frames_dict = dict()
+
     for name in group_names:
         df_group = grouped_dataframe.get_group(name)
-        frames_dict[name] = df_group
+        frames_dict[name] = {
+            "df": df_group,
+            "size": len(df_group)
+        }
 
     return frames_dict
+
+
+def bone_type_dict(bone_type, df, bone_amt, per_amt):
+    return {
+        bone_type: {
+            "df": df,
+            "bone_amt": bone_amt,
+            "meas_amt": len(df),
+            "periods_amt": per_amt
+        }
+    }
+
+
+def trim_dictionary(dictionary, trim_to):
+    """
+    trims the dictionary to the size of trim_to according to
+    the "size"-key
+    Not very elegant, I hate this. Rewrite!
+    :param dictionary:
+    :param trim_to:
+    :return:
+    """
+    if len(dictionary) > trim_to:
+        sizes = []
+        for entry in dictionary:
+            sizes.append({"name": entry, "size": dictionary[entry]["size"]})
+
+        sizes.sort(key=lambda x: x["size"], reverse=True)
+        keep = sizes[:trim_to]
+        codes = []
+
+        for entry in keep:
+            codes.append(entry['name'])
+
+        for entry in list(dictionary.keys()):
+            if entry not in codes:
+                del dictionary[entry]
+
+    return dictionary
+
 

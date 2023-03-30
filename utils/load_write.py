@@ -48,7 +48,7 @@ def save_dict_to_csv(dict_of_dataframes, rootpath):
     :return: -
     """
     for key in dict_of_dataframes:
-        save_csv(dict_of_dataframes[key], rootpath+key+".csv")
+        save_csv(dict_of_dataframes[key]["df"], rootpath + key + ".csv")
 
 
 # ------ JSON ------
