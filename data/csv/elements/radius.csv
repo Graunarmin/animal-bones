@@ -1,0 +1,368 @@
+,BONEID,ELEMENT,MEASURE,MEASTYPE,PERIOD,RANGE
+10,ABMAP2074,Radius,77.5,Bd,Roman - Saxon,43 -- 410
+11,ABMAP2074,Radius,64.5,BFd,Roman - Saxon,43 -- 410
+12,ABMAP2074,Radius,75.8,BFp,Roman - Saxon,43 -- 410
+13,ABMAP2074,Radius,83.6,Bp,Roman - Saxon,43 -- 410
+14,ABMAP2074,Radius,315.0,Ll,Roman - Saxon,43 -- 410
+15,ABMAP2074,Radius,39.1,SD,Roman - Saxon,43 -- 410
+20,ABMAP11933,Radius,68.4,Bd,Roman - Saxon,43 -- 410
+21,ABMAP11933,Radius,58.2,BFd,Roman - Saxon,43 -- 410
+23,ABMAP11880,Radius,75.0,Bd,Roman - Saxon,43 -- 410
+24,ABMAP11880,Radius,64.4,BFd,Roman - Saxon,43 -- 410
+25,ABMAP11880,Radius,80.0,Bp,Roman - Saxon,43 -- 410
+26,ABMAP11880,Radius,345.0,GL,Roman - Saxon,43 -- 410
+27,ABMAP11880,Radius,38.5,SD,Roman - Saxon,43 -- 410
+28,ABMAP11881,Radius,75.0,Bd,Roman - Saxon,43 -- 410
+29,ABMAP11881,Radius,64.4,BFd,Roman - Saxon,43 -- 410
+30,ABMAP11881,Radius,80.0,Bp,Roman - Saxon,43 -- 410
+31,ABMAP11881,Radius,345.0,GL,Roman - Saxon,43 -- 410
+32,ABMAP11881,Radius,38.5,SD,Roman - Saxon,43 -- 410
+70,ABMAP5450,Radius,73.5,Bp,Bronze - Iron Age,-299 -- 99
+74,ABMAP5469,Radius,63.5,Bd,Medieval,1066 -- 1540
+75,ABMAP5469,Radius,58.0,BFd,Medieval,1066 -- 1540
+76,ABMAP5469,Radius,68.0,BFp,Medieval,1066 -- 1540
+77,ABMAP5469,Radius,73.5,Bp,Medieval,1066 -- 1540
+78,ABMAP5469,Radius,300.0,GL,Medieval,1066 -- 1540
+79,ABMAP5469,Radius,290.0,Ll,Medieval,1066 -- 1540
+80,ABMAP5469,Radius,34.2,SD,Medieval,1066 -- 1540
+108,ABMAP2132,Radius,64.6,BFp,Roman - Saxon,200 -- 399
+119,ABMAP3080,Radius,65.9,BFp,Roman - Saxon,800 -- 999
+120,ABMAP3080,Radius,75.6,Bp,Roman - Saxon,800 -- 999
+121,ABMAP3080,Radius,33.5,SD,Roman - Saxon,800 -- 999
+137,ABMAP3043,Radius,70.5,Bd,Roman - Saxon,900 -- 999
+138,ABMAP3043,Radius,60.8,BFd,Roman - Saxon,900 -- 999
+220,ABMAP17329,Radius,73.5,Bp,Bronze - Iron Age,-99 -- 99
+264,ABMAP8717,Radius,75.2,Bp,Roman - Saxon,310 -- 330
+265,ABMAP8698,Radius,87.0,Bd,Roman - Saxon,310 -- 330
+284,ABMAP25990,Radius,78.6,Bp,Roman - Saxon,700 -- 732
+311,ABMAP26101,Radius,69.3,BFp,Roman - Saxon,733 -- 832
+312,ABMAP26101,Radius,77.9,Bp,Roman - Saxon,733 -- 832
+345,ABMAP26103,Radius,82.8,Bp,Roman - Saxon,733 -- 832
+389,ABMAP25538,Radius,84.2,Bp,Roman - Saxon,833 -- 932
+391,ABMAP26498,Radius,84.2,Bp,Roman - Saxon,833 -- 932
+393,ABMAP26104,Radius,77.8,Bd,Roman - Saxon,733 -- 832
+394,ABMAP26104,Radius,63.7,BFd,Roman - Saxon,733 -- 832
+395,ABMAP25539,Radius,70.9,Bd,Roman - Saxon,833 -- 932
+396,ABMAP25540,Radius,67.1,BFp,Roman - Saxon,833 -- 932
+397,ABMAP25540,Radius,74.1,Bp,Roman - Saxon,833 -- 932
+405,ABMAP26499,Radius,70.9,Bd,Roman - Saxon,833 -- 932
+406,ABMAP26500,Radius,67.1,BFp,Roman - Saxon,833 -- 932
+407,ABMAP26500,Radius,74.1,Bp,Roman - Saxon,833 -- 932
+415,ABMAP26105,Radius,84.0,Bp,Roman - Saxon,733 -- 832
+416,ABMAP26502,Radius,68.4,BFp,Roman - Saxon,833 -- 932
+417,ABMAP26106,Radius,73.7,Bd,Roman - Saxon,733 -- 832
+418,ABMAP26106,Radius,63.9,BFd,Roman - Saxon,733 -- 832
+419,ABMAP26107,Radius,79.6,Bp,Roman - Saxon,733 -- 832
+427,ABMAP25541,Radius,72.5,BFp,Roman - Saxon,833 -- 932
+428,ABMAP25541,Radius,82.1,Bp,Roman - Saxon,833 -- 932
+429,ABMAP25541,Radius,330.0,GL,Roman - Saxon,833 -- 932
+430,ABMAP25541,Radius,37.5,SD,Roman - Saxon,833 -- 932
+479,ABMAP26501,Radius,72.5,BFp,Roman - Saxon,833 -- 932
+480,ABMAP26501,Radius,82.1,Bp,Roman - Saxon,833 -- 932
+481,ABMAP26501,Radius,330.0,GL,Roman - Saxon,833 -- 932
+482,ABMAP26501,Radius,37.5,SD,Roman - Saxon,833 -- 932
+537,ABMAP26100,Radius,75.2,Bd,Roman - Saxon,733 -- 832
+538,ABMAP26100,Radius,53.5,BFd,Roman - Saxon,733 -- 832
+549,ABMAP26102,Radius,75.0,Bd,Roman - Saxon,733 -- 832
+550,ABMAP26102,Radius,248.0,GL,Roman - Saxon,733 -- 832
+551,ABMAP26102,Radius,36.0,SD,Roman - Saxon,733 -- 832
+565,ABMAP5418,Radius,66.0,Bd,Bronze - Iron Age,-800 -- 43
+566,ABMAP5418,Radius,69.9,Bp,Bronze - Iron Age,-800 -- 43
+567,ABMAP5418,Radius,300.0,GL,Bronze - Iron Age,-800 -- 43
+580,ABMAP13850,Radius,73.4,Bd,Medieval,1200 -- 1299
+581,ABMAP13850,Radius,61.8,BFd,Medieval,1200 -- 1299
+794,ABMAP471,Radius,52.9,Bd,Bronze - Iron Age,-100 -- -43
+795,ABMAP471,Radius,49.3,BFp,Bronze - Iron Age,-100 -- -43
+796,ABMAP471,Radius,210.5,GL,Bronze - Iron Age,-100 -- -43
+797,ABMAP471,Radius,201.4,Ll,Bronze - Iron Age,-100 -- -43
+798,ABMAP471,Radius,29.6,SD,Bronze - Iron Age,-100 -- -43
+801,ABMAP530,Radius,65.6,Bp,Bronze - Iron Age,-100 -- -43
+802,ABMAP530,Radius,299.5,GL,Bronze - Iron Age,-100 -- -43
+803,ABMAP530,Radius,31.9,SD,Bronze - Iron Age,-100 -- -43
+804,ABMAP494,Radius,64.9,Bd,Bronze - Iron Age,-100 -- -43
+805,ABMAP495,Radius,61.6,BFp,Bronze - Iron Age,-100 -- -43
+806,ABMAP495,Radius,67.7,Bp,Bronze - Iron Age,-100 -- -43
+813,ABMAP507,Radius,67.4,Bd,Bronze - Iron Age,-100 -- -43
+814,ABMAP507,Radius,67.9,BFp,Bronze - Iron Age,-100 -- -43
+815,ABMAP507,Radius,74.6,Bp,Bronze - Iron Age,-100 -- -43
+816,ABMAP507,Radius,319.0,GL,Bronze - Iron Age,-100 -- -43
+817,ABMAP507,Radius,299.5,Ll,Bronze - Iron Age,-100 -- -43
+818,ABMAP507,Radius,32.1,SD,Bronze - Iron Age,-100 -- -43
+848,ABMAP581,Radius,74.9,Bp,Bronze - Iron Age,-100 -- -43
+849,ABMAP582,Radius,62.9,Bd,Bronze - Iron Age,-100 -- -43
+850,ABMAP582,Radius,55.9,BFd,Bronze - Iron Age,-100 -- -43
+851,ABMAP582,Radius,64.3,BFp,Bronze - Iron Age,-100 -- -43
+852,ABMAP582,Radius,69.5,Bp,Bronze - Iron Age,-100 -- -43
+853,ABMAP582,Radius,287.0,GL,Bronze - Iron Age,-100 -- -43
+854,ABMAP582,Radius,276.0,Ll,Bronze - Iron Age,-100 -- -43
+855,ABMAP582,Radius,32.2,SD,Bronze - Iron Age,-100 -- -43
+856,ABMAP583,Radius,68.9,Bd,Bronze - Iron Age,-100 -- -43
+857,ABMAP583,Radius,61.8,BFd,Bronze - Iron Age,-100 -- -43
+858,ABMAP583,Radius,70.9,BFp,Bronze - Iron Age,-100 -- -43
+859,ABMAP583,Radius,76.3,Bp,Bronze - Iron Age,-100 -- -43
+860,ABMAP583,Radius,304.0,GL,Bronze - Iron Age,-100 -- -43
+861,ABMAP583,Radius,297.0,Ll,Bronze - Iron Age,-100 -- -43
+862,ABMAP583,Radius,35.0,SD,Bronze - Iron Age,-100 -- -43
+881,ABMAP545,Radius,62.4,Bd,Bronze - Iron Age,-100 -- -43
+882,ABMAP545,Radius,54.7,BFd,Bronze - Iron Age,-100 -- -43
+883,ABMAP545,Radius,64.9,BFp,Bronze - Iron Age,-100 -- -43
+884,ABMAP545,Radius,68.9,Bp,Bronze - Iron Age,-100 -- -43
+885,ABMAP545,Radius,270.9,GL,Bronze - Iron Age,-100 -- -43
+886,ABMAP545,Radius,266.7,Ll,Bronze - Iron Age,-100 -- -43
+887,ABMAP545,Radius,31.9,SD,Bronze - Iron Age,-100 -- -43
+972,ABMAP29092,Radius,73.2,Bd,Medieval,1100 -- 1250
+973,ABMAP29092,Radius,340.4,GL,Medieval,1100 -- 1250
+987,ABMAP29217,Radius,64.9,Bd,Medieval,1100 -- 1250
+988,ABMAP29217,Radius,309.6,GL,Medieval,1100 -- 1250
+992,ABMAP29235,Radius,69.6,Bd,Medieval,1300 -- 1450
+993,ABMAP29235,Radius,317.3,GL,Medieval,1300 -- 1450
+1020,ABMAP29256,Radius,342.7,GL,Medieval,1450 -- 1800
+1050,ABMAP29300,Radius,324.0,GL,Medieval,1250 -- 1400
+1057,ABMAP28737,Radius,325.7,GL,Medieval,1250 -- 1400
+1097,ABMAP29378,Radius,63.5,Bd,Medieval,1100 -- 1250
+1098,ABMAP29378,Radius,296.1,GL,Medieval,1100 -- 1250
+1135,ABMAP29474,Radius,314.6,GL,Medieval,1100 -- 1250
+1186,ABMAP28596,Radius,69.8,Bd,Medieval,1100 -- 1250
+1258,ABMAP28828,Radius,310.7,GL,Medieval,1300 -- 1450
+1272,ABMAP28835,Radius,62.6,Bd,Medieval,1250 -- 1400
+1302,ABMAP28861,Radius,66.0,Bd,Medieval,1100 -- 1250
+1303,ABMAP28861,Radius,295.5,GL,Medieval,1100 -- 1250
+1311,ABMAP28875,Radius,304.0,GL,Medieval,1300 -- 1450
+1482,ABMAP16617,Radius,49.5,BFd,Medieval,1367 -- 1499
+1483,ABMAP16617,Radius,59.9,BFp,Medieval,1367 -- 1499
+1484,ABMAP16618,Radius,68.6,Bd,Medieval,1033 -- 1499
+1485,ABMAP16618,Radius,58.5,BFd,Medieval,1033 -- 1499
+1486,ABMAP16618,Radius,67.2,BFp,Medieval,1033 -- 1499
+1487,ABMAP16618,Radius,74.7,Bp,Medieval,1033 -- 1499
+1488,ABMAP16618,Radius,306.0,GL,Medieval,1033 -- 1499
+1489,ABMAP16618,Radius,292.0,Ll,Medieval,1033 -- 1499
+1490,ABMAP16618,Radius,34.2,SD,Medieval,1033 -- 1499
+1508,ABMAP9508,Radius,72.4,Bd,Roman - Saxon,333 -- 366
+1509,ABMAP9508,Radius,67.3,BFp,Roman - Saxon,333 -- 366
+1510,ABMAP9508,Radius,73.2,Bp,Roman - Saxon,333 -- 366
+1511,ABMAP9508,Radius,332.5,GL,Roman - Saxon,333 -- 366
+1512,ABMAP9508,Radius,57.8,SD,Roman - Saxon,333 -- 366
+1522,ABMAP9535,Radius,320.0,GL,Roman - Saxon,333 -- 399
+1523,ABMAP9535,Radius,59.0,SD,Roman - Saxon,333 -- 399
+1553,ABMAP9536,Radius,70.4,BFp,Roman - Saxon,367 -- 399
+1554,ABMAP9536,Radius,76.5,Bp,Roman - Saxon,367 -- 399
+1555,ABMAP9536,Radius,316.0,GL,Roman - Saxon,367 -- 399
+1574,ABMAP9537,Radius,64.3,Bd,Roman - Saxon,300 -- 399
+1575,ABMAP9537,Radius,75.5,BFp,Roman - Saxon,300 -- 399
+1576,ABMAP9537,Radius,84.2,Bp,Roman - Saxon,300 -- 399
+1577,ABMAP9537,Radius,439.0,GL,Roman - Saxon,300 -- 399
+1578,ABMAP9537,Radius,37.8,SD,Roman - Saxon,300 -- 399
+1579,ABMAP9538,Radius,66.6,Bd,Roman - Saxon,300 -- 399
+1580,ABMAP9538,Radius,360.0,GL,Roman - Saxon,300 -- 399
+1606,ABMAP3277,Radius,66.5,Bd,Roman - Saxon,400 -- 1066
+1607,ABMAP3277,Radius,282.0,Ll,Roman - Saxon,400 -- 1066
+1614,ABMAP28407,Radius,70.2,Bd,Roman - Saxon,850 -- 899
+1615,ABMAP28407,Radius,55.4,BFd,Roman - Saxon,850 -- 899
+1625,ABMAP28497,Radius,71.3,Bp,Roman - Saxon,850 -- 899
+1626,ABMAP28498,Radius,79.6,Bp,Roman - Saxon,850 -- 899
+1627,ABMAP28499,Radius,79.6,Bp,Roman - Saxon,850 -- 899
+1631,ABMAP1865,Radius,66.9,BFp,Roman - Saxon,43 -- 410
+1632,ABMAP1865,Radius,74.5,Bp,Roman - Saxon,43 -- 410
+1684,ABMAP1823,Radius,64.5,Bd,Roman - Saxon,43 -- 410
+1685,ABMAP1823,Radius,54.3,BFd,Roman - Saxon,43 -- 410
+1718,ABMAP18518,Radius,42.1,BFp,Bronze - Iron Age,-800 -- 43
+1719,ABMAP18518,Radius,34.5,SD,Bronze - Iron Age,-800 -- 43
+1720,ABMAP18519,Radius,65.5,BFp,Bronze - Iron Age,-800 -- 43
+1721,ABMAP18519,Radius,73.6,Bp,Bronze - Iron Age,-800 -- 43
+1722,ABMAP18519,Radius,32.0,SD,Bronze - Iron Age,-800 -- 43
+1747,ABMAP18520,Radius,69.6,Bd,Bronze - Iron Age,-1000 -- -400
+1748,ABMAP18520,Radius,55.6,BFd,Bronze - Iron Age,-1000 -- -400
+1749,ABMAP18520,Radius,68.6,BFp,Bronze - Iron Age,-1000 -- -400
+1750,ABMAP18520,Radius,76.9,Bp,Bronze - Iron Age,-1000 -- -400
+1751,ABMAP18520,Radius,323.0,GL,Bronze - Iron Age,-1000 -- -400
+1752,ABMAP18520,Radius,311.0,Ll,Bronze - Iron Age,-1000 -- -400
+1753,ABMAP18520,Radius,35.3,SD,Bronze - Iron Age,-1000 -- -400
+1778,ABMAP26991,Radius,73.9,Bd,Roman - Saxon,900 -- 1099
+1779,ABMAP26991,Radius,62.4,BFd,Roman - Saxon,900 -- 1099
+1780,ABMAP26991,Radius,333.0,GL,Roman - Saxon,900 -- 1099
+1840,ABMAP877,Radius,65.3,BFd,Roman - Saxon,43 -- 410
+1841,ABMAP877,Radius,342.0,GL,Roman - Saxon,43 -- 410
+1842,ABMAP877,Radius,34.3,SD,Roman - Saxon,43 -- 410
+1858,ABMAP1097,Radius,75.1,BFp,Roman - Saxon,43 -- 410
+1930,ABMAP1197,Radius,70.3,BFp,Roman - Saxon,43 -- 410
+1931,ABMAP1197,Radius,75.9,Bp,Roman - Saxon,43 -- 410
+1938,ABMAP1275,Radius,63.2,Bd,Roman - Saxon,43 -- 410
+1939,ABMAP1275,Radius,58.0,BFd,Roman - Saxon,43 -- 410
+1952,ABMAP838,Radius,72.4,BFp,Roman - Saxon,43 -- 410
+1962,ABMAP3542,Radius,309.0,GL,Roman - Saxon,200 -- 410
+1963,ABMAP3542,Radius,297.0,Ll,Roman - Saxon,200 -- 410
+1964,ABMAP3542,Radius,32.0,SD,Roman - Saxon,200 -- 410
+1965,ABMAP3543,Radius,65.1,Bp,Roman - Saxon,200 -- 410
+1966,ABMAP3543,Radius,298.0,GL,Roman - Saxon,200 -- 410
+1967,ABMAP3543,Radius,293.0,Ll,Roman - Saxon,200 -- 410
+1968,ABMAP3541,Radius,63.8,Bd,Roman - Saxon,200 -- 410
+1969,ABMAP3541,Radius,69.8,Bp,Roman - Saxon,200 -- 410
+1970,ABMAP3541,Radius,307.0,GL,Roman - Saxon,200 -- 410
+1971,ABMAP3541,Radius,297.0,Ll,Roman - Saxon,200 -- 410
+1972,ABMAP3541,Radius,32.5,SD,Roman - Saxon,200 -- 410
+1974,ABMAP35,Radius,42.0,SD,Medieval,1000 -- 1199
+1977,ABMAP8905,Radius,69.5,Bp,Bronze - Iron Age,-299 -- -100
+1987,ABMAP9071,Radius,74.5,Bp,Bronze - Iron Age,-299 -- -100
+2004,ABMAP9066,Radius,71.0,Bd,Bronze - Iron Age,-299 -- -100
+2073,J_GRIMM_08WA58571-68,Radius,58.7,Bd,Roman - Saxon,43 -- 410
+2074,J_GRIMM_08WA58571-68,Radius,48.4,BFd,Roman - Saxon,43 -- 410
+2075,J_GRIMM_08WA58571-68,Radius,58.5,BFp,Roman - Saxon,43 -- 410
+2076,J_GRIMM_08WA58571-68,Radius,65.9,Bp,Roman - Saxon,43 -- 410
+2077,J_GRIMM_08WA58571-68,Radius,327.0,GL,Roman - Saxon,43 -- 410
+2078,J_GRIMM_08WA58571-68,Radius,31.3,SD,Roman - Saxon,43 -- 410
+2109,J_GRIMM_08WA58720-30,Radius,111.0,CD,Medieval,1075 -- 1125
+2110,J_GRIMM_08WA58720-30,Radius,38.2,SD,Medieval,1075 -- 1125
+2156,J_GRIMM_08WA59480-1343,Radius,69.0,Bd,Bronze - Iron Age,100 -- 150
+2157,J_GRIMM_08WA59480-1343,Radius,54.2,BFd,Bronze - Iron Age,100 -- 150
+2158,J_GRIMM_08WA59480-1343,Radius,67.8,BFp,Bronze - Iron Age,100 -- 150
+2159,J_GRIMM_08WA59480-1343,Radius,86.5,CD,Bronze - Iron Age,100 -- 150
+2160,J_GRIMM_08WA59480-1343,Radius,297.0,GL,Bronze - Iron Age,100 -- 150
+2161,J_GRIMM_08WA59480-1343,Radius,33.1,SD,Bronze - Iron Age,100 -- 150
+2257,J_GRIMM_08WA61900-1,Radius,70.2,Bd,Medieval,1100 -- 1299
+2258,J_GRIMM_08WA61900-1,Radius,58.1,BFd,Medieval,1100 -- 1299
+2259,J_GRIMM_08WA61900-1,Radius,70.0,BFp,Medieval,1100 -- 1299
+2260,J_GRIMM_08WA61900-1,Radius,105.0,CD,Medieval,1100 -- 1299
+2261,J_GRIMM_08WA61900-1,Radius,320.0,GL,Medieval,1100 -- 1299
+2262,J_GRIMM_08WA61900-1,Radius,35.2,SD,Medieval,1100 -- 1299
+2272,J_GRIMM_08WA61900-668,Radius,70.4,BFp,Roman - Saxon,43 -- 410
+2273,J_GRIMM_08WA61900-668,Radius,75.4,Bp,Roman - Saxon,43 -- 410
+2274,J_GRIMM_08WA61900-668,Radius,97.0,CD,Roman - Saxon,43 -- 410
+2275,J_GRIMM_08WA61900-668,Radius,33.7,SD,Roman - Saxon,43 -- 410
+2276,J_GRIMM_08WA61900-583,Radius,68.5,Bd,Roman - Saxon,43 -- 410
+2277,J_GRIMM_08WA61900-583,Radius,64.3,BFd,Roman - Saxon,43 -- 410
+2278,J_GRIMM_08WA61900-583,Radius,70.1,BFp,Roman - Saxon,43 -- 410
+2279,J_GRIMM_08WA61900-583,Radius,77.4,Bp,Roman - Saxon,43 -- 410
+2280,J_GRIMM_08WA61900-583,Radius,105.5,CD,Roman - Saxon,43 -- 410
+2281,J_GRIMM_08WA61900-583,Radius,330.0,GL,Roman - Saxon,43 -- 410
+2282,J_GRIMM_08WA61900-583,Radius,36.4,SD,Roman - Saxon,43 -- 410
+2283,J_GRIMM_08WA61900-364,Radius,62.1,BFp,Bronze - Iron Age,-700 -- 43
+2284,J_GRIMM_08WA61900-364,Radius,68.3,Bp,Bronze - Iron Age,-700 -- 43
+2323,J_GRIMM_08WA63220-2568,Radius,71.8,Bd,Roman - Saxon,850 -- 1066
+2324,J_GRIMM_08WA63220-2568,Radius,60.2,BFd,Roman - Saxon,850 -- 1066
+2325,J_GRIMM_08WA63220-2568,Radius,107.0,CD,Roman - Saxon,850 -- 1066
+2326,J_GRIMM_08WA63220-2568,Radius,38.0,SD,Roman - Saxon,850 -- 1066
+2327,J_GRIMM_08WA63220-2748,Radius,70.3,BFp,Roman - Saxon,850 -- 1066
+2328,J_GRIMM_08WA63220-2748,Radius,76.7,Bp,Roman - Saxon,850 -- 1066
+2337,J_GRIMM_08WA63220-3539,Radius,73.0,Bd,Roman - Saxon,850 -- 1066
+2338,J_GRIMM_08WA63220-3539,Radius,60.8,BFd,Roman - Saxon,850 -- 1066
+2339,J_GRIMM_08WA63220-3539,Radius,71.0,BFp,Roman - Saxon,850 -- 1066
+2340,J_GRIMM_08WA63220-3539,Radius,77.1,Bp,Roman - Saxon,850 -- 1066
+2341,J_GRIMM_08WA63220-3539,Radius,108.0,CD,Roman - Saxon,850 -- 1066
+2342,J_GRIMM_08WA63220-3539,Radius,316.0,GL,Roman - Saxon,850 -- 1066
+2343,J_GRIMM_08WA63220-3539,Radius,36.7,SD,Roman - Saxon,850 -- 1066
+2354,J_GRIMM_08WA64560-103,Radius,312.0,GL,Roman - Saxon,410 -- 650
+2355,J_GRIMM_08WA64560-103,Radius,37.3,SD,Roman - Saxon,410 -- 650
+2385,ABMAP13885,Radius,62.2,Bd,Medieval,1300 -- 1499
+2386,ABMAP13885,Radius,52.5,BFd,Medieval,1300 -- 1499
+2387,ABMAP13885,Radius,66.0,BFp,Medieval,1300 -- 1499
+2388,ABMAP13885,Radius,71.9,Bp,Medieval,1300 -- 1499
+2389,ABMAP13885,Radius,300.0,GL,Medieval,1300 -- 1499
+2390,ABMAP13885,Radius,290.7,Ll,Medieval,1300 -- 1499
+2391,ABMAP13885,Radius,30.3,SD,Medieval,1300 -- 1499
+2416,ABMAP13913,Radius,71.0,Bd,Medieval,1300 -- 1499
+2417,ABMAP13913,Radius,72.8,BFp,Medieval,1300 -- 1499
+2418,ABMAP13913,Radius,78.8,Bp,Medieval,1300 -- 1499
+2419,ABMAP13913,Radius,308.0,GL,Medieval,1300 -- 1499
+2420,ABMAP13913,Radius,33.2,SD,Medieval,1300 -- 1499
+2461,ABMAP1451,Radius,71.6,Bd,Bronze - Iron Age,-100 -- -43
+2462,ABMAP1451,Radius,64.0,BFd,Bronze - Iron Age,-100 -- -43
+2484,ABMAP1460,Radius,73.9,Bd,Roman - Saxon,43 -- 199
+2485,ABMAP1460,Radius,61.1,BFd,Roman - Saxon,43 -- 199
+2504,ABMAP16163,Radius,61.2,Bd,Bronze - Iron Age,-400 -- -100
+2505,ABMAP16163,Radius,54.1,BFd,Bronze - Iron Age,-400 -- -100
+2538,ABMAP15710,Radius,64.0,Bd,Bronze - Iron Age,-400 -- -100
+2539,ABMAP15710,Radius,54.1,BFd,Bronze - Iron Age,-400 -- -100
+2540,ABMAP15710,Radius,61.9,BFp,Bronze - Iron Age,-400 -- -100
+2541,ABMAP15710,Radius,66.3,Bp,Bronze - Iron Age,-400 -- -100
+2542,ABMAP15710,Radius,266.1,GL,Bronze - Iron Age,-400 -- -100
+2543,ABMAP15710,Radius,253.1,Ll,Bronze - Iron Age,-400 -- -100
+2544,ABMAP15710,Radius,32.9,SD,Bronze - Iron Age,-400 -- -100
+2582,ABMAP15682,Radius,65.3,Bd,Bronze - Iron Age,-400 -- -100
+2583,ABMAP15682,Radius,53.2,BFd,Bronze - Iron Age,-400 -- -100
+2584,ABMAP15682,Radius,63.3,BFp,Bronze - Iron Age,-400 -- -100
+2585,ABMAP15682,Radius,69.8,Bp,Bronze - Iron Age,-400 -- -100
+2586,ABMAP15682,Radius,282.5,Ll,Bronze - Iron Age,-400 -- -100
+2587,ABMAP15682,Radius,31.6,SD,Bronze - Iron Age,-400 -- -100
+2606,ABMAP15694,Radius,67.7,Bd,Bronze - Iron Age,-400 -- -100
+2607,ABMAP15694,Radius,58.2,BFd,Bronze - Iron Age,-400 -- -100
+2608,ABMAP15694,Radius,67.0,BFp,Bronze - Iron Age,-400 -- -100
+2609,ABMAP15694,Radius,73.1,Bp,Bronze - Iron Age,-400 -- -100
+2610,ABMAP15694,Radius,295.6,GL,Bronze - Iron Age,-400 -- -100
+2611,ABMAP15694,Radius,276.5,Ll,Bronze - Iron Age,-400 -- -100
+2612,ABMAP15694,Radius,35.9,SD,Bronze - Iron Age,-400 -- -100
+2619,ABMAP16138,Radius,52.6,BFd,Roman - Saxon,43 -- 410
+2620,ABMAP16141,Radius,72.8,Bd,Roman - Saxon,43 -- 410
+2621,ABMAP16141,Radius,62.1,BFd,Roman - Saxon,43 -- 410
+2633,ABMAP16115,Radius,65.6,Bd,Bronze - Iron Age,-400 -- -100
+2634,ABMAP16115,Radius,55.3,BFd,Bronze - Iron Age,-400 -- -100
+2635,ABMAP16115,Radius,63.6,BFp,Bronze - Iron Age,-400 -- -100
+2636,ABMAP16115,Radius,69.9,Bp,Bronze - Iron Age,-400 -- -100
+2637,ABMAP16115,Radius,281.8,GL,Bronze - Iron Age,-400 -- -100
+2638,ABMAP16115,Radius,274.3,Ll,Bronze - Iron Age,-400 -- -100
+2639,ABMAP16115,Radius,29.9,SD,Bronze - Iron Age,-400 -- -100
+2666,ABMAP15775,Radius,66.9,Bd,Bronze - Iron Age,-400 -- -100
+2667,ABMAP15775,Radius,54.9,BFd,Bronze - Iron Age,-400 -- -100
+2668,ABMAP16262,Radius,67.8,Bd,Bronze - Iron Age,-400 -- -100
+2669,ABMAP16262,Radius,57.5,BFd,Bronze - Iron Age,-400 -- -100
+2670,ABMAP15687,Radius,60.6,Bd,Bronze - Iron Age,-400 -- -100
+2671,ABMAP15687,Radius,52.7,BFd,Bronze - Iron Age,-400 -- -100
+2672,ABMAP15687,Radius,61.9,BFp,Bronze - Iron Age,-400 -- -100
+2673,ABMAP15687,Radius,65.5,Bp,Bronze - Iron Age,-400 -- -100
+2674,ABMAP15687,Radius,278.9,GL,Bronze - Iron Age,-400 -- -100
+2695,ABMAP16205,Radius,81.0,Bd,Roman - Saxon,43 -- 410
+2696,ABMAP16205,Radius,69.5,BFd,Roman - Saxon,43 -- 410
+2705,ABMAP15818,Radius,67.1,BFd,Roman - Saxon,43 -- 410
+2706,ABMAP15818,Radius,79.2,BFp,Roman - Saxon,43 -- 410
+2707,ABMAP15818,Radius,346.1,GL,Roman - Saxon,43 -- 410
+2708,ABMAP15818,Radius,335.0,Ll,Roman - Saxon,43 -- 410
+2709,ABMAP15819,Radius,71.5,Bd,Roman - Saxon,43 -- 410
+2710,ABMAP15819,Radius,60.8,BFd,Roman - Saxon,43 -- 410
+2715,ABMAP16078,Radius,335.0,Ll,Roman - Saxon,43 -- 410
+2755,ABMAP8660,Radius,71.0,Bp,Roman - Saxon,43 -- 100
+2756,ABMAP8660,Radius,294.0,GL,Roman - Saxon,43 -- 100
+2793,ABMAP428,Radius,52.9,BFd,Bronze - Iron Age,-50 -- 75
+2794,ABMAP428,Radius,61.9,BFp,Bronze - Iron Age,-50 -- 75
+2795,ABMAP428,Radius,70.7,Bp,Bronze - Iron Age,-50 -- 75
+2796,ABMAP428,Radius,317.0,GL,Bronze - Iron Age,-50 -- 75
+2797,ABMAP428,Radius,31.1,SD,Bronze - Iron Age,-50 -- 75
+2819,ABMAP435,Radius,62.6,Bd,Bronze - Iron Age,-50 -- 75
+2820,ABMAP435,Radius,50.5,BFd,Bronze - Iron Age,-50 -- 75
+2821,ABMAP435,Radius,290.0,GL,Bronze - Iron Age,-50 -- 75
+2822,ABMAP435,Radius,30.7,SD,Bronze - Iron Age,-50 -- 75
+2824,ABMAP335,Radius,55.8,BFd,Bronze - Iron Age,-199 -- 0
+2825,ABMAP335,Radius,65.2,BFp,Bronze - Iron Age,-199 -- 0
+2826,ABMAP335,Radius,71.9,Bp,Bronze - Iron Age,-199 -- 0
+2827,ABMAP335,Radius,307.0,GL,Bronze - Iron Age,-199 -- 0
+2828,ABMAP335,Radius,296.0,Ll,Bronze - Iron Age,-199 -- 0
+2829,ABMAP335,Radius,33.2,SD,Bronze - Iron Age,-199 -- 0
+2871,ABMAP9242,Radius,66.1,BFp,Bronze - Iron Age,0 -- 99
+2899,ABMAP14337,Radius,64.5,Bd,Roman - Saxon,43 -- 410
+2900,ABMAP14337,Radius,55.3,BFd,Roman - Saxon,43 -- 410
+2901,ABMAP14337,Radius,64.8,BFp,Roman - Saxon,43 -- 410
+2902,ABMAP14337,Radius,71.0,Bp,Roman - Saxon,43 -- 410
+2903,ABMAP14337,Radius,307.6,GL,Roman - Saxon,43 -- 410
+2904,ABMAP14337,Radius,256.4,Ll,Roman - Saxon,43 -- 410
+2905,ABMAP14337,Radius,32.8,SD,Roman - Saxon,43 -- 410
+2911,ABMAP14280,Radius,72.2,Bd,Roman - Saxon,43 -- 410
+2912,ABMAP14280,Radius,61.0,BFd,Roman - Saxon,43 -- 410
+2913,ABMAP14280,Radius,39.5,SD,Roman - Saxon,43 -- 410
+2953,ABMAP14433,Radius,63.9,Bd,Roman - Saxon,43 -- 410
+2954,ABMAP14433,Radius,56.3,BFd,Roman - Saxon,43 -- 410
+2955,ABMAP14433,Radius,29.2,SD,Roman - Saxon,43 -- 410
+2956,ABMAP14434,Radius,63.1,Bd,Roman - Saxon,43 -- 410
+2957,ABMAP14434,Radius,56.5,BFd,Roman - Saxon,43 -- 410
+2958,ABMAP14434,Radius,68.0,BFp,Roman - Saxon,43 -- 410
+2959,ABMAP14434,Radius,72.9,Bp,Roman - Saxon,43 -- 410
+2960,ABMAP14434,Radius,278.0,GL,Roman - Saxon,43 -- 410
+2961,ABMAP14434,Radius,29.0,SD,Roman - Saxon,43 -- 410
+2984,ABMAP14460,Radius,61.7,Bd,Roman - Saxon,43 -- 410
+2985,ABMAP14460,Radius,53.8,BFd,Roman - Saxon,43 -- 410
+3019,ABMAP14449,Radius,64.0,Bd,Roman - Saxon,43 -- 410
+3020,ABMAP14449,Radius,57.2,BFd,Roman - Saxon,43 -- 410
+3021,ABMAP14449,Radius,35.3,SD,Roman - Saxon,43 -- 410
+3065,ABMAP10843,Radius,71.4,Bd,Roman - Saxon,200 -- 410
+3066,ABMAP10843,Radius,58.6,BFd,Roman - Saxon,200 -- 410
+3067,ABMAP10843,Radius,68.8,BFp,Roman - Saxon,200 -- 410
+3068,ABMAP10843,Radius,76.4,Bp,Roman - Saxon,200 -- 410
+3069,ABMAP10843,Radius,315.0,GL,Roman - Saxon,200 -- 410
+3070,ABMAP10843,Radius,33.3,SD,Roman - Saxon,200 -- 410

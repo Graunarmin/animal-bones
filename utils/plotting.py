@@ -1,18 +1,30 @@
 from matplotlib import pyplot as plt
+import plotting_helpers as hp
+import color as clr
 
 
-def simple_bar_chart(x_data, y_data, title):
+def vertical_bar_chart(x_data, y_data, title, data_label, label_rotation_threshold=10):
     """
     Creates a barchart
     :param x_data: data for the x-position of the bar
     :param y_data: data for the bar-length
     :param title: title of the plot
+    :param data_label:
+    :param label_rotation_threshold: if there are more values than this on x, rotate the labels
     :return:
     """
     fig, ax = plt.subplots()
-    ax.bar(x_data, y_data)
-    for tick in ax.get_xticklabels():
-        tick.set_rotation(45)
+
+    x_indexes = hp.create_indexes_from_list_values(x_data)
+    bar_width = 0.25
+
+    ax.bar(x_indexes, y_data, width=bar_width, color=clr.Color.PINK, label=data_label)
+
+    ax.set_xticks(ticks=x_indexes, labels=x_data)
+
+    if len(x_data) > label_rotation_threshold:
+        for tick in ax.get_xticklabels():
+            tick.set_rotation(45)
 
     __show_plot(ax, fig, title)
 

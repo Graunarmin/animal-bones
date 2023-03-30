@@ -1,0 +1,538 @@
+,BONEID,ELEMENT,MEASURE,MEASTYPE,PERIOD,RANGE
+102,ABMAP2153,Metatarsal,45.1,Bd,Roman - Saxon,43 -- 199
+103,ABMAP2153,Metatarsal,45.9,Bp,Roman - Saxon,43 -- 199
+104,ABMAP2153,Metatarsal,42.4,Dp,Roman - Saxon,43 -- 199
+105,ABMAP2153,Metatarsal,191.5,Ll,Roman - Saxon,43 -- 199
+106,ABMAP2153,Metatarsal,27.9,SD,Roman - Saxon,43 -- 199
+145,ABMAP3025,Metatarsal,48.5,Bd,Roman - Saxon,833 -- 966
+177,ABMAP85,Metatarsal,50.5,Bd,Roman - Saxon,775 -- 800
+178,ABMAP85,Metatarsal,50.0,Bp,Roman - Saxon,775 -- 800
+179,ABMAP85,Metatarsal,271.0,GL,Roman - Saxon,775 -- 800
+180,ABMAP85,Metatarsal,30.5,SD,Roman - Saxon,775 -- 800
+195,ABMAP84,Metatarsal,50.0,Bd,Roman - Saxon,840 -- 860
+196,ABMAP84,Metatarsal,259.0,GLl,Roman - Saxon,840 -- 860
+197,ABMAP84,Metatarsal,31.4,SD,Roman - Saxon,840 -- 860
+207,ABMAP83,Metatarsal,51.5,Bd,Roman - Saxon,775 -- 800
+208,ABMAP83,Metatarsal,50.0,Bp,Roman - Saxon,775 -- 800
+209,ABMAP83,Metatarsal,263.0,GL,Roman - Saxon,775 -- 800
+210,ABMAP83,Metatarsal,255.0,GLl,Roman - Saxon,775 -- 800
+211,ABMAP83,Metatarsal,32.3,SD,Roman - Saxon,775 -- 800
+250,ABMAP17069,Metatarsal,49.0,Bd,Bronze - Iron Age,-800 -- -100
+251,ABMAP17069,Metatarsal,45.7,Bp,Bronze - Iron Age,-800 -- -100
+252,ABMAP17069,Metatarsal,42.4,Dp,Bronze - Iron Age,-800 -- -100
+253,ABMAP17069,Metatarsal,252.2,GL,Bronze - Iron Age,-800 -- -100
+254,ABMAP17069,Metatarsal,249.4,Ll,Bronze - Iron Age,-800 -- -100
+255,ABMAP17069,Metatarsal,29.8,SD,Bronze - Iron Age,-800 -- -100
+256,ABMAP17069,Metatarsal,24.4,TD,Bronze - Iron Age,-800 -- -100
+276,ABMAP30463,Metatarsal,46.0,Bd,Roman - Saxon,900 -- 1032
+277,ABMAP30463,Metatarsal,260.0,GL,Roman - Saxon,900 -- 1032
+278,ABMAP30463,Metatarsal,28.0,SD,Roman - Saxon,900 -- 1032
+291,ABMAP26003,Metatarsal,42.5,Bd,Roman - Saxon,700 -- 732
+292,ABMAP26003,Metatarsal,247.0,GL,Roman - Saxon,700 -- 732
+293,ABMAP26003,Metatarsal,241.1,Ll,Roman - Saxon,700 -- 732
+294,ABMAP26003,Metatarsal,28.4,SD,Roman - Saxon,700 -- 732
+295,ABMAP26004,Metatarsal,42.6,Bd,Roman - Saxon,700 -- 732
+296,ABMAP26004,Metatarsal,248.5,GL,Roman - Saxon,700 -- 732
+297,ABMAP26004,Metatarsal,244.0,Ll,Roman - Saxon,700 -- 732
+298,ABMAP26004,Metatarsal,27.9,SD,Roman - Saxon,700 -- 732
+331,ABMAP26005,Metatarsal,51.6,Bd,Roman - Saxon,700 -- 732
+332,ABMAP26005,Metatarsal,55.3,Bp,Roman - Saxon,700 -- 732
+333,ABMAP26005,Metatarsal,47.8,Dp,Roman - Saxon,700 -- 732
+334,ABMAP26005,Metatarsal,272.0,GL,Roman - Saxon,700 -- 732
+335,ABMAP26005,Metatarsal,265.0,Ll,Roman - Saxon,700 -- 732
+336,ABMAP26005,Metatarsal,33.9,SD,Roman - Saxon,700 -- 732
+358,ABMAP26125,Metatarsal,47.6,Bd,Roman - Saxon,733 -- 832
+359,ABMAP26125,Metatarsal,257.0,GL,Roman - Saxon,733 -- 832
+360,ABMAP26125,Metatarsal,255.0,Ll,Roman - Saxon,733 -- 832
+361,ABMAP26125,Metatarsal,30.2,SD,Roman - Saxon,733 -- 832
+380,ABMAP26126,Metatarsal,46.3,Bd,Roman - Saxon,733 -- 832
+381,ABMAP26126,Metatarsal,41.9,Bp,Roman - Saxon,733 -- 832
+382,ABMAP26126,Metatarsal,46.9,Dp,Roman - Saxon,733 -- 832
+383,ABMAP26126,Metatarsal,256.1,GL,Roman - Saxon,733 -- 832
+384,ABMAP26126,Metatarsal,30.4,SD,Roman - Saxon,733 -- 832
+463,ABMAP25553,Metatarsal,48.2,Bd,Roman - Saxon,833 -- 932
+464,ABMAP25553,Metatarsal,48.8,Bp,Roman - Saxon,833 -- 932
+465,ABMAP25553,Metatarsal,39.5,Dp,Roman - Saxon,833 -- 932
+466,ABMAP25553,Metatarsal,257.4,GL,Roman - Saxon,833 -- 932
+467,ABMAP25553,Metatarsal,253.6,Ll,Roman - Saxon,833 -- 932
+468,ABMAP25553,Metatarsal,31.5,SD,Roman - Saxon,833 -- 932
+469,ABMAP25553,Metatarsal,24.3,TD,Roman - Saxon,833 -- 932
+470,ABMAP25554,Metatarsal,49.6,Bd,Roman - Saxon,833 -- 932
+471,ABMAP25554,Metatarsal,48.9,Bp,Roman - Saxon,833 -- 932
+472,ABMAP25554,Metatarsal,40.5,Dp,Roman - Saxon,833 -- 932
+473,ABMAP25554,Metatarsal,257.0,GL,Roman - Saxon,833 -- 932
+474,ABMAP25554,Metatarsal,255.0,Ll,Roman - Saxon,833 -- 932
+475,ABMAP25554,Metatarsal,30.8,SD,Roman - Saxon,833 -- 932
+476,ABMAP25554,Metatarsal,24.4,TD,Roman - Saxon,833 -- 932
+515,ABMAP26515,Metatarsal,48.2,Bd,Roman - Saxon,833 -- 932
+516,ABMAP26515,Metatarsal,48.8,Bp,Roman - Saxon,833 -- 932
+517,ABMAP26515,Metatarsal,39.5,Dp,Roman - Saxon,833 -- 932
+518,ABMAP26515,Metatarsal,257.4,GL,Roman - Saxon,833 -- 932
+519,ABMAP26515,Metatarsal,253.6,Ll,Roman - Saxon,833 -- 932
+520,ABMAP26515,Metatarsal,31.5,SD,Roman - Saxon,833 -- 932
+521,ABMAP26515,Metatarsal,24.3,TD,Roman - Saxon,833 -- 932
+522,ABMAP26516,Metatarsal,49.6,Bd,Roman - Saxon,833 -- 932
+523,ABMAP26516,Metatarsal,48.9,Bp,Roman - Saxon,833 -- 932
+524,ABMAP26516,Metatarsal,40.5,Dp,Roman - Saxon,833 -- 932
+525,ABMAP26516,Metatarsal,257.0,GL,Roman - Saxon,833 -- 932
+526,ABMAP26516,Metatarsal,255.0,Ll,Roman - Saxon,833 -- 932
+527,ABMAP26516,Metatarsal,30.8,SD,Roman - Saxon,833 -- 932
+528,ABMAP26516,Metatarsal,24.4,TD,Roman - Saxon,833 -- 932
+562,ABMAP5431,Metatarsal,26.8,CD,Bronze - Iron Age,-800 -- 43
+563,ABMAP5431,Metatarsal,239.7,GL,Bronze - Iron Age,-800 -- 43
+564,ABMAP5431,Metatarsal,25.5,SD,Bronze - Iron Age,-800 -- 43
+569,ABMAP5426,Metatarsal,41.2,Bp,Bronze - Iron Age,-800 -- 43
+570,ABMAP5426,Metatarsal,24.4,CD,Bronze - Iron Age,-800 -- 43
+571,ABMAP5426,Metatarsal,36.8,Dp,Bronze - Iron Age,-800 -- 43
+572,ABMAP5426,Metatarsal,232.3,GL,Bronze - Iron Age,-800 -- 43
+573,ABMAP5426,Metatarsal,25.6,SD,Bronze - Iron Age,-800 -- 43
+574,ABMAP13832,Metatarsal,30.5,SD,Roman - Saxon,43 -- 199
+575,ABMAP13832,Metatarsal,25.0,TD,Roman - Saxon,43 -- 199
+650,ABMAP2983,Metatarsal,44.3,Bd,Medieval,1200 -- 1399
+651,ABMAP2983,Metatarsal,40.8,Bp,Medieval,1200 -- 1399
+652,ABMAP2983,Metatarsal,247.0,GL,Medieval,1200 -- 1399
+653,ABMAP2983,Metatarsal,239.0,GLl,Medieval,1200 -- 1399
+654,ABMAP2983,Metatarsal,31.7,SD,Medieval,1200 -- 1399
+701,ABMAP16581,Metatarsal,52.7,Bp,Medieval,1139 -- 1200
+702,ABMAP16581,Metatarsal,47.4,Dp,Medieval,1139 -- 1200
+713,ABMAP16582,Metatarsal,42.7,Bd,Medieval,1139 -- 1200
+774,ABMAP478,Metatarsal,48.3,Bd,Bronze - Iron Age,-100 -- -43
+775,ABMAP478,Metatarsal,49.8,Bp,Bronze - Iron Age,-100 -- -43
+776,ABMAP478,Metatarsal,42.9,Dp,Bronze - Iron Age,-100 -- -43
+777,ABMAP478,Metatarsal,215.0,GL,Bronze - Iron Age,-100 -- -43
+778,ABMAP478,Metatarsal,210.6,Ll,Bronze - Iron Age,-100 -- -43
+779,ABMAP478,Metatarsal,28.4,SD,Bronze - Iron Age,-100 -- -43
+780,ABMAP479,Metatarsal,45.4,Bp,Bronze - Iron Age,-100 -- -43
+781,ABMAP479,Metatarsal,41.2,Dp,Bronze - Iron Age,-100 -- -43
+782,ABMAP479,Metatarsal,249.1,GL,Bronze - Iron Age,-100 -- -43
+783,ABMAP479,Metatarsal,247.2,Ll,Bronze - Iron Age,-100 -- -43
+784,ABMAP479,Metatarsal,28.3,SD,Bronze - Iron Age,-100 -- -43
+788,ABMAP523,Metatarsal,42.0,Bp,Bronze - Iron Age,-100 -- -43
+789,ABMAP523,Metatarsal,34.8,Dp,Bronze - Iron Age,-100 -- -43
+807,ABMAP496,Metatarsal,49.1,Bd,Bronze - Iron Age,-100 -- -43
+808,ABMAP496,Metatarsal,47.0,Bp,Bronze - Iron Age,-100 -- -43
+809,ABMAP496,Metatarsal,43.9,Dp,Bronze - Iron Age,-100 -- -43
+810,ABMAP496,Metatarsal,235.0,GL,Bronze - Iron Age,-100 -- -43
+811,ABMAP496,Metatarsal,241.0,Ll,Bronze - Iron Age,-100 -- -43
+812,ABMAP496,Metatarsal,29.3,SD,Bronze - Iron Age,-100 -- -43
+863,ABMAP584,Metatarsal,45.9,Bd,Bronze - Iron Age,-100 -- -43
+864,ABMAP584,Metatarsal,44.8,Bp,Bronze - Iron Age,-100 -- -43
+865,ABMAP584,Metatarsal,39.2,Dp,Bronze - Iron Age,-100 -- -43
+866,ABMAP584,Metatarsal,239.0,GL,Bronze - Iron Age,-100 -- -43
+867,ABMAP584,Metatarsal,29.0,SD,Bronze - Iron Age,-100 -- -43
+875,ABMAP543,Metatarsal,46.0,Bd,Bronze - Iron Age,-100 -- -43
+876,ABMAP543,Metatarsal,46.1,Bp,Bronze - Iron Age,-100 -- -43
+877,ABMAP543,Metatarsal,40.3,Dp,Bronze - Iron Age,-100 -- -43
+878,ABMAP543,Metatarsal,247.0,GL,Bronze - Iron Age,-100 -- -43
+879,ABMAP543,Metatarsal,244.0,Ll,Bronze - Iron Age,-100 -- -43
+880,ABMAP543,Metatarsal,27.9,SD,Bronze - Iron Age,-100 -- -43
+918,ABMAP29003,Metatarsal,50.2,Bd,Medieval,1100 -- 1250
+919,ABMAP29003,Metatarsal,38.1,Dd,Medieval,1100 -- 1250
+927,ABMAP28571,Metatarsal,46.4,Bd,Medieval,1450 -- 1800
+928,ABMAP28571,Metatarsal,37.8,Dd,Medieval,1450 -- 1800
+929,ABMAP28571,Metatarsal,28.3,SD,Medieval,1450 -- 1800
+944,ABMAP29036,Metatarsal,47.5,Bd,Medieval,1250 -- 1400
+945,ABMAP29036,Metatarsal,34.7,Dd,Medieval,1250 -- 1400
+946,ABMAP29036,Metatarsal,249.7,GL,Medieval,1250 -- 1400
+947,ABMAP29036,Metatarsal,30.6,SD,Medieval,1250 -- 1400
+967,ABMAP28691,Metatarsal,47.0,Bd,Medieval,1450 -- 1800
+968,ABMAP28696,Metatarsal,41.2,Bd,Medieval,1300 -- 1450
+969,ABMAP28696,Metatarsal,33.4,Dd,Medieval,1300 -- 1450
+970,ABMAP28696,Metatarsal,242.8,GL,Medieval,1300 -- 1450
+971,ABMAP28696,Metatarsal,26.0,SD,Medieval,1300 -- 1450
+978,ABMAP28700,Metatarsal,244.0,GL,Medieval,1250 -- 1400
+1004,ABMAP29246,Metatarsal,46.6,Bd,Medieval,1300 -- 1450
+1005,ABMAP29246,Metatarsal,37.2,Dd,Medieval,1300 -- 1450
+1006,ABMAP29246,Metatarsal,256.4,GL,Medieval,1300 -- 1450
+1007,ABMAP29246,Metatarsal,28.5,SD,Medieval,1300 -- 1450
+1008,ABMAP29248,Metatarsal,46.1,Bd,Medieval,1300 -- 1450
+1009,ABMAP29248,Metatarsal,36.2,Dd,Medieval,1300 -- 1450
+1010,ABMAP29248,Metatarsal,254.8,GL,Medieval,1300 -- 1450
+1011,ABMAP29248,Metatarsal,27.2,SD,Medieval,1300 -- 1450
+1012,ABMAP29253,Metatarsal,43.9,Bd,Medieval,1300 -- 1450
+1028,ABMAP29268,Metatarsal,261.7,GL,Medieval,1450 -- 1800
+1099,ABMAP29380,Metatarsal,42.9,Bd,Medieval,1100 -- 1250
+1100,ABMAP29380,Metatarsal,249.4,GL,Medieval,1100 -- 1250
+1101,ABMAP29380,Metatarsal,24.7,SD,Medieval,1100 -- 1250
+1121,ABMAP29417,Metatarsal,49.1,Bd,Medieval,1100 -- 1250
+1122,ABMAP29417,Metatarsal,38.2,Dd,Medieval,1100 -- 1250
+1156,ABMAP29431,Metatarsal,43.6,Bd,Roman - Saxon,950 -- 1100
+1157,ABMAP29431,Metatarsal,33.0,Dd,Roman - Saxon,950 -- 1100
+1158,ABMAP29431,Metatarsal,235.4,GL,Roman - Saxon,950 -- 1100
+1159,ABMAP29431,Metatarsal,26.6,SD,Roman - Saxon,950 -- 1100
+1165,ABMAP29506,Metatarsal,45.2,Bd,Roman - Saxon,950 -- 1100
+1166,ABMAP29506,Metatarsal,36.5,Dd,Roman - Saxon,950 -- 1100
+1167,ABMAP29506,Metatarsal,262.1,GL,Roman - Saxon,950 -- 1100
+1168,ABMAP29506,Metatarsal,30.1,SD,Roman - Saxon,950 -- 1100
+1176,ABMAP28763,Metatarsal,44.7,Bd,Medieval,1300 -- 1450
+1177,ABMAP28763,Metatarsal,34.7,Dd,Medieval,1300 -- 1450
+1178,ABMAP28763,Metatarsal,28.1,SD,Medieval,1300 -- 1450
+1207,ABMAP28739,Metatarsal,48.5,Bd,Medieval,1300 -- 1450
+1223,ABMAP28804,Metatarsal,46.1,Bd,Medieval,1100 -- 1250
+1224,ABMAP28804,Metatarsal,36.3,Dd,Medieval,1100 -- 1250
+1225,ABMAP28805,Metatarsal,46.4,Bd,Medieval,1100 -- 1250
+1226,ABMAP28805,Metatarsal,35.8,Dd,Medieval,1100 -- 1250
+1227,ABMAP28805,Metatarsal,253.0,GL,Medieval,1100 -- 1250
+1235,ABMAP28810,Metatarsal,45.1,Bd,Medieval,1100 -- 1250
+1236,ABMAP28810,Metatarsal,35.0,Dd,Medieval,1100 -- 1250
+1237,ABMAP28810,Metatarsal,264.0,GL,Medieval,1100 -- 1250
+1238,ABMAP28810,Metatarsal,23.4,SD,Medieval,1100 -- 1250
+1239,ABMAP28958,Metatarsal,43.3,Bd,Medieval,1100 -- 1250
+1245,ABMAP28816,Metatarsal,46.2,Bd,Medieval,1250 -- 1400
+1246,ABMAP28816,Metatarsal,35.0,Dd,Medieval,1250 -- 1400
+1256,ABMAP28827,Metatarsal,48.2,Bd,Medieval,1300 -- 1450
+1257,ABMAP28827,Metatarsal,36.7,Dd,Medieval,1300 -- 1450
+1284,ABMAP28847,Metatarsal,46.4,Bd,Medieval,1250 -- 1400
+1285,ABMAP28847,Metatarsal,34.7,Dd,Medieval,1250 -- 1400
+1286,ABMAP28847,Metatarsal,267.2,GL,Medieval,1250 -- 1400
+1287,ABMAP28847,Metatarsal,28.2,SD,Medieval,1250 -- 1400
+1288,ABMAP28808,Metatarsal,47.2,Bd,Medieval,1100 -- 1250
+1289,ABMAP28808,Metatarsal,36.8,Dd,Medieval,1100 -- 1250
+1293,ABMAP28857,Metatarsal,44.8,Bd,Medieval,1100 -- 1250
+1294,ABMAP28857,Metatarsal,35.1,Dd,Medieval,1100 -- 1250
+1295,ABMAP28857,Metatarsal,253.1,GL,Medieval,1100 -- 1250
+1296,ABMAP28857,Metatarsal,28.2,SD,Medieval,1100 -- 1250
+1328,ABMAP28906,Metatarsal,44.1,Bd,Medieval,1250 -- 1400
+1329,ABMAP28906,Metatarsal,34.8,Dd,Medieval,1250 -- 1400
+1393,ABMAP16637,Metatarsal,46.5,Bd,Medieval,1167 -- 1399
+1394,ABMAP16637,Metatarsal,47.1,Bp,Medieval,1167 -- 1399
+1395,ABMAP16637,Metatarsal,36.5,Dd,Medieval,1167 -- 1399
+1396,ABMAP16637,Metatarsal,39.2,Dp,Medieval,1167 -- 1399
+1397,ABMAP16637,Metatarsal,251.0,GL,Medieval,1167 -- 1399
+1398,ABMAP16637,Metatarsal,244.0,Ll,Medieval,1167 -- 1399
+1399,ABMAP16637,Metatarsal,29.6,SD,Medieval,1167 -- 1399
+1409,ABMAP16639,Metatarsal,46.4,Bd,Medieval,1033 -- 1199
+1410,ABMAP16639,Metatarsal,34.8,Dd,Medieval,1033 -- 1199
+1411,ABMAP16639,Metatarsal,29.9,SD,Medieval,1033 -- 1199
+1419,ABMAP16640,Metatarsal,45.5,Bp,Medieval,1167 -- 1399
+1448,ABMAP16641,Metatarsal,43.1,Bd,Medieval,1033 -- 1199
+1449,ABMAP16641,Metatarsal,44.0,Bp,Medieval,1033 -- 1199
+1450,ABMAP16641,Metatarsal,41.1,Dp,Medieval,1033 -- 1199
+1451,ABMAP16641,Metatarsal,251.0,GL,Medieval,1033 -- 1199
+1452,ABMAP16641,Metatarsal,249.0,Ll,Medieval,1033 -- 1199
+1453,ABMAP16641,Metatarsal,28.3,SD,Medieval,1033 -- 1199
+1454,ABMAP16642,Metatarsal,43.6,Bd,Medieval,1033 -- 1199
+1455,ABMAP16642,Metatarsal,43.6,Bp,Medieval,1033 -- 1199
+1456,ABMAP16642,Metatarsal,34.6,Dd,Medieval,1033 -- 1199
+1457,ABMAP16642,Metatarsal,42.1,Dp,Medieval,1033 -- 1199
+1458,ABMAP16642,Metatarsal,250.0,GL,Medieval,1033 -- 1199
+1459,ABMAP16642,Metatarsal,240.0,Ll,Medieval,1033 -- 1199
+1460,ABMAP16642,Metatarsal,28.6,SD,Medieval,1033 -- 1199
+1495,ABMAP16638,Metatarsal,48.3,Bd,Medieval,1367 -- 1499
+1496,ABMAP16638,Metatarsal,49.7,Bp,Medieval,1367 -- 1499
+1497,ABMAP16638,Metatarsal,36.8,Dd,Medieval,1367 -- 1499
+1498,ABMAP16638,Metatarsal,44.1,Dp,Medieval,1367 -- 1499
+1499,ABMAP16638,Metatarsal,260.0,GL,Medieval,1367 -- 1499
+1500,ABMAP16638,Metatarsal,251.0,Ll,Medieval,1367 -- 1499
+1501,ABMAP16638,Metatarsal,31.3,SD,Medieval,1367 -- 1499
+1505,ABMAP16636,Metatarsal,45.3,Bp,Medieval,1367 -- 1499
+1506,ABMAP16636,Metatarsal,38.2,Dp,Medieval,1367 -- 1499
+1507,ABMAP16636,Metatarsal,25.8,SD,Medieval,1367 -- 1499
+1513,ABMAP9524,Metatarsal,53.8,Bd,Roman - Saxon,333 -- 366
+1514,ABMAP9524,Metatarsal,31.2,Dd,Roman - Saxon,333 -- 366
+1515,ABMAP9524,Metatarsal,294.0,GL,Roman - Saxon,333 -- 366
+1516,ABMAP9525,Metatarsal,47.5,Bd,Roman - Saxon,333 -- 366
+1517,ABMAP9525,Metatarsal,30.2,Dd,Roman - Saxon,333 -- 366
+1518,ABMAP9525,Metatarsal,273.0,GL,Roman - Saxon,333 -- 366
+1519,ABMAP9526,Metatarsal,46.5,Bd,Roman - Saxon,333 -- 399
+1520,ABMAP9526,Metatarsal,28.0,Dd,Roman - Saxon,333 -- 399
+1521,ABMAP9526,Metatarsal,264.5,GL,Roman - Saxon,333 -- 399
+1539,ABMAP9527,Metatarsal,45.3,Bd,Roman - Saxon,367 -- 399
+1540,ABMAP9527,Metatarsal,26.3,Dd,Roman - Saxon,367 -- 399
+1541,ABMAP9528,Metatarsal,51.1,Bd,Roman - Saxon,367 -- 399
+1542,ABMAP9528,Metatarsal,28.1,Dd,Roman - Saxon,367 -- 399
+1543,ABMAP9528,Metatarsal,285.5,GL,Roman - Saxon,367 -- 399
+1544,ABMAP9529,Metatarsal,52.3,Bd,Roman - Saxon,367 -- 399
+1545,ABMAP9529,Metatarsal,28.2,Dd,Roman - Saxon,367 -- 399
+1546,ABMAP9529,Metatarsal,283.0,GL,Roman - Saxon,367 -- 399
+1547,ABMAP9530,Metatarsal,42.1,Bd,Roman - Saxon,367 -- 399
+1548,ABMAP9530,Metatarsal,26.2,Dd,Roman - Saxon,367 -- 399
+1549,ABMAP9530,Metatarsal,234.1,GL,Roman - Saxon,367 -- 399
+1550,ABMAP9531,Metatarsal,49.8,Bd,Roman - Saxon,367 -- 399
+1551,ABMAP9531,Metatarsal,29.0,Dd,Roman - Saxon,367 -- 399
+1552,ABMAP9531,Metatarsal,256.1,GL,Roman - Saxon,367 -- 399
+1565,ABMAP9532,Metatarsal,44.0,Bd,Roman - Saxon,300 -- 399
+1566,ABMAP9532,Metatarsal,27.2,Dd,Roman - Saxon,300 -- 399
+1567,ABMAP9532,Metatarsal,256.3,GL,Roman - Saxon,300 -- 399
+1568,ABMAP9533,Metatarsal,40.5,Bd,Roman - Saxon,300 -- 399
+1569,ABMAP9533,Metatarsal,25.4,Dd,Roman - Saxon,300 -- 399
+1570,ABMAP9533,Metatarsal,232.3,GL,Roman - Saxon,300 -- 399
+1571,ABMAP9534,Metatarsal,49.4,Bd,Roman - Saxon,300 -- 399
+1572,ABMAP9534,Metatarsal,28.5,Dd,Roman - Saxon,300 -- 399
+1573,ABMAP9534,Metatarsal,278.5,GL,Roman - Saxon,300 -- 399
+1583,ABMAP9520,Metatarsal,48.6,Bd,Roman - Saxon,67 -- 132
+1584,ABMAP9520,Metatarsal,28.0,Dd,Roman - Saxon,67 -- 132
+1585,ABMAP9520,Metatarsal,265.0,GL,Roman - Saxon,67 -- 132
+1592,ABMAP9521,Metatarsal,49.5,Bd,Roman - Saxon,100 -- 399
+1593,ABMAP9521,Metatarsal,27.9,Dd,Roman - Saxon,100 -- 399
+1594,ABMAP9522,Metatarsal,46.4,Bd,Roman - Saxon,100 -- 399
+1595,ABMAP9522,Metatarsal,28.0,Dd,Roman - Saxon,100 -- 399
+1596,ABMAP9522,Metatarsal,271.0,GL,Roman - Saxon,100 -- 399
+1597,ABMAP9523,Metatarsal,47.5,Bd,Roman - Saxon,300 -- 366
+1598,ABMAP9523,Metatarsal,28.0,Dd,Roman - Saxon,300 -- 366
+1599,ABMAP9523,Metatarsal,259.5,GL,Roman - Saxon,300 -- 366
+1600,ABMAP3370,Metatarsal,47.4,Bd,Medieval,1000 -- 1199
+1601,ABMAP3370,Metatarsal,258.0,GL,Medieval,1000 -- 1199
+1628,ABMAP28538,Metatarsal,53.9,Bp,Roman - Saxon,850 -- 899
+1640,ABMAP1955,Metatarsal,47.4,Bd,Roman - Saxon,43 -- 410
+1641,ABMAP1955,Metatarsal,49.2,Bp,Roman - Saxon,43 -- 410
+1642,ABMAP1955,Metatarsal,41.7,Dp,Roman - Saxon,43 -- 410
+1643,ABMAP1955,Metatarsal,258.0,Ll,Roman - Saxon,43 -- 410
+1644,ABMAP1955,Metatarsal,28.0,SD,Roman - Saxon,43 -- 410
+1645,ABMAP1963,Metatarsal,47.4,Bd,Roman - Saxon,43 -- 410
+1646,ABMAP1963,Metatarsal,49.2,Bp,Roman - Saxon,43 -- 410
+1647,ABMAP1963,Metatarsal,41.7,Dp,Roman - Saxon,43 -- 410
+1648,ABMAP1963,Metatarsal,258.0,Ll,Roman - Saxon,43 -- 410
+1649,ABMAP1963,Metatarsal,28.0,SD,Roman - Saxon,43 -- 410
+1661,ABMAP2001,Metatarsal,43.7,Bd,Roman - Saxon,43 -- 410
+1662,ABMAP2001,Metatarsal,42.8,Bp,Roman - Saxon,43 -- 410
+1663,ABMAP2001,Metatarsal,25.7,CD,Roman - Saxon,43 -- 410
+1664,ABMAP2001,Metatarsal,38.8,Dp,Roman - Saxon,43 -- 410
+1665,ABMAP2001,Metatarsal,236.5,Ll,Roman - Saxon,43 -- 410
+1666,ABMAP2001,Metatarsal,26.5,SD,Roman - Saxon,43 -- 410
+1678,ABMAP1892,Metatarsal,50.4,Bp,Roman - Saxon,43 -- 410
+1729,ABMAP18528,Metatarsal,39.7,Bd,Bronze - Iron Age,-800 -- 43
+1730,ABMAP18528,Metatarsal,40.5,Bp,Bronze - Iron Age,-800 -- 43
+1731,ABMAP18528,Metatarsal,33.5,Dp,Bronze - Iron Age,-800 -- 43
+1732,ABMAP18528,Metatarsal,224.5,GL,Bronze - Iron Age,-800 -- 43
+1733,ABMAP18528,Metatarsal,220.5,Ll,Bronze - Iron Age,-800 -- 43
+1734,ABMAP18528,Metatarsal,26.9,SD,Bronze - Iron Age,-800 -- 43
+1775,ABMAP27164,Metatarsal,33.9,SD,Roman - Saxon,900 -- 1099
+1776,ABMAP27164,Metatarsal,49.7,Bp,Roman - Saxon,900 -- 1099
+1777,ABMAP27164,Metatarsal,42.9,Dp,Roman - Saxon,900 -- 1099
+1809,ABMAP27035,Metatarsal,47.2,Bp,Roman - Saxon,900 -- 1099
+1810,ABMAP27035,Metatarsal,247.5,Ll,Roman - Saxon,900 -- 1099
+1811,ABMAP27035,Metatarsal,30.6,SD,Roman - Saxon,900 -- 1099
+1813,ABMAP27284,Metatarsal,46.3,Bp,Roman - Saxon,800 -- 999
+1814,ABMAP27284,Metatarsal,39.0,Dp,Roman - Saxon,800 -- 999
+1815,ABMAP27284,Metatarsal,250.0,GL,Roman - Saxon,800 -- 999
+1816,ABMAP27284,Metatarsal,244.0,Ll,Roman - Saxon,800 -- 999
+1817,ABMAP27284,Metatarsal,29.3,SD,Roman - Saxon,800 -- 999
+1823,ABMAP27146,Metatarsal,53.6,Bp,Medieval,1100 -- 1399
+1824,ABMAP27146,Metatarsal,40.5,Dp,Medieval,1100 -- 1399
+1843,ABMAP1414,Metatarsal,41.8,Bp,Roman - Saxon,43 -- 410
+1844,ABMAP1414,Metatarsal,26.5,CD,Roman - Saxon,43 -- 410
+1845,ABMAP1414,Metatarsal,239.8,Ll,Roman - Saxon,43 -- 410
+1846,ABMAP1414,Metatarsal,27.1,SD,Roman - Saxon,43 -- 410
+1918,ABMAP743,Metatarsal,47.2,Bd,Roman - Saxon,43 -- 410
+1919,ABMAP743,Metatarsal,47.2,Bp,Roman - Saxon,43 -- 410
+1920,ABMAP743,Metatarsal,40.6,Dp,Roman - Saxon,43 -- 410
+1921,ABMAP743,Metatarsal,248.0,GL,Roman - Saxon,43 -- 410
+1922,ABMAP743,Metatarsal,242.9,Ll,Roman - Saxon,43 -- 410
+1923,ABMAP743,Metatarsal,28.0,SD,Roman - Saxon,43 -- 410
+1935,ABMAP1200,Metatarsal,49.0,Bp,Roman - Saxon,43 -- 410
+1936,ABMAP1201,Metatarsal,44.8,Bd,Roman - Saxon,43 -- 410
+1943,ABMAP788,Metatarsal,48.2,Bp,Roman - Saxon,43 -- 410
+1944,ABMAP788,Metatarsal,42.9,Dp,Roman - Saxon,43 -- 410
+2018,J_GRIMM_08WA55024-855,Metatarsal,42.9,Bp,Roman - Saxon,43 -- 150
+2033,J_GRIMM_08WA56530-1260,Metatarsal,245.0,GL,Roman - Saxon,300 -- 400
+2034,J_GRIMM_08WA56530-1260,Metatarsal,28.5,SD,Roman - Saxon,300 -- 400
+2035,J_GRIMM_08WA56530-1260,Metatarsal,44.2,Bd,Roman - Saxon,300 -- 400
+2036,J_GRIMM_08WA56530-1260,Metatarsal,47.5,Bp,Roman - Saxon,300 -- 400
+2037,J_GRIMM_08WA56530-1260,Metatarsal,89.0,CD,Roman - Saxon,300 -- 400
+2038,J_GRIMM_08WA56530-1260,Metatarsal,25.1,DD,Roman - Saxon,300 -- 400
+2039,J_GRIMM_08WA56530-1260,Metatarsal,34.0,Dd,Roman - Saxon,300 -- 400
+2060,J_GRIMM_08WA57960-179,Metatarsal,41.4,Bd,Medieval,1225 -- 1350
+2061,J_GRIMM_08WA57960-179,Metatarsal,41.5,Bp,Medieval,1225 -- 1350
+2062,J_GRIMM_08WA57960-179,Metatarsal,240.0,GL,Medieval,1225 -- 1350
+2063,J_GRIMM_08WA57960-179,Metatarsal,29.1,SD,Medieval,1225 -- 1350
+2084,J_GRIMM_08WA58571-440,Metatarsal,56.7,Bd,Roman - Saxon,43 -- 410
+2085,J_GRIMM_08WA58571-440,Metatarsal,57.9,BFd,Roman - Saxon,43 -- 410
+2086,J_GRIMM_08WA58571-440,Metatarsal,57.8,Bp,Roman - Saxon,43 -- 410
+2087,J_GRIMM_08WA58571-440,Metatarsal,112.0,CD,Roman - Saxon,43 -- 410
+2088,J_GRIMM_08WA58571-440,Metatarsal,297.0,GL,Roman - Saxon,43 -- 410
+2089,J_GRIMM_08WA58571-440,Metatarsal,35.2,SD,Roman - Saxon,43 -- 410
+2174,J_GRIMM_08WA59480-1473,Metatarsal,45.7,Bp,Bronze - Iron Age,100 -- 150
+2175,J_GRIMM_08WA59480-1473,Metatarsal,93.0,CD,Bronze - Iron Age,100 -- 150
+2176,J_GRIMM_08WA59480-1473,Metatarsal,27.5,SD,Bronze - Iron Age,100 -- 150
+2232,J_GRIMM_08WA59480-1059,Metatarsal,50.7,Bp,Medieval,1066 -- 1499
+2233,J_GRIMM_08WA59480-1059,Metatarsal,99.0,CD,Medieval,1066 -- 1499
+2234,J_GRIMM_08WA59480-1059,Metatarsal,30.6,SD,Medieval,1066 -- 1499
+2237,J_GRIMM_08WA59480-2463,Metatarsal,245.0,GL,Medieval,1066 -- 1499
+2238,J_GRIMM_08WA59480-2463,Metatarsal,26.0,SD,Medieval,1066 -- 1499
+2239,J_GRIMM_08WA59560-55,Metatarsal,92.0,CD,Bronze - Iron Age,-100 -- 43
+2240,J_GRIMM_08WA59560-55,Metatarsal,27.5,SD,Bronze - Iron Age,-100 -- 43
+2241,J_GRIMM_08WA59560-205,Metatarsal,43.6,Bd,Bronze - Iron Age,-100 -- 43
+2242,J_GRIMM_08WA59560-205,Metatarsal,42.0,Bp,Bronze - Iron Age,-100 -- 43
+2243,J_GRIMM_08WA59560-205,Metatarsal,90.0,CD,Bronze - Iron Age,-100 -- 43
+2244,J_GRIMM_08WA59560-205,Metatarsal,27.4,DD,Bronze - Iron Age,-100 -- 43
+2245,J_GRIMM_08WA59560-205,Metatarsal,31.8,Dd,Bronze - Iron Age,-100 -- 43
+2246,J_GRIMM_08WA59560-205,Metatarsal,236.0,GL,Bronze - Iron Age,-100 -- 43
+2247,J_GRIMM_08WA59560-205,Metatarsal,27.6,SD,Bronze - Iron Age,-100 -- 43
+2248,J_GRIMM_08WA59560-226,Metatarsal,46.4,Bd,Bronze - Iron Age,-100 -- 43
+2249,J_GRIMM_08WA59560-226,Metatarsal,46.1,Bp,Bronze - Iron Age,-100 -- 43
+2250,J_GRIMM_08WA59560-226,Metatarsal,94.0,CD,Bronze - Iron Age,-100 -- 43
+2251,J_GRIMM_08WA59560-226,Metatarsal,29.1,DD,Bronze - Iron Age,-100 -- 43
+2252,J_GRIMM_08WA59560-226,Metatarsal,35.5,Dd,Bronze - Iron Age,-100 -- 43
+2253,J_GRIMM_08WA59560-226,Metatarsal,254.0,GL,Bronze - Iron Age,-100 -- 43
+2293,J_GRIMM_08WA61900-135,Metatarsal,44.9,Bd,Medieval,1066 -- 1499
+2294,J_GRIMM_08WA61900-135,Metatarsal,45.6,Bp,Medieval,1066 -- 1499
+2295,J_GRIMM_08WA61900-135,Metatarsal,93.0,CD,Medieval,1066 -- 1499
+2296,J_GRIMM_08WA61900-135,Metatarsal,254.0,GL,Medieval,1066 -- 1499
+2297,J_GRIMM_08WA61900-135,Metatarsal,29.4,SD,Medieval,1066 -- 1499
+2308,J_GRIMM_08WA63220-5563,Metatarsal,52.8,Bp,Roman - Saxon,850 -- 1066
+2309,J_GRIMM_08WA63220-5563,Metatarsal,268.0,GL,Roman - Saxon,850 -- 1066
+2310,J_GRIMM_08WA63220-5563,Metatarsal,34.1,SD,Roman - Saxon,850 -- 1066
+2320,J_GRIMM_08WA63220-5566,Metatarsal,46.1,Bp,Roman - Saxon,850 -- 1066
+2321,J_GRIMM_08WA63220-5566,Metatarsal,246.0,GL,Roman - Saxon,850 -- 1066
+2322,J_GRIMM_08WA63220-5566,Metatarsal,28.8,SD,Roman - Saxon,850 -- 1066
+2346,J_GRIMM_08WA63220-5573,Metatarsal,48.1,Bp,Roman - Saxon,850 -- 1066
+2347,J_GRIMM_08WA63220-5573,Metatarsal,247.0,GL,Roman - Saxon,850 -- 1066
+2348,J_GRIMM_08WA63220-5573,Metatarsal,30.7,SD,Roman - Saxon,850 -- 1066
+2428,ABMAP14055,Metatarsal,41.8,Bd,Medieval,1300 -- 1499
+2429,ABMAP14055,Metatarsal,40.7,Bp,Medieval,1300 -- 1499
+2430,ABMAP14055,Metatarsal,34.2,Dd,Medieval,1300 -- 1499
+2431,ABMAP14055,Metatarsal,37.3,Dp,Medieval,1300 -- 1499
+2432,ABMAP14055,Metatarsal,239.0,GL,Medieval,1300 -- 1499
+2433,ABMAP14055,Metatarsal,236.0,GLl,Medieval,1300 -- 1499
+2434,ABMAP14055,Metatarsal,235.5,Ll,Medieval,1300 -- 1499
+2435,ABMAP14055,Metatarsal,25.5,SD,Medieval,1300 -- 1499
+2436,ABMAP14055,Metatarsal,20.7,TD,Medieval,1300 -- 1499
+2444,ABMAP14069,Metatarsal,46.7,Bd,Medieval,1300 -- 1499
+2445,ABMAP14069,Metatarsal,36.5,Dd,Medieval,1300 -- 1499
+2446,ABMAP14069,Metatarsal,28.9,SD,Medieval,1300 -- 1499
+2447,ABMAP14069,Metatarsal,22.8,TD,Medieval,1300 -- 1499
+2471,ABMAP1492,Metatarsal,47.2,Bd,Roman - Saxon,43 -- 1066
+2472,ABMAP1492,Metatarsal,46.6,Bp,Roman - Saxon,43 -- 1066
+2473,ABMAP1492,Metatarsal,24.6,CD,Roman - Saxon,43 -- 1066
+2474,ABMAP1492,Metatarsal,40.1,Dp,Roman - Saxon,43 -- 1066
+2475,ABMAP1492,Metatarsal,246.1,Ll,Roman - Saxon,43 -- 1066
+2476,ABMAP1492,Metatarsal,27.3,SD,Roman - Saxon,43 -- 1066
+2496,ABMAP8676,Metatarsal,48.8,Bd,Roman - Saxon,900 -- 1099
+2497,ABMAP8676,Metatarsal,49.1,Bp,Roman - Saxon,900 -- 1099
+2498,ABMAP8676,Metatarsal,250.3,GL,Roman - Saxon,900 -- 1099
+2499,ABMAP8676,Metatarsal,29.8,SD,Roman - Saxon,900 -- 1099
+2502,ABMAP16095,Metatarsal,46.3,Bp,Bronze - Iron Age,-400 -- -100
+2503,ABMAP16095,Metatarsal,40.2,Dp,Bronze - Iron Age,-400 -- -100
+2506,ABMAP15768,Metatarsal,44.9,Bp,Bronze - Iron Age,-400 -- -100
+2507,ABMAP15768,Metatarsal,43.3,Dp,Bronze - Iron Age,-400 -- -100
+2509,ABMAP16229,Metatarsal,44.9,Bd,Bronze - Iron Age,-800 -- -400
+2510,ABMAP16229,Metatarsal,44.9,Bp,Bronze - Iron Age,-800 -- -400
+2511,ABMAP16229,Metatarsal,26.8,CD,Bronze - Iron Age,-800 -- -400
+2512,ABMAP16229,Metatarsal,42.1,Dp,Bronze - Iron Age,-800 -- -400
+2513,ABMAP16229,Metatarsal,247.8,GL,Bronze - Iron Age,-800 -- -400
+2514,ABMAP16229,Metatarsal,28.0,SD,Bronze - Iron Age,-800 -- -400
+2567,ABMAP15716,Metatarsal,39.4,Bd,Bronze - Iron Age,-400 -- -100
+2568,ABMAP15716,Metatarsal,22.1,CD,Bronze - Iron Age,-400 -- -100
+2569,ABMAP15716,Metatarsal,219.0,GL,Bronze - Iron Age,-400 -- -100
+2570,ABMAP15716,Metatarsal,25.2,SD,Bronze - Iron Age,-400 -- -100
+2591,ABMAP15580,Metatarsal,41.5,Bp,Bronze - Iron Age,-400 -- -100
+2592,ABMAP15580,Metatarsal,38.7,Dp,Bronze - Iron Age,-400 -- -100
+2599,ABMAP16086,Metatarsal,44.6,Bp,Bronze - Iron Age,-400 -- -100
+2617,ABMAP16139,Metatarsal,45.3,Bd,Roman - Saxon,43 -- 410
+2618,ABMAP16139,Metatarsal,21.6,TD,Roman - Saxon,43 -- 410
+2628,ABMAP15779,Metatarsal,42.5,Bp,Bronze - Iron Age,-800 -- -400
+2629,ABMAP15779,Metatarsal,34.8,Dp,Bronze - Iron Age,-800 -- -400
+2631,ABMAP16116,Metatarsal,45.6,Bd,Bronze - Iron Age,-400 -- -100
+2632,ABMAP15780,Metatarsal,42.4,Bd,Bronze - Iron Age,-400 -- -100
+2659,ABMAP16099,Metatarsal,48.6,Bp,Roman - Saxon,43 -- 410
+2660,ABMAP16099,Metatarsal,29.4,CD,Roman - Saxon,43 -- 410
+2661,ABMAP16099,Metatarsal,42.9,Dp,Roman - Saxon,43 -- 410
+2662,ABMAP16099,Metatarsal,254.5,GL,Roman - Saxon,43 -- 410
+2663,ABMAP16099,Metatarsal,247.8,Ll,Roman - Saxon,43 -- 410
+2664,ABMAP16099,Metatarsal,27.8,SD,Roman - Saxon,43 -- 410
+2690,ABMAP15771,Metatarsal,41.1,Bd,Bronze - Iron Age,-400 -- -100
+2691,ABMAP15771,Metatarsal,231.0,GL,Bronze - Iron Age,-400 -- -100
+2692,ABMAP15771,Metatarsal,226.7,Ll,Bronze - Iron Age,-400 -- -100
+2693,ABMAP15771,Metatarsal,26.9,SD,Bronze - Iron Age,-400 -- -100
+2694,ABMAP16031,Metatarsal,41.1,Bd,Bronze - Iron Age,-400 -- -100
+2697,ABMAP15807,Metatarsal,43.3,Bp,Bronze - Iron Age,-800 -- -400
+2698,ABMAP15807,Metatarsal,35.1,Dp,Bronze - Iron Age,-800 -- -400
+2699,ABMAP15807,Metatarsal,26.8,SD,Bronze - Iron Age,-800 -- -400
+2729,ABMAP15690,Metatarsal,39.5,Bd,Roman - Saxon,43 -- 410
+2730,ABMAP15690,Metatarsal,23.6,CD,Roman - Saxon,43 -- 410
+2731,ABMAP15690,Metatarsal,226.0,GL,Roman - Saxon,43 -- 410
+2732,ABMAP15690,Metatarsal,24.5,SD,Roman - Saxon,43 -- 410
+2739,ABMAP15777,Metatarsal,43.1,Bd,Bronze - Iron Age,-400 -- -100
+2740,ABMAP15777,Metatarsal,28.6,CD,Bronze - Iron Age,-400 -- -100
+2741,ABMAP15777,Metatarsal,43.5,Dp,Bronze - Iron Age,-400 -- -100
+2742,ABMAP15777,Metatarsal,245.4,GL,Bronze - Iron Age,-400 -- -100
+2743,ABMAP15777,Metatarsal,239.9,Ll,Bronze - Iron Age,-400 -- -100
+2744,ABMAP15777,Metatarsal,27.7,SD,Bronze - Iron Age,-400 -- -100
+2764,ABMAP8664,Metatarsal,45.0,Bd,Roman - Saxon,43 -- 100
+2765,ABMAP8664,Metatarsal,45.0,Bp,Roman - Saxon,43 -- 100
+2766,ABMAP8664,Metatarsal,248.0,GL,Roman - Saxon,43 -- 100
+2771,ABMAP303,Metatarsal,38.0,Bd,Bronze - Iron Age,-499 -- -200
+2772,ABMAP303,Metatarsal,37.4,Bp,Bronze - Iron Age,-499 -- -200
+2773,ABMAP303,Metatarsal,20.4,CD,Bronze - Iron Age,-499 -- -200
+2774,ABMAP303,Metatarsal,215.2,GL,Bronze - Iron Age,-499 -- -200
+2775,ABMAP303,Metatarsal,210.2,Ll,Bronze - Iron Age,-499 -- -200
+2776,ABMAP303,Metatarsal,23.5,SD,Bronze - Iron Age,-499 -- -200
+2787,ABMAP427,Metatarsal,42.6,Bp,Bronze - Iron Age,-50 -- 75
+2788,ABMAP427,Metatarsal,26.8,CD,Bronze - Iron Age,-50 -- 75
+2789,ABMAP427,Metatarsal,39.1,Dp,Bronze - Iron Age,-50 -- 75
+2790,ABMAP427,Metatarsal,225.1,GL,Bronze - Iron Age,-50 -- 75
+2791,ABMAP427,Metatarsal,218.5,Ll,Bronze - Iron Age,-50 -- 75
+2792,ABMAP427,Metatarsal,25.5,SD,Bronze - Iron Age,-50 -- 75
+2798,ABMAP429,Metatarsal,43.7,Bp,Bronze - Iron Age,-50 -- 75
+2799,ABMAP430,Metatarsal,51.4,Bd,Bronze - Iron Age,-50 -- 75
+2800,ABMAP430,Metatarsal,51.5,Bp,Bronze - Iron Age,-50 -- 75
+2801,ABMAP430,Metatarsal,32.1,CD,Bronze - Iron Age,-50 -- 75
+2802,ABMAP430,Metatarsal,45.2,Dp,Bronze - Iron Age,-50 -- 75
+2803,ABMAP430,Metatarsal,276.0,GL,Bronze - Iron Age,-50 -- 75
+2804,ABMAP430,Metatarsal,271.0,Ll,Bronze - Iron Age,-50 -- 75
+2805,ABMAP430,Metatarsal,32.8,SD,Bronze - Iron Age,-50 -- 75
+2830,ABMAP304,Metatarsal,42.7,Bp,Bronze - Iron Age,-499 -- -200
+2831,ABMAP305,Metatarsal,45.0,Bd,Bronze - Iron Age,-499 -- -200
+2832,ABMAP305,Metatarsal,45.2,Bp,Bronze - Iron Age,-499 -- -200
+2833,ABMAP305,Metatarsal,27.1,CD,Bronze - Iron Age,-499 -- -200
+2834,ABMAP305,Metatarsal,41.0,Dp,Bronze - Iron Age,-499 -- -200
+2835,ABMAP305,Metatarsal,249.0,GL,Bronze - Iron Age,-499 -- -200
+2836,ABMAP305,Metatarsal,241.0,Ll,Bronze - Iron Age,-499 -- -200
+2837,ABMAP305,Metatarsal,30.7,SD,Bronze - Iron Age,-499 -- -200
+2852,ABMAP9251,Metatarsal,39.6,Bp,Bronze - Iron Age,-99 -- 99
+2854,ABMAP9252,Metatarsal,40.3,Bd,Bronze - Iron Age,-99 -- 99
+2855,ABMAP9252,Metatarsal,43.4,Bp,Bronze - Iron Age,-99 -- 99
+2856,ABMAP9252,Metatarsal,205.0,GL,Bronze - Iron Age,-99 -- 99
+2857,ABMAP9252,Metatarsal,204.5,GLl,Bronze - Iron Age,-99 -- 99
+2867,ABMAP9250,Metatarsal,45.5,Bp,Bronze - Iron Age,-99 -- 0
+2874,ABMAP10606,Metatarsal,50.5,Bp,Medieval,1540 -- 1901
+2875,ABMAP14302,Metatarsal,47.0,Bd,Roman - Saxon,43 -- 410
+2876,ABMAP14302,Metatarsal,48.7,Bp,Roman - Saxon,43 -- 410
+2877,ABMAP14302,Metatarsal,37.5,Dd,Roman - Saxon,43 -- 410
+2878,ABMAP14302,Metatarsal,42.0,Dp,Roman - Saxon,43 -- 410
+2879,ABMAP14302,Metatarsal,257.0,GL,Roman - Saxon,43 -- 410
+2880,ABMAP14302,Metatarsal,256.5,GLl,Roman - Saxon,43 -- 410
+2881,ABMAP14302,Metatarsal,248.3,Ll,Roman - Saxon,43 -- 410
+2882,ABMAP14302,Metatarsal,24.7,TD,Roman - Saxon,43 -- 410
+2920,ABMAP14445,Metatarsal,43.1,Bd,Roman - Saxon,43 -- 410
+2921,ABMAP14445,Metatarsal,44.6,Bp,Roman - Saxon,43 -- 410
+2922,ABMAP14445,Metatarsal,35.3,Dd,Roman - Saxon,43 -- 410
+2923,ABMAP14445,Metatarsal,40.0,Dp,Roman - Saxon,43 -- 410
+2924,ABMAP14445,Metatarsal,245.0,GL,Roman - Saxon,43 -- 410
+2925,ABMAP14445,Metatarsal,241.0,GLl,Roman - Saxon,43 -- 410
+2926,ABMAP14445,Metatarsal,236.0,Ll,Roman - Saxon,43 -- 410
+2927,ABMAP14445,Metatarsal,27.6,SD,Roman - Saxon,43 -- 410
+2928,ABMAP14445,Metatarsal,23.5,TD,Roman - Saxon,43 -- 410
+2980,ABMAP14408,Metatarsal,44.5,Bd,Roman - Saxon,43 -- 410
+2981,ABMAP14408,Metatarsal,35.0,Dd,Roman - Saxon,43 -- 410
+2982,ABMAP14408,Metatarsal,28.8,SD,Roman - Saxon,43 -- 410
+2983,ABMAP14408,Metatarsal,23.3,TD,Roman - Saxon,43 -- 410
+2988,ABMAP14459,Metatarsal,43.8,Bd,Roman - Saxon,43 -- 410
+2989,ABMAP14459,Metatarsal,34.2,Dd,Roman - Saxon,43 -- 410
+2990,ABMAP14459,Metatarsal,26.6,SD,Roman - Saxon,43 -- 410
+2991,ABMAP14459,Metatarsal,22.4,TD,Roman - Saxon,43 -- 410
+2992,ABMAP14438,Metatarsal,47.0,Bp,Roman - Saxon,43 -- 410
+2993,ABMAP14438,Metatarsal,38.9,Dp,Roman - Saxon,43 -- 410
+2994,ABMAP14438,Metatarsal,246.6,GL,Roman - Saxon,43 -- 410
+2995,ABMAP14438,Metatarsal,30.4,SD,Roman - Saxon,43 -- 410
+3008,ABMAP14514,Metatarsal,47.3,Bd,Roman - Saxon,43 -- 410
+3009,ABMAP14514,Metatarsal,34.3,Dd,Roman - Saxon,43 -- 410
+3010,ABMAP14514,Metatarsal,25.2,TD,Roman - Saxon,43 -- 410
+3028,ABMAP5551,Metatarsal,51.9,Bd,Modern,1900 -- 2500
+3029,ABMAP5551,Metatarsal,52.0,Bp,Modern,1900 -- 2500
+3030,ABMAP5551,Metatarsal,29.0,CD,Modern,1900 -- 2500
+3031,ABMAP5551,Metatarsal,45.5,Dp,Modern,1900 -- 2500
+3032,ABMAP5551,Metatarsal,300.6,GL,Modern,1900 -- 2500
+3033,ABMAP5551,Metatarsal,286.0,Ll,Modern,1900 -- 2500
+3034,ABMAP5551,Metatarsal,30.8,SD,Modern,1900 -- 2500
+3060,ABMAP10842,Metatarsal,46.0,Bd,Roman - Saxon,200 -- 410
+3061,ABMAP10842,Metatarsal,46.2,Bp,Roman - Saxon,200 -- 410
+3062,ABMAP10842,Metatarsal,248.5,GL,Roman - Saxon,200 -- 410
+3063,ABMAP10842,Metatarsal,26.5,SD,Roman - Saxon,200 -- 410
+3064,ABMAP10842,Metatarsal,22.0,TD,Roman - Saxon,200 -- 410
+3080,ABMAP3195,Metatarsal,46.9,Bd,Roman - Saxon,400 -- 1066
+3081,ABMAP3195,Metatarsal,48.4,Bp,Roman - Saxon,400 -- 1066
+3082,ABMAP3195,Metatarsal,39.3,Dp,Roman - Saxon,400 -- 1066
+3083,ABMAP3195,Metatarsal,252.0,Ll,Roman - Saxon,400 -- 1066
+3084,ABMAP3195,Metatarsal,30.1,SD,Roman - Saxon,400 -- 1066

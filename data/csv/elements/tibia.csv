@@ -1,0 +1,336 @@
+,BONEID,ELEMENT,MEASURE,MEASTYPE,PERIOD,RANGE
+3,ABMAP8672,Tibia,77.2,Bd,Medieval,1540 -- 1699
+4,ABMAP8672,Tibia,46.1,Dd,Medieval,1540 -- 1699
+22,ABMAP11935,Tibia,40.3,Dd,Roman - Saxon,43 -- 410
+45,ABMAP11928,Tibia,68.8,Bd,Roman - Saxon,43 -- 410
+46,ABMAP11928,Tibia,95.5,Bp,Roman - Saxon,43 -- 410
+47,ABMAP11928,Tibia,45.5,Dd,Roman - Saxon,43 -- 410
+48,ABMAP11928,Tibia,346.0,GL,Roman - Saxon,43 -- 410
+49,ABMAP11928,Tibia,42.5,SD,Roman - Saxon,43 -- 410
+50,ABMAP11929,Tibia,68.8,Bd,Roman - Saxon,43 -- 410
+51,ABMAP11929,Tibia,95.5,Bp,Roman - Saxon,43 -- 410
+52,ABMAP11929,Tibia,45.5,Dd,Roman - Saxon,43 -- 410
+53,ABMAP11929,Tibia,346.0,GL,Roman - Saxon,43 -- 410
+54,ABMAP11929,Tibia,42.5,SD,Roman - Saxon,43 -- 410
+58,ABMAP16907,Tibia,70.1,Bd,Roman - Saxon,700 -- 899
+59,ABMAP16907,Tibia,44.3,Dd,Roman - Saxon,700 -- 899
+67,ABMAP5453,Tibia,56.0,Bd,Bronze - Iron Age,-299 -- 42
+69,ABMAP5454,Tibia,61.5,Bd,Bronze - Iron Age,-299 -- 42
+99,ABMAP15413,Tibia,65.5,Bd,Roman - Saxon,43 -- 410
+100,ABMAP15413,Tibia,38.5,Dd,Roman - Saxon,43 -- 410
+101,ABMAP15413,Tibia,33.8,SD,Roman - Saxon,43 -- 410
+146,ABMAP3117,Tibia,70.8,Bd,Roman - Saxon,43 -- 410
+147,ABMAP3117,Tibia,97.8,Bp,Roman - Saxon,43 -- 410
+148,ABMAP3117,Tibia,338.0,Ll,Roman - Saxon,43 -- 410
+149,ABMAP3117,Tibia,42.9,SD,Roman - Saxon,43 -- 410
+154,ABMAP69,Tibia,74.0,Bd,Roman - Saxon,775 -- 800
+155,ABMAP69,Tibia,42.8,SD,Roman - Saxon,775 -- 800
+161,ABMAP70,Tibia,74.7,Bd,Roman - Saxon,775 -- 800
+162,ABMAP70,Tibia,42.8,SD,Roman - Saxon,775 -- 800
+181,ABMAP72,Tibia,44.7,SD,Roman - Saxon,775 -- 800
+204,ABMAP71,Tibia,69.5,Bd,Roman - Saxon,775 -- 800
+226,ABMAP17083,Tibia,60.5,Bd,Bronze - Iron Age,-99 -- 99
+227,ABMAP17083,Tibia,36.0,Dd,Bronze - Iron Age,-99 -- 99
+232,ABMAP17122,Tibia,64.9,Bd,Bronze - Iron Age,-99 -- 99
+233,ABMAP17122,Tibia,40.0,Dd,Bronze - Iron Age,-99 -- 99
+246,ABMAP17086,Tibia,40.5,Dd,Bronze - Iron Age,-99 -- 99
+349,ABMAP26117,Tibia,69.7,Bd,Roman - Saxon,733 -- 832
+350,ABMAP26117,Tibia,88.5,Bp,Roman - Saxon,733 -- 832
+351,ABMAP26117,Tibia,328.0,GL,Roman - Saxon,733 -- 832
+352,ABMAP26117,Tibia,299.0,Ll,Roman - Saxon,733 -- 832
+353,ABMAP26117,Tibia,38.3,SD,Roman - Saxon,733 -- 832
+372,ABMAP26118,Tibia,75.0,Bd,Roman - Saxon,733 -- 832
+373,ABMAP26118,Tibia,43.9,Dd,Roman - Saxon,733 -- 832
+374,ABMAP26118,Tibia,340.0,GL,Roman - Saxon,733 -- 832
+375,ABMAP26118,Tibia,305.0,Ll,Roman - Saxon,733 -- 832
+390,ABMAP25548,Tibia,90.0,Bp,Roman - Saxon,833 -- 932
+392,ABMAP26510,Tibia,90.0,Bp,Roman - Saxon,833 -- 932
+452,ABMAP25549,Tibia,69.3,Bd,Roman - Saxon,833 -- 932
+453,ABMAP25549,Tibia,88.2,Bp,Roman - Saxon,833 -- 932
+454,ABMAP25549,Tibia,43.6,Dd,Roman - Saxon,833 -- 932
+455,ABMAP25549,Tibia,340.0,GL,Roman - Saxon,833 -- 932
+456,ABMAP25549,Tibia,298.7,Ll,Roman - Saxon,833 -- 932
+457,ABMAP25549,Tibia,39.1,SD,Roman - Saxon,833 -- 932
+504,ABMAP26511,Tibia,69.3,Bd,Roman - Saxon,833 -- 932
+505,ABMAP26511,Tibia,88.2,Bp,Roman - Saxon,833 -- 932
+506,ABMAP26511,Tibia,43.6,Dd,Roman - Saxon,833 -- 932
+507,ABMAP26511,Tibia,340.0,GL,Roman - Saxon,833 -- 932
+508,ABMAP26511,Tibia,298.7,Ll,Roman - Saxon,833 -- 932
+509,ABMAP26511,Tibia,39.1,SD,Roman - Saxon,833 -- 932
+559,ABMAP25998,Tibia,69.2,Bd,Roman - Saxon,700 -- 732
+560,ABMAP25998,Tibia,43.8,Dd,Roman - Saxon,700 -- 732
+561,ABMAP25998,Tibia,36.7,SD,Roman - Saxon,700 -- 732
+576,ABMAP13842,Tibia,72.3,Bd,Roman - Saxon,43 -- 199
+577,ABMAP13842,Tibia,45.0,Dd,Roman - Saxon,43 -- 199
+578,ABMAP13842,Tibia,353.0,GL,Roman - Saxon,43 -- 199
+579,ABMAP13842,Tibia,40.0,SD,Roman - Saxon,43 -- 199
+596,ABMAP2976,Tibia,65.8,Bd,Roman - Saxon,900 -- 999
+597,ABMAP2976,Tibia,90.0,Bp,Roman - Saxon,900 -- 999
+598,ABMAP2976,Tibia,43.2,Dd,Roman - Saxon,900 -- 999
+599,ABMAP2976,Tibia,330.0,GL,Roman - Saxon,900 -- 999
+600,ABMAP2976,Tibia,300.0,Ll,Roman - Saxon,900 -- 999
+601,ABMAP2976,Tibia,40.6,SD,Roman - Saxon,900 -- 999
+602,ABMAP2977,Tibia,67.0,Bd,Roman - Saxon,900 -- 999
+603,ABMAP2977,Tibia,40.6,SD,Roman - Saxon,900 -- 999
+638,ABMAP2978,Tibia,66.8,Bd,Medieval,1200 -- 1399
+639,ABMAP2978,Tibia,89.6,Bp,Medieval,1200 -- 1399
+640,ABMAP2978,Tibia,40.0,Dd,Medieval,1200 -- 1399
+641,ABMAP2978,Tibia,328.0,GL,Medieval,1200 -- 1399
+642,ABMAP2978,Tibia,309.0,Ll,Medieval,1200 -- 1399
+643,ABMAP2978,Tibia,36.4,SD,Medieval,1200 -- 1399
+644,ABMAP2979,Tibia,67.0,Bd,Medieval,1200 -- 1399
+645,ABMAP2979,Tibia,88.3,Bp,Medieval,1200 -- 1399
+646,ABMAP2979,Tibia,40.5,Dd,Medieval,1200 -- 1399
+647,ABMAP2979,Tibia,329.0,GL,Medieval,1200 -- 1399
+648,ABMAP2979,Tibia,314.0,Ll,Medieval,1200 -- 1399
+649,ABMAP2979,Tibia,37.3,SD,Medieval,1200 -- 1399
+703,ABMAP16579,Tibia,62.9,Bd,Medieval,1139 -- 1200
+704,ABMAP16579,Tibia,41.3,Dd,Medieval,1139 -- 1200
+709,ABMAP16374,Tibia,69.7,Bd,Roman - Saxon,600 -- 1099
+735,ABMAP20057,Tibia,86.0,Bd,Medieval,1700 -- 1799
+736,ABMAP20057,Tibia,53.0,Dd,Medieval,1700 -- 1799
+737,ABMAP20057,Tibia,388.0,GL,Medieval,1700 -- 1799
+738,ABMAP20057,Tibia,48.0,SD,Medieval,1700 -- 1799
+739,ABMAP20058,Tibia,73.0,Bd,Medieval,1700 -- 1799
+740,ABMAP20058,Tibia,45.0,Dd,Medieval,1700 -- 1799
+741,ABMAP20058,Tibia,38.9,SD,Medieval,1700 -- 1799
+761,ABMAP20056,Tibia,73.3,Bd,Medieval,1700 -- 1899
+762,ABMAP20056,Tibia,45.0,Dd,Medieval,1700 -- 1899
+771,ABMAP476,Tibia,62.3,Bd,Bronze - Iron Age,-100 -- -43
+785,ABMAP480,Tibia,61.9,Bp,Bronze - Iron Age,-100 -- -43
+799,ABMAP529,Tibia,69.3,Bd,Bronze - Iron Age,-100 -- -43
+800,ABMAP529,Tibia,42.9,Dd,Bronze - Iron Age,-100 -- -43
+840,ABMAP578,Tibia,64.9,Bd,Bronze - Iron Age,-100 -- -43
+841,ABMAP578,Tibia,42.5,Dd,Bronze - Iron Age,-100 -- -43
+842,ABMAP578,Tibia,318.0,GL,Bronze - Iron Age,-100 -- -43
+843,ABMAP578,Tibia,36.8,SD,Bronze - Iron Age,-100 -- -43
+906,ABMAP28956,Tibia,60.7,Bd,Medieval,1250 -- 1400
+907,ABMAP28603,Tibia,66.4,Bd,Medieval,1450 -- 1800
+920,ABMAP28650,Tibia,318.0,GL,Medieval,1450 -- 1800
+952,ABMAP29057,Tibia,66.2,Bd,Medieval,1250 -- 1400
+974,ABMAP29109,Tibia,60.8,Bd,Medieval,1100 -- 1250
+985,ABMAP29210,Tibia,66.2,Bd,Medieval,1100 -- 1250
+1021,ABMAP29257,Tibia,62.0,Bd,Medieval,1300 -- 1450
+1025,ABMAP29262,Tibia,66.2,Bd,Medieval,1300 -- 1450
+1029,ABMAP29269,Tibia,70.7,Bd,Medieval,1450 -- 1800
+1102,ABMAP29386,Tibia,74.1,Bd,Medieval,1100 -- 1250
+1137,ABMAP29502,Tibia,63.2,Bd,Medieval,1100 -- 1250
+1138,ABMAP29502,Tibia,326.5,GL,Medieval,1100 -- 1250
+1139,ABMAP28745,Tibia,71.4,Bd,Medieval,1250 -- 1400
+1160,ABMAP29432,Tibia,63.0,Bd,Roman - Saxon,950 -- 1100
+1161,ABMAP29432,Tibia,317.2,GL,Roman - Saxon,950 -- 1100
+1180,ABMAP28779,Tibia,67.4,Bd,Medieval,1250 -- 1400
+1203,ABMAP28724,Tibia,61.0,Bd,Medieval,1300 -- 1450
+1228,ABMAP28806,Tibia,69.6,Bd,Medieval,1100 -- 1250
+1229,ABMAP28806,Tibia,325.9,GL,Medieval,1100 -- 1250
+1244,ABMAP28960,Tibia,64.2,Bd,Medieval,1100 -- 1250
+1251,ABMAP28818,Tibia,68.6,Bd,Medieval,1250 -- 1400
+1282,ABMAP28785,Tibia,59.3,Bd,Medieval,1250 -- 1400
+1283,ABMAP28785,Tibia,298.9,GL,Medieval,1250 -- 1400
+1291,ABMAP28855,Tibia,67.1,Bd,Medieval,1100 -- 1250
+1292,ABMAP28855,Tibia,327.7,GL,Medieval,1100 -- 1250
+1304,ABMAP28864,Tibia,72.1,Bd,Medieval,1300 -- 1450
+1310,ABMAP28873,Tibia,67.3,Bd,Medieval,1250 -- 1400
+1317,ABMAP28882,Tibia,65.5,Bd,Medieval,1250 -- 1400
+1330,ABMAP28871,Tibia,71.2,Bd,Medieval,1250 -- 1400
+1331,ABMAP28916,Tibia,70.0,Bd,Medieval,1250 -- 1400
+1346,ABMAP17699,Tibia,31.1,SD,Medieval,1400 -- 1599
+1372,ABMAP3506,Tibia,59.83,Bd,Bronze - Iron Age,-800 -- 43
+1373,ABMAP3506,Tibia,297.0,GL,Bronze - Iron Age,-800 -- 43
+1374,ABMAP3506,Tibia,33.28,SD,Bronze - Iron Age,-800 -- 43
+1383,ABMAP16625,Tibia,59.3,Bd,Medieval,1367 -- 1499
+1384,ABMAP16625,Tibia,38.5,Dd,Medieval,1367 -- 1499
+1385,ABMAP16625,Tibia,32.5,SD,Medieval,1367 -- 1499
+1426,ABMAP16626,Tibia,66.7,Bd,Medieval,1033 -- 1199
+1427,ABMAP16626,Tibia,89.1,Bp,Medieval,1033 -- 1199
+1428,ABMAP16626,Tibia,42.3,Dd,Medieval,1033 -- 1199
+1429,ABMAP16626,Tibia,325.0,GL,Medieval,1033 -- 1199
+1430,ABMAP16626,Tibia,295.0,Ll,Medieval,1033 -- 1199
+1431,ABMAP16626,Tibia,36.8,SD,Medieval,1033 -- 1199
+1432,ABMAP16627,Tibia,67.4,Bd,Medieval,1033 -- 1199
+1433,ABMAP16627,Tibia,86.8,Bp,Medieval,1033 -- 1199
+1434,ABMAP16627,Tibia,42.2,Dd,Medieval,1033 -- 1199
+1435,ABMAP16627,Tibia,323.0,GL,Medieval,1033 -- 1199
+1436,ABMAP16627,Tibia,292.0,Ll,Medieval,1033 -- 1199
+1437,ABMAP16627,Tibia,35.7,SD,Medieval,1033 -- 1199
+1477,ABMAP16623,Tibia,64.2,Bd,Medieval,1167 -- 1399
+1478,ABMAP16623,Tibia,87.3,Bp,Medieval,1167 -- 1399
+1479,ABMAP16623,Tibia,35.1,Dd,Medieval,1167 -- 1399
+1480,ABMAP16623,Tibia,330.0,GL,Medieval,1167 -- 1399
+1481,ABMAP16623,Tibia,290.0,Ll,Medieval,1167 -- 1399
+1502,ABMAP16624,Tibia,63.3,Bd,Medieval,1367 -- 1499
+1503,ABMAP16624,Tibia,42.3,Dd,Medieval,1367 -- 1499
+1504,ABMAP16624,Tibia,34.5,SD,Medieval,1367 -- 1499
+1535,ABMAP9517,Tibia,76.4,Bd,Roman - Saxon,367 -- 399
+1536,ABMAP9517,Tibia,47.3,Dd,Roman - Saxon,367 -- 399
+1537,ABMAP9518,Tibia,61.5,Bd,Roman - Saxon,367 -- 399
+1538,ABMAP9518,Tibia,40.0,Dd,Roman - Saxon,367 -- 399
+1562,ABMAP9519,Tibia,77.0,Bd,Roman - Saxon,300 -- 399
+1563,ABMAP9519,Tibia,48.1,Dd,Roman - Saxon,300 -- 399
+1564,ABMAP9519,Tibia,355.0,GL,Roman - Saxon,300 -- 399
+1581,ABMAP9514,Tibia,63.0,Bd,Roman - Saxon,67 -- 132
+1582,ABMAP9514,Tibia,39.5,Dd,Roman - Saxon,67 -- 132
+1586,ABMAP9515,Tibia,60.4,Bd,Roman - Saxon,67 -- 199
+1587,ABMAP9515,Tibia,37.5,Dd,Roman - Saxon,67 -- 199
+1588,ABMAP9515,Tibia,314.0,GL,Roman - Saxon,67 -- 199
+1589,ABMAP9515,Tibia,33.8,SD,Roman - Saxon,67 -- 199
+1590,ABMAP9516,Tibia,80.8,Bd,Roman - Saxon,67 -- 199
+1591,ABMAP9516,Tibia,52.0,Dd,Roman - Saxon,67 -- 199
+1623,ABMAP28397,Tibia,63.2,Bd,Roman - Saxon,850 -- 899
+1624,ABMAP28484,Tibia,70.0,Bd,Roman - Saxon,850 -- 899
+1669,ABMAP1935,Tibia,39.6,Dd,Roman - Saxon,43 -- 410
+1670,ABMAP1935,Tibia,298.0,Ll,Roman - Saxon,43 -- 410
+1671,ABMAP1935,Tibia,34.0,SD,Roman - Saxon,43 -- 410
+1674,ABMAP1896,Tibia,60.6,Bd,Roman - Saxon,43 -- 410
+1675,ABMAP1896,Tibia,38.4,Dd,Roman - Saxon,43 -- 410
+1676,ABMAP1871,Tibia,71.0,Bd,Roman - Saxon,43 -- 410
+1677,ABMAP1871,Tibia,40.9,Dd,Roman - Saxon,43 -- 410
+1691,ABMAP13141,Tibia,72.6,Bd,Roman - Saxon,650 -- 850
+1692,ABMAP13141,Tibia,46.9,Dd,Roman - Saxon,650 -- 850
+1708,ABMAP28082,Tibia,89.3,Bp,Roman - Saxon,800 -- 1066
+1838,ABMAP1307,Tibia,57.7,Bd,Roman - Saxon,43 -- 410
+1839,ABMAP1307,Tibia,35.0,Dd,Roman - Saxon,43 -- 410
+1851,ABMAP1005,Tibia,72.9,Bd,Roman - Saxon,43 -- 410
+1852,ABMAP1005,Tibia,46.6,Dd,Roman - Saxon,43 -- 410
+1868,ABMAP1136,Tibia,64.2,Bd,Roman - Saxon,43 -- 410
+1869,ABMAP1136,Tibia,40.7,Dd,Roman - Saxon,43 -- 410
+1870,ABMAP1137,Tibia,58.1,Bd,Roman - Saxon,43 -- 410
+1871,ABMAP1137,Tibia,36.6,Dd,Roman - Saxon,43 -- 410
+1913,ABMAP742,Tibia,65.6,Bd,Roman - Saxon,43 -- 410
+1914,ABMAP742,Tibia,39.9,Dd,Roman - Saxon,43 -- 410
+1915,ABMAP742,Tibia,316.0,GL,Roman - Saxon,43 -- 410
+1916,ABMAP742,Tibia,287.0,Ll,Roman - Saxon,43 -- 410
+1917,ABMAP742,Tibia,35.9,SD,Roman - Saxon,43 -- 410
+1924,ABMAP1232,Tibia,64.4,Bd,Roman - Saxon,43 -- 410
+1925,ABMAP1232,Tibia,38.8,Dd,Roman - Saxon,43 -- 410
+1926,ABMAP1233,Tibia,65.6,Bd,Roman - Saxon,43 -- 410
+1927,ABMAP1233,Tibia,42.3,Dd,Roman - Saxon,43 -- 410
+1928,ABMAP1234,Tibia,69.3,Bd,Roman - Saxon,43 -- 410
+1929,ABMAP1234,Tibia,43.1,Dd,Roman - Saxon,43 -- 410
+1933,ABMAP1199,Tibia,62.1,Bd,Roman - Saxon,43 -- 410
+1934,ABMAP1199,Tibia,39.5,Dd,Roman - Saxon,43 -- 410
+1941,ABMAP1277,Tibia,57.9,Bd,Roman - Saxon,43 -- 410
+1942,ABMAP1277,Tibia,37.5,Dd,Roman - Saxon,43 -- 410
+1953,ABMAP839,Tibia,61.3,Bd,Roman - Saxon,43 -- 410
+1954,ABMAP839,Tibia,40.5,Dd,Roman - Saxon,43 -- 410
+1955,ABMAP839,Tibia,306.0,GL,Roman - Saxon,43 -- 410
+1956,ABMAP839,Tibia,32.6,SD,Roman - Saxon,43 -- 410
+1957,ABMAP781,Tibia,70.0,Bd,Roman - Saxon,43 -- 410
+1958,ABMAP781,Tibia,43.9,Dd,Roman - Saxon,43 -- 410
+1959,ABMAP781,Tibia,336.0,GL,Roman - Saxon,43 -- 410
+1960,ABMAP781,Tibia,308.0,Ll,Roman - Saxon,43 -- 410
+1961,ABMAP781,Tibia,40.4,SD,Roman - Saxon,43 -- 410
+1973,ABMAP3,Tibia,68.0,Bd,Medieval,1000 -- 1199
+1979,ABMAP9041,Tibia,66.0,Bd,Bronze - Iron Age,-299 -- -100
+1980,ABMAP9041,Tibia,85.5,Bp,Bronze - Iron Age,-299 -- -100
+1981,ABMAP9041,Tibia,320.0,GL,Bronze - Iron Age,-299 -- -100
+1988,ABMAP8935,Tibia,67.0,Bd,Bronze - Iron Age,-299 -- -100
+1989,ABMAP8935,Tibia,86.0,Bp,Bronze - Iron Age,-299 -- -100
+1990,ABMAP8935,Tibia,320.0,GL,Bronze - Iron Age,-299 -- -100
+1991,ABMAP8935,Tibia,34.0,SD,Bronze - Iron Age,-299 -- -100
+2032,J_GRIMM_08WA56530-1007,Tibia,67.8,Bd,Roman - Saxon,300 -- 400
+2051,J_GRIMM_08WA56530-1311,Tibia,64.1,Bd,Roman - Saxon,43 -- 200
+2052,J_GRIMM_08WA56530-1311,Tibia,104.0,CD,Roman - Saxon,43 -- 200
+2053,J_GRIMM_08WA56530-1311,Tibia,44.0,Dd,Roman - Saxon,43 -- 200
+2054,J_GRIMM_08WA56530-1311,Tibia,36.6,SD,Roman - Saxon,43 -- 200
+2100,J_GRIMM_08WA58720-35,Tibia,71.4,Bd,Medieval,1400 -- 1500
+2101,J_GRIMM_08WA58720-35,Tibia,112.0,CD,Medieval,1400 -- 1500
+2102,J_GRIMM_08WA58720-35,Tibia,44.4,Dd,Medieval,1400 -- 1500
+2103,J_GRIMM_08WA58720-35,Tibia,39.6,SD,Medieval,1400 -- 1500
+2126,J_GRIMM_08WA58720-36,Tibia,68.9,Bd,Medieval,1075 -- 1125
+2127,J_GRIMM_08WA58720-36,Tibia,110.0,CD,Medieval,1075 -- 1125
+2128,J_GRIMM_08WA58720-36,Tibia,37.8,SD,Medieval,1075 -- 1125
+2168,J_GRIMM_08WA59480-1141,Tibia,70.0,Bd,Bronze - Iron Age,-400 -- 43
+2169,J_GRIMM_08WA59480-1141,Tibia,88.5,Bp,Bronze - Iron Age,-400 -- 43
+2170,J_GRIMM_08WA59480-1141,Tibia,109.5,CD,Bronze - Iron Age,-400 -- 43
+2171,J_GRIMM_08WA59480-1141,Tibia,347.0,GL,Bronze - Iron Age,-400 -- 43
+2172,J_GRIMM_08WA59480-1141,Tibia,37.6,SD,Bronze - Iron Age,-400 -- 43
+2177,J_GRIMM_08WA59480-1749,Tibia,65.0,Bd,Bronze - Iron Age,100 -- 150
+2178,J_GRIMM_08WA59480-1749,Tibia,96.0,CD,Bronze - Iron Age,100 -- 150
+2179,J_GRIMM_08WA59480-1749,Tibia,328.0,GL,Bronze - Iron Age,100 -- 150
+2180,J_GRIMM_08WA59480-1749,Tibia,31.9,SD,Bronze - Iron Age,100 -- 150
+2267,J_GRIMM_08WA61900-632,Tibia,63.2,Bd,Medieval,1066 -- 1499
+2268,J_GRIMM_08WA61900-632,Tibia,85.6,Bp,Medieval,1066 -- 1499
+2269,J_GRIMM_08WA61900-632,Tibia,96.0,CD,Medieval,1066 -- 1499
+2270,J_GRIMM_08WA61900-632,Tibia,328.0,GL,Medieval,1066 -- 1499
+2271,J_GRIMM_08WA61900-632,Tibia,32.3,SD,Medieval,1066 -- 1499
+2351,J_GRIMM_08WA63661-214,Tibia,312.0,GL,Bronze - Iron Age,-700 -- -100
+2373,ABMAP14025,Tibia,60.6,Bd,Roman - Saxon,43 -- 410
+2374,ABMAP14025,Tibia,37.0,Dd,Roman - Saxon,43 -- 410
+2375,ABMAP14025,Tibia,33.0,SD,Roman - Saxon,43 -- 410
+2392,ABMAP13902,Tibia,46.5,Dd,Medieval,1300 -- 1499
+2409,ABMAP13911,Tibia,64.5,Bd,Medieval,1300 -- 1499
+2410,ABMAP13911,Tibia,85.5,Bp,Medieval,1300 -- 1499
+2411,ABMAP13911,Tibia,39.6,Dd,Medieval,1300 -- 1499
+2412,ABMAP13911,Tibia,322.0,GL,Medieval,1300 -- 1499
+2413,ABMAP13911,Tibia,36.5,SD,Medieval,1300 -- 1499
+2414,ABMAP13912,Tibia,60.4,Bd,Medieval,1300 -- 1499
+2415,ABMAP13912,Tibia,39.1,Dd,Medieval,1300 -- 1499
+2467,ABMAP1490,Tibia,70.0,Bd,Roman - Saxon,43 -- 1066
+2468,ABMAP1490,Tibia,41.4,Dd,Roman - Saxon,43 -- 1066
+2486,ABMAP1461,Tibia,69.8,Bd,Roman - Saxon,43 -- 199
+2487,ABMAP1461,Tibia,41.4,Dd,Roman - Saxon,43 -- 199
+2493,ABMAP8681,Tibia,70.6,Bd,Roman - Saxon,900 -- 1099
+2494,ABMAP8681,Tibia,46.0,Dd,Roman - Saxon,900 -- 1099
+2495,ABMAP8681,Tibia,36.1,SD,Roman - Saxon,900 -- 1099
+2515,ABMAP16218,Tibia,62.5,Bd,Bronze - Iron Age,-800 -- -400
+2516,ABMAP16218,Tibia,37.5,Dd,Bronze - Iron Age,-800 -- -400
+2517,ABMAP16218,Tibia,320.9,GL,Bronze - Iron Age,-800 -- -400
+2518,ABMAP16218,Tibia,295.0,Ll,Bronze - Iron Age,-800 -- -400
+2519,ABMAP16218,Tibia,33.2,SD,Bronze - Iron Age,-800 -- -400
+2522,ABMAP15759,Tibia,60.5,Bd,Bronze - Iron Age,-400 -- -100
+2523,ABMAP15759,Tibia,37.4,Dd,Bronze - Iron Age,-400 -- -100
+2524,ABMAP15759,Tibia,305.0,GL,Bronze - Iron Age,-400 -- -100
+2557,ABMAP15713,Tibia,58.8,Bd,Bronze - Iron Age,-400 -- -100
+2558,ABMAP15713,Tibia,77.7,Bp,Bronze - Iron Age,-400 -- -100
+2559,ABMAP15713,Tibia,36.8,Dd,Bronze - Iron Age,-400 -- -100
+2560,ABMAP15713,Tibia,277.8,GL,Bronze - Iron Age,-400 -- -100
+2561,ABMAP15713,Tibia,253.4,Ll,Bronze - Iron Age,-400 -- -100
+2562,ABMAP15713,Tibia,33.4,SD,Bronze - Iron Age,-400 -- -100
+2573,ABMAP15760,Tibia,33.2,Dd,Bronze - Iron Age,-400 -- -100
+2613,ABMAP15695,Tibia,60.0,Bd,Bronze - Iron Age,-400 -- -100
+2614,ABMAP15695,Tibia,39.6,Dd,Bronze - Iron Age,-400 -- -100
+2615,ABMAP15695,Tibia,320.0,GL,Bronze - Iron Age,-400 -- -100
+2616,ABMAP15695,Tibia,32.4,SD,Bronze - Iron Age,-400 -- -100
+2622,ABMAP16142,Tibia,61.5,Bd,Roman - Saxon,43 -- 410
+2623,ABMAP16142,Tibia,37.7,Dd,Roman - Saxon,43 -- 410
+2640,ABMAP16175,Tibia,59.9,Bd,Roman - Saxon,43 -- 410
+2641,ABMAP16175,Tibia,37.1,Dd,Roman - Saxon,43 -- 410
+2654,ABMAP15791,Tibia,54.0,Bd,Bronze - Iron Age,-400 -- -100
+2655,ABMAP15791,Tibia,34.4,Dd,Bronze - Iron Age,-400 -- -100
+2656,ABMAP15791,Tibia,282.2,GL,Bronze - Iron Age,-400 -- -100
+2657,ABMAP15791,Tibia,257.1,Ll,Bronze - Iron Age,-400 -- -100
+2658,ABMAP15791,Tibia,31.4,SD,Bronze - Iron Age,-400 -- -100
+2722,ABMAP16196,Tibia,59.7,Bd,Bronze - Iron Age,-800 -- -400
+2723,ABMAP16266,Tibia,62.3,Bd,Bronze - Iron Age,-800 -- -400
+2724,ABMAP16266,Tibia,39.6,Dd,Bronze - Iron Age,-800 -- -400
+2733,ABMAP15747,Tibia,59.4,Bd,Roman - Saxon,43 -- 410
+2734,ABMAP15747,Tibia,37.2,Dd,Roman - Saxon,43 -- 410
+2735,ABMAP15748,Tibia,40.0,Dd,Roman - Saxon,43 -- 410
+2760,ABMAP8662,Tibia,60.0,Bd,Roman - Saxon,43 -- 100
+2761,ABMAP8662,Tibia,38.0,Dd,Roman - Saxon,43 -- 100
+2762,ABMAP8662,Tibia,314.0,GL,Roman - Saxon,43 -- 100
+2769,ABMAP302,Tibia,54.3,Bd,Bronze - Iron Age,-499 -- -200
+2770,ABMAP302,Tibia,32.9,Dd,Bronze - Iron Age,-499 -- -200
+2783,ABMAP426,Tibia,64.4,Bd,Bronze - Iron Age,-50 -- 75
+2784,ABMAP426,Tibia,38.0,Dd,Bronze - Iron Age,-50 -- 75
+2785,ABMAP426,Tibia,319.0,GL,Bronze - Iron Age,-50 -- 75
+2786,ABMAP426,Tibia,33.0,SD,Bronze - Iron Age,-50 -- 75
+2806,ABMAP431,Tibia,58.9,Bd,Bronze - Iron Age,-50 -- 75
+2807,ABMAP431,Tibia,35.6,Dd,Bronze - Iron Age,-50 -- 75
+2823,ABMAP436,Tibia,34.0,Dd,Bronze - Iron Age,-50 -- 75
+2872,ABMAP9249,Tibia,58.55,Bd,Bronze - Iron Age,-99 -- 99
+2873,ABMAP8858,Tibia,73.0,Bd,Medieval,1200 -- 1399
+2996,ABMAP14259,Tibia,59.7,Bd,Roman - Saxon,43 -- 410
+2997,ABMAP14259,Tibia,37.0,Dd,Roman - Saxon,43 -- 410
+2998,ABMAP14259,Tibia,33.0,SD,Roman - Saxon,43 -- 410
+3022,ABMAP5549,Tibia,75.2,Bd,Modern,1900 -- 2500
+3023,ABMAP5549,Tibia,44.7,Dd,Modern,1900 -- 2500
+3035,ABMAP5548,Tibia,77.0,Bd,Modern,1900 -- 2500
+3036,ABMAP5548,Tibia,46.0,Dd,Modern,1900 -- 2500
+3037,ABMAP5548,Tibia,41.0,SD,Modern,1900 -- 2500
+3050,ABMAP10840,Tibia,67.0,Bd,Roman - Saxon,200 -- 410
+3051,ABMAP10840,Tibia,87.0,Bp,Roman - Saxon,200 -- 410
+3052,ABMAP10840,Tibia,43.0,Dd,Roman - Saxon,200 -- 410
+3053,ABMAP10840,Tibia,346.0,GL,Roman - Saxon,200 -- 410
+3054,ABMAP10840,Tibia,35.0,SD,Roman - Saxon,200 -- 410

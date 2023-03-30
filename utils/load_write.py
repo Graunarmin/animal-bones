@@ -39,6 +39,18 @@ def __to_csv(data, path):
     print("Wrote csv data to file")
 
 
+def save_dict_to_csv(dict_of_dataframes, rootpath):
+    """
+    Takes a dictionary of the form { "framename" : dataframe, ...}
+    and saves each dataframa to a separate file with the respective name
+    :param dict_of_dataframes: dictinary with the name of the dataframe as key and the dataframe as value
+    :param rootpath: the filepath where the dataframe is supposed to be saved
+    :return: -
+    """
+    for key in dict_of_dataframes:
+        save_csv(dict_of_dataframes[key], rootpath+key+".csv")
+
+
 # ------ JSON ------
 
 def load_json(path):

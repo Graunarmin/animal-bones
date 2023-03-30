@@ -1,0 +1,62 @@
+,BONEID,ELEMENT,MEASURE,MEASTYPE,PERIOD,RANGE
+13,ABMAP2074,Radius,83.6,Bp,Roman - Saxon,43 -- 410
+25,ABMAP11880,Radius,80.0,Bp,Roman - Saxon,43 -- 410
+30,ABMAP11881,Radius,80.0,Bp,Roman - Saxon,43 -- 410
+70,ABMAP5450,Radius,73.5,Bp,Bronze - Iron Age,-299 -- 99
+77,ABMAP5469,Radius,73.5,Bp,Medieval,1066 -- 1540
+120,ABMAP3080,Radius,75.6,Bp,Roman - Saxon,800 -- 999
+220,ABMAP17329,Radius,73.5,Bp,Bronze - Iron Age,-99 -- 99
+264,ABMAP8717,Radius,75.2,Bp,Roman - Saxon,310 -- 330
+284,ABMAP25990,Radius,78.6,Bp,Roman - Saxon,700 -- 732
+312,ABMAP26101,Radius,77.9,Bp,Roman - Saxon,733 -- 832
+345,ABMAP26103,Radius,82.8,Bp,Roman - Saxon,733 -- 832
+389,ABMAP25538,Radius,84.2,Bp,Roman - Saxon,833 -- 932
+391,ABMAP26498,Radius,84.2,Bp,Roman - Saxon,833 -- 932
+397,ABMAP25540,Radius,74.1,Bp,Roman - Saxon,833 -- 932
+407,ABMAP26500,Radius,74.1,Bp,Roman - Saxon,833 -- 932
+415,ABMAP26105,Radius,84.0,Bp,Roman - Saxon,733 -- 832
+419,ABMAP26107,Radius,79.6,Bp,Roman - Saxon,733 -- 832
+428,ABMAP25541,Radius,82.1,Bp,Roman - Saxon,833 -- 932
+480,ABMAP26501,Radius,82.1,Bp,Roman - Saxon,833 -- 932
+566,ABMAP5418,Radius,69.9,Bp,Bronze - Iron Age,-800 -- 43
+801,ABMAP530,Radius,65.6,Bp,Bronze - Iron Age,-100 -- -43
+806,ABMAP495,Radius,67.7,Bp,Bronze - Iron Age,-100 -- -43
+815,ABMAP507,Radius,74.6,Bp,Bronze - Iron Age,-100 -- -43
+848,ABMAP581,Radius,74.9,Bp,Bronze - Iron Age,-100 -- -43
+852,ABMAP582,Radius,69.5,Bp,Bronze - Iron Age,-100 -- -43
+859,ABMAP583,Radius,76.3,Bp,Bronze - Iron Age,-100 -- -43
+884,ABMAP545,Radius,68.9,Bp,Bronze - Iron Age,-100 -- -43
+1487,ABMAP16618,Radius,74.7,Bp,Medieval,1033 -- 1499
+1510,ABMAP9508,Radius,73.2,Bp,Roman - Saxon,333 -- 366
+1554,ABMAP9536,Radius,76.5,Bp,Roman - Saxon,367 -- 399
+1576,ABMAP9537,Radius,84.2,Bp,Roman - Saxon,300 -- 399
+1625,ABMAP28497,Radius,71.3,Bp,Roman - Saxon,850 -- 899
+1626,ABMAP28498,Radius,79.6,Bp,Roman - Saxon,850 -- 899
+1627,ABMAP28499,Radius,79.6,Bp,Roman - Saxon,850 -- 899
+1632,ABMAP1865,Radius,74.5,Bp,Roman - Saxon,43 -- 410
+1721,ABMAP18519,Radius,73.6,Bp,Bronze - Iron Age,-800 -- 43
+1750,ABMAP18520,Radius,76.9,Bp,Bronze - Iron Age,-1000 -- -400
+1931,ABMAP1197,Radius,75.9,Bp,Roman - Saxon,43 -- 410
+1965,ABMAP3543,Radius,65.1,Bp,Roman - Saxon,200 -- 410
+1969,ABMAP3541,Radius,69.8,Bp,Roman - Saxon,200 -- 410
+1977,ABMAP8905,Radius,69.5,Bp,Bronze - Iron Age,-299 -- -100
+1987,ABMAP9071,Radius,74.5,Bp,Bronze - Iron Age,-299 -- -100
+2076,J_GRIMM_08WA58571-68,Radius,65.9,Bp,Roman - Saxon,43 -- 410
+2273,J_GRIMM_08WA61900-668,Radius,75.4,Bp,Roman - Saxon,43 -- 410
+2279,J_GRIMM_08WA61900-583,Radius,77.4,Bp,Roman - Saxon,43 -- 410
+2284,J_GRIMM_08WA61900-364,Radius,68.3,Bp,Bronze - Iron Age,-700 -- 43
+2328,J_GRIMM_08WA63220-2748,Radius,76.7,Bp,Roman - Saxon,850 -- 1066
+2340,J_GRIMM_08WA63220-3539,Radius,77.1,Bp,Roman - Saxon,850 -- 1066
+2388,ABMAP13885,Radius,71.9,Bp,Medieval,1300 -- 1499
+2418,ABMAP13913,Radius,78.8,Bp,Medieval,1300 -- 1499
+2541,ABMAP15710,Radius,66.3,Bp,Bronze - Iron Age,-400 -- -100
+2585,ABMAP15682,Radius,69.8,Bp,Bronze - Iron Age,-400 -- -100
+2609,ABMAP15694,Radius,73.1,Bp,Bronze - Iron Age,-400 -- -100
+2636,ABMAP16115,Radius,69.9,Bp,Bronze - Iron Age,-400 -- -100
+2673,ABMAP15687,Radius,65.5,Bp,Bronze - Iron Age,-400 -- -100
+2755,ABMAP8660,Radius,71.0,Bp,Roman - Saxon,43 -- 100
+2795,ABMAP428,Radius,70.7,Bp,Bronze - Iron Age,-50 -- 75
+2826,ABMAP335,Radius,71.9,Bp,Bronze - Iron Age,-199 -- 0
+2902,ABMAP14337,Radius,71.0,Bp,Roman - Saxon,43 -- 410
+2959,ABMAP14434,Radius,72.9,Bp,Roman - Saxon,43 -- 410
+3068,ABMAP10843,Radius,76.4,Bp,Roman - Saxon,200 -- 410

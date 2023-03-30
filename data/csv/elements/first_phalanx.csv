@@ -1,0 +1,541 @@
+,BONEID,ELEMENT,MEASURE,MEASTYPE,PERIOD,RANGE
+19,ABMAP11851,First phalanx,32.8,SD,Roman - Saxon,43 -- 410
+64,ABMAP16909,First phalanx,74.4,GL,Roman - Saxon,700 -- 899
+81,ABMAP15378,First phalanx,49.7,Bd,Roman - Saxon,43 -- 410
+82,ABMAP15378,First phalanx,44.0,BFd,Roman - Saxon,43 -- 410
+83,ABMAP15378,First phalanx,51.0,BFp,Roman - Saxon,43 -- 410
+84,ABMAP15378,First phalanx,57.4,Bp,Roman - Saxon,43 -- 410
+85,ABMAP15378,First phalanx,38.0,Dp,Roman - Saxon,43 -- 410
+86,ABMAP15378,First phalanx,86.5,GL,Roman - Saxon,43 -- 410
+87,ABMAP15378,First phalanx,38.5,SD,Roman - Saxon,43 -- 410
+91,ABMAP15393,First phalanx,46.6,Bd,Roman - Saxon,43 -- 410
+92,ABMAP15393,First phalanx,45.2,BFd,Roman - Saxon,43 -- 410
+93,ABMAP15393,First phalanx,53.5,Bp,Roman - Saxon,43 -- 410
+94,ABMAP15393,First phalanx,37.0,Dp,Roman - Saxon,43 -- 410
+95,ABMAP15393,First phalanx,92.0,GL,Roman - Saxon,43 -- 410
+96,ABMAP15393,First phalanx,33.3,SD,Roman - Saxon,43 -- 410
+115,ABMAP3077,First phalanx,44.1,Bd,Roman - Saxon,800 -- 999
+116,ABMAP3077,First phalanx,40.7,BFd,Roman - Saxon,800 -- 999
+117,ABMAP3077,First phalanx,45.0,BFp,Roman - Saxon,800 -- 999
+118,ABMAP3077,First phalanx,32.6,SD,Roman - Saxon,800 -- 999
+221,ABMAP17357,First phalanx,36.5,Bd,Bronze - Iron Age,-99 -- 99
+222,ABMAP17357,First phalanx,35.0,BFd,Bronze - Iron Age,-99 -- 99
+223,ABMAP17357,First phalanx,64.2,GL,Bronze - Iron Age,-99 -- 99
+224,ABMAP17357,First phalanx,25.8,SD,Bronze - Iron Age,-99 -- 99
+239,ABMAP17372,First phalanx,44.9,Bd,Roman - Saxon,43 -- 410
+240,ABMAP17372,First phalanx,50.4,Bp,Roman - Saxon,43 -- 410
+241,ABMAP17372,First phalanx,30.1,Dp,Roman - Saxon,43 -- 410
+242,ABMAP17372,First phalanx,76.7,GL,Roman - Saxon,43 -- 410
+243,ABMAP17372,First phalanx,35.3,SD,Roman - Saxon,43 -- 410
+257,ABMAP17348,First phalanx,51.0,Bd,Bronze - Iron Age,-800 -- -100
+258,ABMAP17348,First phalanx,44.7,BFd,Bronze - Iron Age,-800 -- -100
+259,ABMAP17348,First phalanx,52.8,BFp,Bronze - Iron Age,-800 -- -100
+260,ABMAP17348,First phalanx,55.9,Bp,Bronze - Iron Age,-800 -- -100
+261,ABMAP17348,First phalanx,35.8,Dp,Bronze - Iron Age,-800 -- -100
+262,ABMAP17348,First phalanx,86.1,GL,Bronze - Iron Age,-800 -- -100
+263,ABMAP17348,First phalanx,38.1,SD,Bronze - Iron Age,-800 -- -100
+299,ABMAP26111,First phalanx,46.3,Bd,Roman - Saxon,733 -- 832
+300,ABMAP26111,First phalanx,41.1,BFd,Roman - Saxon,733 -- 832
+301,ABMAP26111,First phalanx,48.4,BFp,Roman - Saxon,733 -- 832
+302,ABMAP26111,First phalanx,52.9,Bp,Roman - Saxon,733 -- 832
+303,ABMAP26111,First phalanx,33.7,Dp,Roman - Saxon,733 -- 832
+304,ABMAP26111,First phalanx,81.6,GL,Roman - Saxon,733 -- 832
+305,ABMAP26111,First phalanx,34.0,SD,Roman - Saxon,733 -- 832
+316,ABMAP25993,First phalanx,42.4,Bd,Roman - Saxon,700 -- 732
+317,ABMAP25993,First phalanx,39.3,BFd,Roman - Saxon,700 -- 732
+318,ABMAP25993,First phalanx,44.8,BFp,Roman - Saxon,700 -- 732
+319,ABMAP25993,First phalanx,50.6,Bp,Roman - Saxon,700 -- 732
+320,ABMAP25993,First phalanx,31.5,Dp,Roman - Saxon,700 -- 732
+321,ABMAP25993,First phalanx,77.2,GL,Roman - Saxon,700 -- 732
+322,ABMAP25993,First phalanx,33.9,SD,Roman - Saxon,700 -- 732
+337,ABMAP25994,First phalanx,47.0,Bd,Roman - Saxon,700 -- 732
+338,ABMAP25994,First phalanx,42.1,BFd,Roman - Saxon,700 -- 732
+339,ABMAP25994,First phalanx,51.5,BFp,Roman - Saxon,700 -- 732
+340,ABMAP25994,First phalanx,55.1,Bp,Roman - Saxon,700 -- 732
+341,ABMAP25994,First phalanx,38.2,Dp,Roman - Saxon,700 -- 732
+342,ABMAP25994,First phalanx,86.2,GL,Roman - Saxon,700 -- 732
+343,ABMAP25994,First phalanx,32.6,SD,Roman - Saxon,700 -- 732
+364,ABMAP26108,First phalanx,43.7,Bd,Roman - Saxon,733 -- 832
+365,ABMAP26108,First phalanx,40.0,BFd,Roman - Saxon,733 -- 832
+366,ABMAP26108,First phalanx,46.8,BFp,Roman - Saxon,733 -- 832
+367,ABMAP26108,First phalanx,55.0,Bp,Roman - Saxon,733 -- 832
+368,ABMAP26108,First phalanx,35.9,Dp,Roman - Saxon,733 -- 832
+369,ABMAP26108,First phalanx,79.3,GL,Roman - Saxon,733 -- 832
+370,ABMAP26108,First phalanx,32.5,SD,Roman - Saxon,733 -- 832
+385,ABMAP26113,First phalanx,45.7,Bd,Roman - Saxon,733 -- 832
+386,ABMAP26113,First phalanx,55.2,Bp,Roman - Saxon,733 -- 832
+387,ABMAP26113,First phalanx,77.2,GL,Roman - Saxon,733 -- 832
+388,ABMAP26113,First phalanx,34.8,SD,Roman - Saxon,733 -- 832
+420,ABMAP26505,First phalanx,43.0,Bd,Roman - Saxon,833 -- 932
+421,ABMAP26505,First phalanx,41.1,BFd,Roman - Saxon,833 -- 932
+422,ABMAP26505,First phalanx,47.4,BFp,Roman - Saxon,833 -- 932
+423,ABMAP26505,First phalanx,52.3,Bp,Roman - Saxon,833 -- 932
+424,ABMAP26505,First phalanx,32.9,Dp,Roman - Saxon,833 -- 932
+425,ABMAP26505,First phalanx,80.9,GL,Roman - Saxon,833 -- 932
+426,ABMAP26505,First phalanx,33.2,SD,Roman - Saxon,833 -- 932
+434,ABMAP25544,First phalanx,46.4,Bd,Roman - Saxon,833 -- 932
+435,ABMAP25544,First phalanx,43.3,BFd,Roman - Saxon,833 -- 932
+436,ABMAP25544,First phalanx,49.9,BFp,Roman - Saxon,833 -- 932
+437,ABMAP25544,First phalanx,79.8,GL,Roman - Saxon,833 -- 932
+438,ABMAP25544,First phalanx,35.6,SD,Roman - Saxon,833 -- 932
+439,ABMAP25545,First phalanx,47.1,Bd,Roman - Saxon,833 -- 932
+440,ABMAP25545,First phalanx,37.7,BFd,Roman - Saxon,833 -- 932
+441,ABMAP25545,First phalanx,48.8,BFp,Roman - Saxon,833 -- 932
+442,ABMAP25545,First phalanx,51.8,Bp,Roman - Saxon,833 -- 932
+443,ABMAP25545,First phalanx,35.1,Dp,Roman - Saxon,833 -- 932
+444,ABMAP25545,First phalanx,77.8,GL,Roman - Saxon,833 -- 932
+445,ABMAP25545,First phalanx,32.2,SD,Roman - Saxon,833 -- 932
+486,ABMAP26506,First phalanx,47.1,Bd,Roman - Saxon,833 -- 932
+487,ABMAP26506,First phalanx,37.7,BFd,Roman - Saxon,833 -- 932
+488,ABMAP26506,First phalanx,48.8,BFp,Roman - Saxon,833 -- 932
+489,ABMAP26506,First phalanx,51.8,Bp,Roman - Saxon,833 -- 932
+490,ABMAP26506,First phalanx,35.1,Dp,Roman - Saxon,833 -- 932
+491,ABMAP26506,First phalanx,77.8,GL,Roman - Saxon,833 -- 932
+492,ABMAP26506,First phalanx,32.2,SD,Roman - Saxon,833 -- 932
+493,ABMAP26507,First phalanx,46.4,Bd,Roman - Saxon,833 -- 932
+494,ABMAP26507,First phalanx,43.3,BFd,Roman - Saxon,833 -- 932
+495,ABMAP26507,First phalanx,49.9,BFp,Roman - Saxon,833 -- 932
+496,ABMAP26507,First phalanx,79.8,GL,Roman - Saxon,833 -- 932
+497,ABMAP26507,First phalanx,35.6,SD,Roman - Saxon,833 -- 932
+529,ABMAP26109,First phalanx,45.9,Bd,Roman - Saxon,733 -- 832
+530,ABMAP26109,First phalanx,42.8,BFd,Roman - Saxon,733 -- 832
+531,ABMAP26109,First phalanx,51.7,BFp,Roman - Saxon,733 -- 832
+532,ABMAP26109,First phalanx,56.8,Bp,Roman - Saxon,733 -- 832
+533,ABMAP26109,First phalanx,80.1,GL,Roman - Saxon,733 -- 832
+534,ABMAP26109,First phalanx,36.7,SD,Roman - Saxon,733 -- 832
+539,ABMAP26110,First phalanx,46.7,Bd,Roman - Saxon,733 -- 832
+540,ABMAP26110,First phalanx,41.8,BFd,Roman - Saxon,733 -- 832
+541,ABMAP26110,First phalanx,53.4,Bp,Roman - Saxon,733 -- 832
+542,ABMAP26110,First phalanx,80.6,GL,Roman - Saxon,733 -- 832
+543,ABMAP26110,First phalanx,35.3,SD,Roman - Saxon,733 -- 832
+544,ABMAP26112,First phalanx,45.7,Bd,Roman - Saxon,733 -- 832
+545,ABMAP26112,First phalanx,42.7,BFd,Roman - Saxon,733 -- 832
+546,ABMAP26112,First phalanx,54.1,Bp,Roman - Saxon,733 -- 832
+547,ABMAP26112,First phalanx,78.6,GL,Roman - Saxon,733 -- 832
+548,ABMAP26112,First phalanx,35.0,SD,Roman - Saxon,733 -- 832
+552,ABMAP25992,First phalanx,42.9,Bd,Roman - Saxon,700 -- 732
+553,ABMAP25992,First phalanx,36.8,BFd,Roman - Saxon,700 -- 732
+554,ABMAP25992,First phalanx,44.2,BFp,Roman - Saxon,700 -- 732
+555,ABMAP25992,First phalanx,50.8,Bp,Roman - Saxon,700 -- 732
+556,ABMAP25992,First phalanx,33.7,Dp,Roman - Saxon,700 -- 732
+557,ABMAP25992,First phalanx,69.0,GL,Roman - Saxon,700 -- 732
+558,ABMAP25992,First phalanx,32.0,SD,Roman - Saxon,700 -- 732
+619,ABMAP2991,First phalanx,50.1,Bp,Roman - Saxon,900 -- 999
+620,ABMAP2991,First phalanx,75.2,GL,Roman - Saxon,900 -- 999
+621,ABMAP2991,First phalanx,33.5,SD,Roman - Saxon,900 -- 999
+622,ABMAP2992,First phalanx,50.5,Bp,Roman - Saxon,900 -- 999
+623,ABMAP2992,First phalanx,74.5,GL,Roman - Saxon,900 -- 999
+624,ABMAP2992,First phalanx,33.8,SD,Roman - Saxon,900 -- 999
+663,ABMAP2993,First phalanx,52.1,Bp,Medieval,1200 -- 1399
+664,ABMAP2993,First phalanx,76.4,GL,Medieval,1200 -- 1399
+665,ABMAP2993,First phalanx,31.0,SD,Medieval,1200 -- 1399
+679,ABMAP2994,First phalanx,80.0,GL,Medieval,1300 -- 1499
+680,ABMAP2994,First phalanx,31.6,SD,Medieval,1300 -- 1499
+683,ABMAP16521,First phalanx,42.4,BFd,Roman - Saxon,950 -- 1139
+684,ABMAP16521,First phalanx,49.7,BFp,Roman - Saxon,950 -- 1139
+685,ABMAP16521,First phalanx,85.4,GL,Roman - Saxon,950 -- 1139
+686,ABMAP16521,First phalanx,37.4,SD,Roman - Saxon,950 -- 1139
+687,ABMAP16373,First phalanx,44.3,Bd,Roman - Saxon,600 -- 1099
+688,ABMAP16373,First phalanx,40.0,BFd,Roman - Saxon,600 -- 1099
+689,ABMAP16373,First phalanx,48.3,BFp,Roman - Saxon,600 -- 1099
+690,ABMAP16373,First phalanx,54.1,Bp,Roman - Saxon,600 -- 1099
+691,ABMAP16373,First phalanx,36.4,Dp,Roman - Saxon,600 -- 1099
+692,ABMAP16373,First phalanx,77.6,GL,Roman - Saxon,600 -- 1099
+693,ABMAP16373,First phalanx,33.1,SD,Roman - Saxon,600 -- 1099
+716,ABMAP20064,First phalanx,48.8,Bd,Medieval,1700 -- 1799
+717,ABMAP20064,First phalanx,65.8,Bp,Medieval,1700 -- 1799
+718,ABMAP20064,First phalanx,29.0,Dd,Medieval,1700 -- 1799
+719,ABMAP20064,First phalanx,44.0,Dp,Medieval,1700 -- 1799
+720,ABMAP20064,First phalanx,93.2,GL,Medieval,1700 -- 1799
+721,ABMAP20064,First phalanx,40.7,SD,Medieval,1700 -- 1799
+742,ABMAP20063,First phalanx,57.6,Bp,Medieval,1500 -- 1901
+743,ABMAP20063,First phalanx,33.5,Dp,Medieval,1500 -- 1901
+744,ABMAP20063,First phalanx,88.5,GL,Medieval,1500 -- 1901
+745,ABMAP20063,First phalanx,33.9,SD,Medieval,1500 -- 1901
+833,ABMAP576,First phalanx,46.7,Bd,Bronze - Iron Age,-100 -- -43
+834,ABMAP576,First phalanx,40.9,BFp,Bronze - Iron Age,-100 -- -43
+835,ABMAP576,First phalanx,50.4,Bp,Bronze - Iron Age,-100 -- -43
+836,ABMAP576,First phalanx,34.4,Dp,Bronze - Iron Age,-100 -- -43
+837,ABMAP576,First phalanx,83.6,GL,Bronze - Iron Age,-100 -- -43
+915,ABMAP28639,First phalanx,41.3,Bd,Medieval,1250 -- 1400
+916,ABMAP28639,First phalanx,79.5,GL,Medieval,1250 -- 1400
+917,ABMAP28639,First phalanx,32.4,SD,Medieval,1250 -- 1400
+921,ABMAP28652,First phalanx,45.1,Bd,Medieval,1250 -- 1400
+922,ABMAP28652,First phalanx,34.9,SD,Medieval,1250 -- 1400
+931,ABMAP29017,First phalanx,39.7,Bd,Medieval,1250 -- 1400
+932,ABMAP29017,First phalanx,78.7,GL,Medieval,1250 -- 1400
+933,ABMAP29017,First phalanx,31.4,SD,Medieval,1250 -- 1400
+934,ABMAP29026,First phalanx,37.7,Bd,Medieval,1300 -- 1450
+935,ABMAP29026,First phalanx,27.9,SD,Medieval,1300 -- 1450
+960,ABMAP29124,First phalanx,40.6,Bd,Roman - Saxon,400 -- 1066
+961,ABMAP29124,First phalanx,80.7,GL,Roman - Saxon,400 -- 1066
+962,ABMAP29124,First phalanx,34.8,SD,Roman - Saxon,400 -- 1066
+965,ABMAP29146,First phalanx,72.1,GL,Medieval,1100 -- 1250
+966,ABMAP29146,First phalanx,29.5,SD,Medieval,1100 -- 1250
+980,ABMAP28708,First phalanx,29.7,SD,Medieval,1250 -- 1400
+989,ABMAP29233,First phalanx,44.9,Bd,Medieval,1450 -- 1800
+990,ABMAP29233,First phalanx,83.7,GL,Medieval,1450 -- 1800
+991,ABMAP29233,First phalanx,35.1,SD,Medieval,1450 -- 1800
+998,ABMAP29237,First phalanx,30.0,SD,Medieval,1300 -- 1450
+999,ABMAP29238,First phalanx,34.3,SD,Medieval,1250 -- 1400
+1001,ABMAP29244,First phalanx,41.5,Bd,Medieval,1300 -- 1450
+1002,ABMAP29244,First phalanx,78.5,GL,Medieval,1300 -- 1450
+1003,ABMAP29244,First phalanx,31.1,SD,Medieval,1300 -- 1450
+1032,ABMAP29275,First phalanx,77.7,GL,Medieval,1300 -- 1450
+1042,ABMAP29288,First phalanx,40.7,Bd,Medieval,1250 -- 1400
+1043,ABMAP29288,First phalanx,79.5,GL,Medieval,1250 -- 1400
+1044,ABMAP29288,First phalanx,30.8,SD,Medieval,1250 -- 1400
+1046,ABMAP29298,First phalanx,42.2,Bd,Medieval,1250 -- 1400
+1047,ABMAP29298,First phalanx,84.2,GL,Medieval,1250 -- 1400
+1048,ABMAP29298,First phalanx,32.6,SD,Medieval,1250 -- 1400
+1051,ABMAP29304,First phalanx,36.7,Bd,Medieval,1250 -- 1400
+1052,ABMAP29304,First phalanx,70.2,GL,Medieval,1250 -- 1400
+1053,ABMAP29304,First phalanx,27.8,SD,Medieval,1250 -- 1400
+1054,ABMAP29306,First phalanx,39.6,Bd,Medieval,1250 -- 1400
+1055,ABMAP29306,First phalanx,76.1,GL,Medieval,1250 -- 1400
+1056,ABMAP29306,First phalanx,31.3,SD,Medieval,1250 -- 1400
+1062,ABMAP29311,First phalanx,38.9,Bd,Medieval,1250 -- 1400
+1063,ABMAP29311,First phalanx,73.4,GL,Medieval,1250 -- 1400
+1064,ABMAP29311,First phalanx,29.7,SD,Medieval,1250 -- 1400
+1066,ABMAP29315,First phalanx,38.1,Bd,Medieval,1100 -- 1250
+1067,ABMAP29315,First phalanx,68.8,GL,Medieval,1100 -- 1250
+1068,ABMAP29315,First phalanx,27.6,SD,Medieval,1100 -- 1250
+1074,ABMAP29322,First phalanx,40.5,Bd,Medieval,1250 -- 1400
+1075,ABMAP29322,First phalanx,76.8,GL,Medieval,1250 -- 1400
+1076,ABMAP29331,First phalanx,39.6,Bd,Medieval,1250 -- 1400
+1077,ABMAP29331,First phalanx,79.0,GL,Medieval,1250 -- 1400
+1078,ABMAP29331,First phalanx,31.5,SD,Medieval,1250 -- 1400
+1080,ABMAP29405,First phalanx,30.8,SD,Roman - Saxon,950 -- 1100
+1081,ABMAP29341,First phalanx,32.3,SD,Medieval,1100 -- 1250
+1082,ABMAP29347,First phalanx,41.9,Bd,Medieval,1100 -- 1250
+1083,ABMAP29347,First phalanx,82.6,GL,Medieval,1100 -- 1250
+1084,ABMAP29347,First phalanx,36.8,SD,Medieval,1100 -- 1250
+1085,ABMAP29357,First phalanx,38.0,Bd,Medieval,1100 -- 1250
+1086,ABMAP29357,First phalanx,79.5,GL,Medieval,1100 -- 1250
+1087,ABMAP29357,First phalanx,28.0,SD,Medieval,1100 -- 1250
+1090,ABMAP29366,First phalanx,42.3,Bd,Medieval,1100 -- 1250
+1091,ABMAP29366,First phalanx,84.2,GL,Medieval,1100 -- 1250
+1092,ABMAP29366,First phalanx,31.1,SD,Medieval,1100 -- 1250
+1103,ABMAP29388,First phalanx,44.7,Bd,Medieval,1100 -- 1250
+1104,ABMAP29388,First phalanx,88.9,GL,Medieval,1100 -- 1250
+1105,ABMAP29388,First phalanx,34.9,SD,Medieval,1100 -- 1250
+1111,ABMAP29398,First phalanx,44.8,Bd,Medieval,1100 -- 1250
+1112,ABMAP29398,First phalanx,87.7,GL,Medieval,1100 -- 1250
+1113,ABMAP29399,First phalanx,39.6,Bd,Medieval,1100 -- 1250
+1114,ABMAP29399,First phalanx,78.7,GL,Medieval,1100 -- 1250
+1115,ABMAP29399,First phalanx,28.2,SD,Medieval,1100 -- 1250
+1118,ABMAP29413,First phalanx,38.0,Bd,Medieval,1100 -- 1250
+1119,ABMAP29413,First phalanx,71.0,GL,Medieval,1100 -- 1250
+1120,ABMAP29413,First phalanx,32.1,SD,Medieval,1100 -- 1250
+1126,ABMAP29493,First phalanx,37.6,Bd,Medieval,1100 -- 1250
+1127,ABMAP29493,First phalanx,75.8,GL,Medieval,1100 -- 1250
+1128,ABMAP29493,First phalanx,28.7,SD,Medieval,1100 -- 1250
+1146,ABMAP29515,First phalanx,75.0,GL,Medieval,1100 -- 1250
+1147,ABMAP29515,First phalanx,32.6,SD,Medieval,1100 -- 1250
+1149,ABMAP29518,First phalanx,40.0,Bd,Roman - Saxon,950 -- 1100
+1150,ABMAP29518,First phalanx,75.6,GL,Roman - Saxon,950 -- 1100
+1151,ABMAP29518,First phalanx,32.2,SD,Roman - Saxon,950 -- 1100
+1169,ABMAP29508,First phalanx,42.1,Bd,Roman - Saxon,950 -- 1100
+1170,ABMAP29508,First phalanx,83.8,GL,Roman - Saxon,950 -- 1100
+1171,ABMAP29508,First phalanx,35.0,SD,Roman - Saxon,950 -- 1100
+1191,ABMAP28658,First phalanx,41.3,Bd,Medieval,1450 -- 1800
+1192,ABMAP28658,First phalanx,78.7,GL,Medieval,1450 -- 1800
+1193,ABMAP28658,First phalanx,34.0,SD,Medieval,1450 -- 1800
+1195,ABMAP28679,First phalanx,36.1,Bd,Medieval,1300 -- 1450
+1196,ABMAP28679,First phalanx,72.2,GL,Medieval,1300 -- 1450
+1197,ABMAP28679,First phalanx,29.1,SD,Medieval,1300 -- 1450
+1200,ABMAP28707,First phalanx,41.0,Bd,Medieval,1300 -- 1450
+1201,ABMAP28707,First phalanx,79.0,GL,Medieval,1300 -- 1450
+1202,ABMAP28707,First phalanx,30.3,SD,Medieval,1300 -- 1450
+1204,ABMAP28732,First phalanx,36.4,Bd,Medieval,1300 -- 1450
+1205,ABMAP28732,First phalanx,73.8,GL,Medieval,1300 -- 1450
+1206,ABMAP28732,First phalanx,27.7,SD,Medieval,1300 -- 1450
+1208,ABMAP28740,First phalanx,40.6,Bd,Medieval,1300 -- 1450
+1209,ABMAP28740,First phalanx,75.0,GL,Medieval,1300 -- 1450
+1210,ABMAP28740,First phalanx,31.4,SD,Medieval,1300 -- 1450
+1213,ABMAP28742,First phalanx,41.1,Bd,Medieval,1300 -- 1450
+1214,ABMAP28742,First phalanx,77.5,GL,Medieval,1300 -- 1450
+1215,ABMAP28742,First phalanx,30.5,SD,Medieval,1300 -- 1450
+1230,ABMAP28984,First phalanx,40.6,Bd,Medieval,1450 -- 1800
+1231,ABMAP28984,First phalanx,74.6,GL,Medieval,1450 -- 1800
+1232,ABMAP28984,First phalanx,30.3,SD,Medieval,1450 -- 1800
+1275,ABMAP28744,First phalanx,39.4,Bd,Medieval,1250 -- 1400
+1276,ABMAP28744,First phalanx,77.7,GL,Medieval,1250 -- 1400
+1277,ABMAP28744,First phalanx,32.3,SD,Medieval,1250 -- 1400
+1290,ABMAP28853,First phalanx,29.6,SD,Medieval,1300 -- 1450
+1307,ABMAP28872,First phalanx,39.0,Bd,Medieval,1250 -- 1400
+1308,ABMAP28872,First phalanx,72.7,GL,Medieval,1250 -- 1400
+1309,ABMAP28872,First phalanx,29.1,SD,Medieval,1250 -- 1400
+1315,ABMAP28881,First phalanx,74.9,GL,Medieval,1250 -- 1400
+1316,ABMAP28881,First phalanx,29.5,SD,Medieval,1250 -- 1400
+1319,ABMAP28893,First phalanx,29.6,SD,Medieval,1250 -- 1400
+1320,ABMAP28894,First phalanx,38.0,Bd,Medieval,1250 -- 1400
+1321,ABMAP28894,First phalanx,74.5,GL,Medieval,1250 -- 1400
+1322,ABMAP28894,First phalanx,30.9,SD,Medieval,1250 -- 1400
+1333,ABMAP28942,First phalanx,44.0,Bd,Medieval,1100 -- 1250
+1334,ABMAP28942,First phalanx,81.9,GL,Medieval,1100 -- 1250
+1335,ABMAP28942,First phalanx,37.2,SD,Medieval,1100 -- 1250
+1336,ABMAP28934,First phalanx,42.0,Bd,Medieval,1100 -- 1250
+1337,ABMAP28934,First phalanx,83.5,GL,Medieval,1100 -- 1250
+1338,ABMAP28934,First phalanx,33.2,SD,Medieval,1100 -- 1250
+1339,ABMAP28936,First phalanx,45.6,Bd,Medieval,1100 -- 1250
+1340,ABMAP28936,First phalanx,88.3,GL,Medieval,1100 -- 1250
+1341,ABMAP28936,First phalanx,33.9,SD,Medieval,1100 -- 1250
+1344,ABMAP18428,First phalanx,47.4,Bd,Medieval,1600 -- 1799
+1345,ABMAP18428,First phalanx,44.2,BFd,Medieval,1600 -- 1799
+1359,ABMAP18417,First phalanx,54.4,Bd,Medieval,1600 -- 1799
+1360,ABMAP18417,First phalanx,66.0,Bp,Medieval,1600 -- 1799
+1361,ABMAP18417,First phalanx,44.0,Dp,Medieval,1600 -- 1799
+1362,ABMAP18417,First phalanx,93.2,GL,Medieval,1600 -- 1799
+1363,ABMAP18417,First phalanx,38.6,SD,Medieval,1600 -- 1799
+1389,ABMAP16646,First phalanx,57.9,Bp,Medieval,1167 -- 1399
+1390,ABMAP16646,First phalanx,89.1,GL,Medieval,1167 -- 1399
+1402,ABMAP16647,First phalanx,51.9,Bp,Medieval,1167 -- 1399
+1403,ABMAP16647,First phalanx,34.8,Dp,Medieval,1167 -- 1399
+1404,ABMAP16647,First phalanx,84.7,GL,Medieval,1167 -- 1399
+1405,ABMAP16647,First phalanx,33.1,SD,Medieval,1167 -- 1399
+1461,ABMAP16644,First phalanx,41.8,Bd,Medieval,1033 -- 1199
+1462,ABMAP16644,First phalanx,49.3,Bp,Medieval,1033 -- 1199
+1463,ABMAP16644,First phalanx,23.4,Dd,Medieval,1033 -- 1199
+1464,ABMAP16644,First phalanx,35.7,Dp,Medieval,1033 -- 1199
+1465,ABMAP16644,First phalanx,75.8,GL,Medieval,1033 -- 1199
+1466,ABMAP16644,First phalanx,28.3,SD,Medieval,1033 -- 1199
+1467,ABMAP16645,First phalanx,40.9,Bd,Medieval,1033 -- 1199
+1468,ABMAP16645,First phalanx,48.9,Bp,Medieval,1033 -- 1199
+1469,ABMAP16645,First phalanx,23.0,Dd,Medieval,1033 -- 1199
+1470,ABMAP16645,First phalanx,35.2,Dp,Medieval,1033 -- 1199
+1471,ABMAP16645,First phalanx,75.8,GL,Medieval,1033 -- 1199
+1472,ABMAP16645,First phalanx,27.9,SD,Medieval,1033 -- 1199
+1602,ABMAP3372,First phalanx,53.6,Bp,Medieval,1000 -- 1199
+1603,ABMAP3372,First phalanx,80.0,GL,Medieval,1000 -- 1199
+1604,ABMAP3374,First phalanx,54.3,Bp,Medieval,1000 -- 1199
+1605,ABMAP3374,First phalanx,84.0,GL,Medieval,1000 -- 1199
+1616,ABMAP28265,First phalanx,43.0,Bd,Roman - Saxon,850 -- 899
+1617,ABMAP28265,First phalanx,41.1,BFd,Roman - Saxon,850 -- 899
+1618,ABMAP28265,First phalanx,47.4,BFp,Roman - Saxon,850 -- 899
+1619,ABMAP28265,First phalanx,52.3,Bp,Roman - Saxon,850 -- 899
+1620,ABMAP28265,First phalanx,32.9,Dp,Roman - Saxon,850 -- 899
+1621,ABMAP28265,First phalanx,80.9,GL,Roman - Saxon,850 -- 899
+1622,ABMAP28265,First phalanx,33.2,SD,Roman - Saxon,850 -- 899
+1693,ABMAP13143,First phalanx,46.4,Bd,Roman - Saxon,650 -- 850
+1694,ABMAP13143,First phalanx,43.7,BFd,Roman - Saxon,650 -- 850
+1695,ABMAP13143,First phalanx,57.4,Bp,Roman - Saxon,650 -- 850
+1696,ABMAP13143,First phalanx,83.9,GL,Roman - Saxon,650 -- 850
+1697,ABMAP13143,First phalanx,33.8,SD,Roman - Saxon,650 -- 850
+1735,ABMAP18524,First phalanx,42.8,BFp,Bronze - Iron Age,-1000 -- -400
+1736,ABMAP18524,First phalanx,45.8,Bp,Bronze - Iron Age,-1000 -- -400
+1737,ABMAP18524,First phalanx,30.0,Dp,Bronze - Iron Age,-1000 -- -400
+1738,ABMAP18524,First phalanx,69.7,GL,Bronze - Iron Age,-1000 -- -400
+1739,ABMAP18524,First phalanx,31.2,SD,Bronze - Iron Age,-1000 -- -400
+1760,ABMAP18525,First phalanx,45.3,Bd,Bronze - Iron Age,-1000 -- -400
+1761,ABMAP18525,First phalanx,41.7,BFd,Bronze - Iron Age,-1000 -- -400
+1762,ABMAP18525,First phalanx,46.2,BFp,Bronze - Iron Age,-1000 -- -400
+1763,ABMAP18525,First phalanx,52.0,Bp,Bronze - Iron Age,-1000 -- -400
+1764,ABMAP18525,First phalanx,30.7,Dp,Bronze - Iron Age,-1000 -- -400
+1765,ABMAP18525,First phalanx,80.3,GL,Bronze - Iron Age,-1000 -- -400
+1766,ABMAP18525,First phalanx,32.9,SD,Bronze - Iron Age,-1000 -- -400
+1781,ABMAP27182,First phalanx,44.7,Bd,Roman - Saxon,900 -- 1099
+1782,ABMAP27182,First phalanx,56.6,Bp,Roman - Saxon,900 -- 1099
+1783,ABMAP27182,First phalanx,39.0,Dp,Roman - Saxon,900 -- 1099
+1784,ABMAP27182,First phalanx,83.8,GL,Roman - Saxon,900 -- 1099
+1785,ABMAP27182,First phalanx,34.8,SD,Roman - Saxon,900 -- 1099
+1798,ABMAP27183,First phalanx,48.4,Bd,Roman - Saxon,900 -- 1099
+1799,ABMAP27183,First phalanx,58.6,Bp,Roman - Saxon,900 -- 1099
+1800,ABMAP27183,First phalanx,40.3,Dp,Roman - Saxon,900 -- 1099
+1801,ABMAP27183,First phalanx,88.3,GL,Roman - Saxon,900 -- 1099
+1802,ABMAP27183,First phalanx,39.9,SD,Roman - Saxon,900 -- 1099
+1826,ABMAP27209,First phalanx,44.8,Bd,Roman - Saxon,900 -- 1099
+1827,ABMAP27209,First phalanx,78.9,GL,Roman - Saxon,900 -- 1099
+1847,ABMAP1429,First phalanx,48.0,Bd,Roman - Saxon,43 -- 410
+1848,ABMAP1429,First phalanx,56.3,Bp,Roman - Saxon,43 -- 410
+1849,ABMAP1429,First phalanx,36.0,Dp,Roman - Saxon,43 -- 410
+1850,ABMAP1429,First phalanx,34.7,SD,Roman - Saxon,43 -- 410
+1877,ABMAP1040,First phalanx,46.3,Bd,Roman - Saxon,43 -- 410
+1878,ABMAP1040,First phalanx,34.2,Dp,Roman - Saxon,43 -- 410
+1879,ABMAP1040,First phalanx,32.9,SD,Roman - Saxon,43 -- 410
+1899,ABMAP1334,First phalanx,44.6,Bd,Roman - Saxon,43 -- 410
+1900,ABMAP1334,First phalanx,56.0,Bp,Roman - Saxon,43 -- 410
+1901,ABMAP1334,First phalanx,34.7,SD,Roman - Saxon,43 -- 410
+2008,J_GRIMM_08WA55024-574,First phalanx,41.8,BFp,Roman - Saxon,150 -- 200
+2009,J_GRIMM_08WA55024-574,First phalanx,44.4,Bp,Roman - Saxon,150 -- 200
+2010,J_GRIMM_08WA55024-574,First phalanx,30.9,Dp,Roman - Saxon,150 -- 200
+2011,J_GRIMM_08WA55024-574,First phalanx,67.5,GL,Roman - Saxon,150 -- 200
+2012,J_GRIMM_08WA55024-574,First phalanx,29.7,SD,Roman - Saxon,150 -- 200
+2040,J_GRIMM_08WA56530-1264,First phalanx,41.5,Bd,Roman - Saxon,300 -- 400
+2041,J_GRIMM_08WA56530-1264,First phalanx,38.7,BFd,Roman - Saxon,300 -- 400
+2042,J_GRIMM_08WA56530-1264,First phalanx,45.2,BFp,Roman - Saxon,300 -- 400
+2043,J_GRIMM_08WA56530-1264,First phalanx,50.1,Bp,Roman - Saxon,300 -- 400
+2044,J_GRIMM_08WA56530-1264,First phalanx,34.6,Dp,Roman - Saxon,300 -- 400
+2045,J_GRIMM_08WA56530-1264,First phalanx,71.0,GL,Roman - Saxon,300 -- 400
+2046,J_GRIMM_08WA56530-1264,First phalanx,29.5,SD,Roman - Saxon,300 -- 400
+2057,J_GRIMM_08WA57960-177,First phalanx,40.0,Bd,Medieval,1225 -- 1350
+2058,J_GRIMM_08WA57960-177,First phalanx,71.0,GL,Medieval,1225 -- 1350
+2059,J_GRIMM_08WA57960-177,First phalanx,29.4,SD,Medieval,1225 -- 1350
+2067,J_GRIMM_08WA58571-59,First phalanx,47.2,Bd,Roman - Saxon,43 -- 410
+2068,J_GRIMM_08WA58571-59,First phalanx,41.4,BFd,Roman - Saxon,43 -- 410
+2069,J_GRIMM_08WA58571-59,First phalanx,46.8,BFp,Roman - Saxon,43 -- 410
+2070,J_GRIMM_08WA58571-59,First phalanx,54.4,Bp,Roman - Saxon,43 -- 410
+2071,J_GRIMM_08WA58571-59,First phalanx,32.1,Dp,Roman - Saxon,43 -- 410
+2072,J_GRIMM_08WA58571-59,First phalanx,35.3,SD,Roman - Saxon,43 -- 410
+2090,J_GRIMM_08WA58720-23,First phalanx,39.8,Bd,Medieval,1400 -- 1500
+2091,J_GRIMM_08WA58720-23,First phalanx,35.9,BFd,Medieval,1400 -- 1500
+2092,J_GRIMM_08WA58720-23,First phalanx,48.3,Bp,Medieval,1400 -- 1500
+2093,J_GRIMM_08WA58720-23,First phalanx,33.6,Dp,Medieval,1400 -- 1500
+2094,J_GRIMM_08WA58720-23,First phalanx,77.0,GL,Medieval,1400 -- 1500
+2095,J_GRIMM_08WA58720-23,First phalanx,29.2,SD,Medieval,1400 -- 1500
+2135,J_GRIMM_08WA59480-2,First phalanx,39.6,Bd,Roman - Saxon,43 -- 150
+2136,J_GRIMM_08WA59480-2,First phalanx,37.2,BFd,Roman - Saxon,43 -- 150
+2137,J_GRIMM_08WA59480-2,First phalanx,42.7,BFp,Roman - Saxon,43 -- 150
+2138,J_GRIMM_08WA59480-2,First phalanx,47.4,Bp,Roman - Saxon,43 -- 150
+2139,J_GRIMM_08WA59480-2,First phalanx,30.0,Dp,Roman - Saxon,43 -- 150
+2140,J_GRIMM_08WA59480-2,First phalanx,71.5,GL,Roman - Saxon,43 -- 150
+2141,J_GRIMM_08WA59480-2,First phalanx,28.7,SD,Roman - Saxon,43 -- 150
+2142,J_GRIMM_08WA59480-18,First phalanx,74.0,GL,Roman - Saxon,43 -- 150
+2149,J_GRIMM_08WA59480-847,First phalanx,39.3,Bd,Bronze - Iron Age,100 -- 150
+2150,J_GRIMM_08WA59480-847,First phalanx,35.4,BFd,Bronze - Iron Age,100 -- 150
+2151,J_GRIMM_08WA59480-847,First phalanx,44.5,BFp,Bronze - Iron Age,100 -- 150
+2152,J_GRIMM_08WA59480-847,First phalanx,49.2,Bp,Bronze - Iron Age,100 -- 150
+2153,J_GRIMM_08WA59480-847,First phalanx,28.6,Dp,Bronze - Iron Age,100 -- 150
+2154,J_GRIMM_08WA59480-847,First phalanx,72.5,GL,Bronze - Iron Age,100 -- 150
+2155,J_GRIMM_08WA59480-847,First phalanx,28.7,SD,Bronze - Iron Age,100 -- 150
+2181,J_GRIMM_08WA59480-1527,First phalanx,41.7,Bd,Bronze - Iron Age,-100 -- 43
+2182,J_GRIMM_08WA59480-1527,First phalanx,38.8,BFd,Bronze - Iron Age,-100 -- 43
+2183,J_GRIMM_08WA59480-1527,First phalanx,43.1,BFp,Bronze - Iron Age,-100 -- 43
+2184,J_GRIMM_08WA59480-1527,First phalanx,48.4,Bp,Bronze - Iron Age,-100 -- 43
+2185,J_GRIMM_08WA59480-1527,First phalanx,26.9,Dp,Bronze - Iron Age,-100 -- 43
+2186,J_GRIMM_08WA59480-1527,First phalanx,73.0,GL,Bronze - Iron Age,-100 -- 43
+2187,J_GRIMM_08WA59480-1527,First phalanx,29.7,SD,Bronze - Iron Age,-100 -- 43
+2191,J_GRIMM_08WA59480-938,First phalanx,43.5,Bd,Bronze - Iron Age,100 -- 150
+2192,J_GRIMM_08WA59480-938,First phalanx,41.5,BFd,Bronze - Iron Age,100 -- 150
+2193,J_GRIMM_08WA59480-938,First phalanx,47.7,BFp,Bronze - Iron Age,100 -- 150
+2194,J_GRIMM_08WA59480-938,First phalanx,52.1,Bp,Bronze - Iron Age,100 -- 150
+2195,J_GRIMM_08WA59480-938,First phalanx,31.3,Dp,Bronze - Iron Age,100 -- 150
+2196,J_GRIMM_08WA59480-938,First phalanx,82.0,GL,Bronze - Iron Age,100 -- 150
+2197,J_GRIMM_08WA59480-938,First phalanx,33.6,SD,Bronze - Iron Age,100 -- 150
+2198,J_GRIMM_08WA59480-939,First phalanx,41.0,Bd,Bronze - Iron Age,100 -- 150
+2199,J_GRIMM_08WA59480-939,First phalanx,40.6,BFd,Bronze - Iron Age,100 -- 150
+2200,J_GRIMM_08WA59480-939,First phalanx,46.9,BFp,Bronze - Iron Age,100 -- 150
+2201,J_GRIMM_08WA59480-939,First phalanx,50.2,Bp,Bronze - Iron Age,100 -- 150
+2202,J_GRIMM_08WA59480-939,First phalanx,29.7,Dp,Bronze - Iron Age,100 -- 150
+2203,J_GRIMM_08WA59480-939,First phalanx,74.0,GL,Bronze - Iron Age,100 -- 150
+2204,J_GRIMM_08WA59480-939,First phalanx,30.8,SD,Bronze - Iron Age,100 -- 150
+2205,J_GRIMM_08WA59480-940,First phalanx,46.7,Bd,Bronze - Iron Age,100 -- 150
+2206,J_GRIMM_08WA59480-940,First phalanx,43.0,BFd,Bronze - Iron Age,100 -- 150
+2207,J_GRIMM_08WA59480-940,First phalanx,51.2,BFp,Bronze - Iron Age,100 -- 150
+2208,J_GRIMM_08WA59480-940,First phalanx,56.6,Bp,Bronze - Iron Age,100 -- 150
+2209,J_GRIMM_08WA59480-940,First phalanx,37.7,Dp,Bronze - Iron Age,100 -- 150
+2210,J_GRIMM_08WA59480-940,First phalanx,88.0,GL,Bronze - Iron Age,100 -- 150
+2211,J_GRIMM_08WA59480-940,First phalanx,34.2,SD,Bronze - Iron Age,100 -- 150
+2212,J_GRIMM_08WA59480-941,First phalanx,42.4,Bd,Bronze - Iron Age,100 -- 150
+2213,J_GRIMM_08WA59480-941,First phalanx,40.6,BFd,Bronze - Iron Age,100 -- 150
+2214,J_GRIMM_08WA59480-941,First phalanx,46.7,BFp,Bronze - Iron Age,100 -- 150
+2215,J_GRIMM_08WA59480-941,First phalanx,50.1,Bp,Bronze - Iron Age,100 -- 150
+2216,J_GRIMM_08WA59480-941,First phalanx,28.9,Dp,Bronze - Iron Age,100 -- 150
+2217,J_GRIMM_08WA59480-941,First phalanx,78.0,GL,Bronze - Iron Age,100 -- 150
+2218,J_GRIMM_08WA59480-941,First phalanx,30.9,SD,Bronze - Iron Age,100 -- 150
+2219,J_GRIMM_08WA59480-942,First phalanx,42.0,Bd,Bronze - Iron Age,100 -- 150
+2220,J_GRIMM_08WA59480-942,First phalanx,40.5,BFd,Bronze - Iron Age,100 -- 150
+2221,J_GRIMM_08WA59480-942,First phalanx,48.1,BFp,Bronze - Iron Age,100 -- 150
+2222,J_GRIMM_08WA59480-942,First phalanx,51.2,Bp,Bronze - Iron Age,100 -- 150
+2223,J_GRIMM_08WA59480-942,First phalanx,30.9,Dp,Bronze - Iron Age,100 -- 150
+2224,J_GRIMM_08WA59480-942,First phalanx,76.0,GL,Bronze - Iron Age,100 -- 150
+2225,J_GRIMM_08WA59480-942,First phalanx,31.2,SD,Bronze - Iron Age,100 -- 150
+2226,J_GRIMM_08WA59480-943,First phalanx,40.9,Bd,Bronze - Iron Age,100 -- 150
+2227,J_GRIMM_08WA59480-943,First phalanx,40.9,BFd,Bronze - Iron Age,100 -- 150
+2228,J_GRIMM_08WA59480-943,First phalanx,45.9,BFp,Bronze - Iron Age,100 -- 150
+2229,J_GRIMM_08WA59480-943,First phalanx,49.3,Bp,Bronze - Iron Age,100 -- 150
+2230,J_GRIMM_08WA59480-943,First phalanx,73.0,GL,Bronze - Iron Age,100 -- 150
+2231,J_GRIMM_08WA59480-943,First phalanx,30.0,SD,Bronze - Iron Age,100 -- 150
+2285,J_GRIMM_08WA61900-493,First phalanx,33.4,SD,Bronze - Iron Age,-700 -- 43
+2286,J_GRIMM_08WA61900-246,First phalanx,48.5,Bd,Roman - Saxon,43 -- 410
+2287,J_GRIMM_08WA61900-246,First phalanx,57.8,Bp,Roman - Saxon,43 -- 410
+2288,J_GRIMM_08WA61900-246,First phalanx,86.0,GL,Roman - Saxon,43 -- 410
+2289,J_GRIMM_08WA61900-246,First phalanx,35.6,SD,Roman - Saxon,43 -- 410
+2298,J_GRIMM_08WA61900-154,First phalanx,47.7,Bp,Roman - Saxon,43 -- 410
+2299,J_GRIMM_08WA61900-154,First phalanx,35.0,Dp,Roman - Saxon,43 -- 410
+2300,J_GRIMM_08WA61900-154,First phalanx,28.9,SD,Roman - Saxon,43 -- 410
+2301,J_GRIMM_08WA61900-193,First phalanx,46.0,Bd,Medieval,1066 -- 1499
+2302,J_GRIMM_08WA61900-193,First phalanx,44.1,BFd,Medieval,1066 -- 1499
+2303,J_GRIMM_08WA61900-193,First phalanx,51.3,BFp,Medieval,1066 -- 1499
+2304,J_GRIMM_08WA61900-193,First phalanx,56.0,Bp,Medieval,1066 -- 1499
+2305,J_GRIMM_08WA61900-193,First phalanx,35.6,Dp,Medieval,1066 -- 1499
+2306,J_GRIMM_08WA61900-193,First phalanx,91.0,GL,Medieval,1066 -- 1499
+2307,J_GRIMM_08WA61900-193,First phalanx,33.7,SD,Medieval,1066 -- 1499
+2311,J_GRIMM_08WA63220-730,First phalanx,30.6,Bd,Roman - Saxon,850 -- 1066
+2312,J_GRIMM_08WA63220-730,First phalanx,30.7,BFd,Roman - Saxon,850 -- 1066
+2313,J_GRIMM_08WA63220-730,First phalanx,64.0,GL,Roman - Saxon,850 -- 1066
+2314,J_GRIMM_08WA63220-730,First phalanx,21.6,SD,Roman - Saxon,850 -- 1066
+2330,J_GRIMM_08WA63220-5165,First phalanx,48.9,Bd,Roman - Saxon,850 -- 1066
+2331,J_GRIMM_08WA63220-5165,First phalanx,44.2,BFd,Roman - Saxon,850 -- 1066
+2332,J_GRIMM_08WA63220-5165,First phalanx,48.9,BFp,Roman - Saxon,850 -- 1066
+2333,J_GRIMM_08WA63220-5165,First phalanx,55.0,Bp,Roman - Saxon,850 -- 1066
+2334,J_GRIMM_08WA63220-5165,First phalanx,38.0,Dp,Roman - Saxon,850 -- 1066
+2335,J_GRIMM_08WA63220-5165,First phalanx,84.0,GL,Roman - Saxon,850 -- 1066
+2336,J_GRIMM_08WA63220-5165,First phalanx,34.6,SD,Roman - Saxon,850 -- 1066
+2356,J_GRIMM_08WA64560-771,First phalanx,82.0,GL,Roman - Saxon,410 -- 1066
+2366,ABMAP9652,First phalanx,50.2,Bd,Medieval,1000 -- 1199
+2367,ABMAP9652,First phalanx,42.0,BFd,Medieval,1000 -- 1199
+2368,ABMAP9652,First phalanx,47.5,BFp,Medieval,1000 -- 1199
+2369,ABMAP9652,First phalanx,52.7,Bp,Medieval,1000 -- 1199
+2370,ABMAP9652,First phalanx,34.0,Dp,Medieval,1000 -- 1199
+2371,ABMAP9652,First phalanx,76.5,GL,Medieval,1000 -- 1199
+2372,ABMAP9652,First phalanx,35.4,SD,Medieval,1000 -- 1199
+2378,ABMAP13874,First phalanx,47.0,Bd,Medieval,1300 -- 1499
+2379,ABMAP13874,First phalanx,45.1,BFd,Medieval,1300 -- 1499
+2380,ABMAP13874,First phalanx,51.8,BFp,Medieval,1300 -- 1499
+2381,ABMAP13874,First phalanx,56.3,Bp,Medieval,1300 -- 1499
+2382,ABMAP13874,First phalanx,39.0,Dp,Medieval,1300 -- 1499
+2383,ABMAP13874,First phalanx,82.0,GL,Medieval,1300 -- 1499
+2384,ABMAP13874,First phalanx,35.5,SD,Medieval,1300 -- 1499
+2402,ABMAP13905,First phalanx,44.8,Bd,Medieval,1300 -- 1499
+2403,ABMAP13905,First phalanx,41.1,BFd,Medieval,1300 -- 1499
+2404,ABMAP13905,First phalanx,47.5,BFp,Medieval,1300 -- 1499
+2405,ABMAP13905,First phalanx,51.1,Bp,Medieval,1300 -- 1499
+2406,ABMAP13905,First phalanx,33.5,Dp,Medieval,1300 -- 1499
+2407,ABMAP13905,First phalanx,79.5,GL,Medieval,1300 -- 1499
+2408,ABMAP13905,First phalanx,32.1,SD,Medieval,1300 -- 1499
+2463,ABMAP1489,First phalanx,42.0,Bd,Roman - Saxon,43 -- 1066
+2464,ABMAP1489,First phalanx,53.4,Bp,Roman - Saxon,43 -- 1066
+2465,ABMAP1489,First phalanx,35.5,Dp,Roman - Saxon,43 -- 1066
+2466,ABMAP1489,First phalanx,31.2,SD,Roman - Saxon,43 -- 1066
+2478,ABMAP1542,First phalanx,41.1,Bd,Roman - Saxon,100 -- 399
+2479,ABMAP1542,First phalanx,47.4,Bp,Roman - Saxon,100 -- 399
+2480,ABMAP1542,First phalanx,30.1,Dp,Roman - Saxon,100 -- 399
+2481,ABMAP1542,First phalanx,29.8,SD,Roman - Saxon,100 -- 399
+2767,ABMAP425,First phalanx,44.6,Bp,Bronze - Iron Age,-50 -- 75
+2768,ABMAP425,First phalanx,32.2,Dp,Bronze - Iron Age,-50 -- 75
+2777,ABMAP301,First phalanx,45.9,Bp,Bronze - Iron Age,-499 -- -200
+2778,ABMAP301,First phalanx,34.0,Dp,Bronze - Iron Age,-499 -- -200
+2887,ABMAP14186,First phalanx,40.2,Bd,Roman - Saxon,43 -- 410
+2888,ABMAP14186,First phalanx,38.2,BFd,Roman - Saxon,43 -- 410
+2889,ABMAP14186,First phalanx,48.0,BFp,Roman - Saxon,43 -- 410
+2890,ABMAP14186,First phalanx,49.7,Bp,Roman - Saxon,43 -- 410
+2891,ABMAP14186,First phalanx,29.3,SD,Roman - Saxon,43 -- 410
+2906,ABMAP14176,First phalanx,47.2,Bd,Roman - Saxon,43 -- 410
+2907,ABMAP14176,First phalanx,53.5,Bp,Roman - Saxon,43 -- 410
+2908,ABMAP14176,First phalanx,37.5,Dp,Roman - Saxon,43 -- 410
+2909,ABMAP14176,First phalanx,88.5,GL,Roman - Saxon,43 -- 410
+2910,ABMAP14176,First phalanx,34.5,SD,Roman - Saxon,43 -- 410
+2914,ABMAP14444,First phalanx,41.9,Bd,Roman - Saxon,43 -- 410
+2915,ABMAP14444,First phalanx,37.8,BFd,Roman - Saxon,43 -- 410
+2916,ABMAP14444,First phalanx,49.0,Bp,Roman - Saxon,43 -- 410
+2917,ABMAP14444,First phalanx,31.5,Dp,Roman - Saxon,43 -- 410
+2918,ABMAP14444,First phalanx,76.8,GL,Roman - Saxon,43 -- 410
+2919,ABMAP14444,First phalanx,29.5,SD,Roman - Saxon,43 -- 410
+2938,ABMAP14317,First phalanx,40.0,Bd,Roman - Saxon,43 -- 410
+2939,ABMAP14317,First phalanx,38.7,BFd,Roman - Saxon,43 -- 410
+2940,ABMAP14317,First phalanx,44.4,BFp,Roman - Saxon,43 -- 410
+2941,ABMAP14317,First phalanx,47.9,Bp,Roman - Saxon,43 -- 410
+2942,ABMAP14317,First phalanx,29.0,Dp,Roman - Saxon,43 -- 410
+2943,ABMAP14317,First phalanx,69.0,GL,Roman - Saxon,43 -- 410
+2944,ABMAP14317,First phalanx,29.5,SD,Roman - Saxon,43 -- 410
+3047,ABMAP11023,First phalanx,50.0,Bp,Medieval,1066 -- 1540
+3048,ABMAP11023,First phalanx,33.1,SD,Medieval,1066 -- 1540
+3077,ABMAP3192,First phalanx,47.8,Bd,Roman - Saxon,400 -- 1066
+3078,ABMAP3192,First phalanx,40.8,BFd,Roman - Saxon,400 -- 1066
+3090,ABMAP3191,First phalanx,47.3,Bd,Roman - Saxon,400 -- 1066
+3091,ABMAP3191,First phalanx,43.2,BFd,Roman - Saxon,400 -- 1066
+3092,ABMAP3191,First phalanx,48.2,BFp,Roman - Saxon,400 -- 1066
+3093,ABMAP3191,First phalanx,52.8,Bp,Roman - Saxon,400 -- 1066
+3094,ABMAP3191,First phalanx,34.3,Dp,Roman - Saxon,400 -- 1066
+3095,ABMAP3191,First phalanx,35.6,SD,Roman - Saxon,400 -- 1066

@@ -1,5 +1,6 @@
 from collections import Counter
 import pprint
+from . import load_write as lw
 
 
 pp = pprint.PrettyPrinter(indent=2, compact=True)
@@ -35,9 +36,9 @@ def range_to_tuple(range_string):
     """
     Slices a string of two integer years into a tuple.
     First slices the string so only the number values and their algebraic sign remain,
-    then casts to int.
+    then casts to int
     :param range_string: string in form "year1 -- year2"
-    :return: tuple (year1, year2)
+    :return: list [year1, year2]
     """
     i = range_string.index(" ")
     year_1 = int(range_string[:i])
@@ -53,4 +54,16 @@ def update_period(dataframe, periods_dict):
             if range_tuple in ranges:
                 dataframe.loc[find_me, 'PERIOD'] = period
 
-    return dataframe
+    df = dataframe[['BONEID', 'ELEMENT', 'MEASURE', 'MEASTYPE', 'PERIOD', 'RANGE']].copy()
+    return df
+
+
+def create_dataframe_from_groups(grouped_dataframe):
+    group_names = list(grouped_dataframe.groups.keys())
+    frames_dict = dict()
+    for name in group_names:
+        df_group = grouped_dataframe.get_group(name)
+        frames_dict[name] = df_group
+
+    return frames_dict
+
