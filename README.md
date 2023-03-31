@@ -1,7 +1,7 @@
 # animal-bones
 Hausarbeit für Modul "Informatik in den Geistes- und Kulturwissenschaften"
 
-> [!note] Animal Bone Metrical Archive Project (ABMAP) - Überblick
+> **Animal Bone Metrical Archive Project (ABMAP) - Überblick**
 > Datenbank mit Knochenmaßen domestizierter Tieren
 > Zusammengetragen aus mehr als 100 archäologischen Fundenstellen
 > **Fundort:** Südengland 
