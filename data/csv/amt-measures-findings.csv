@@ -1,0 +1,23 @@
+,amount,amt_type,bone_type
+0,81,find,Astragalus
+1,229,meas,Astragalus
+2,33,find,Calcaneum
+3,46,meas,Calcaneum
+4,51,find,Femur
+5,108,meas,Femur
+6,134,find,First phalanx
+7,540,meas,First phalanx
+8,97,find,Humerus
+9,208,meas,Humerus
+10,112,find,Metacarpal
+11,455,meas,Metacarpal
+12,146,find,Metatarsal
+13,537,meas,Metatarsal
+14,34,find,Pelvis
+15,58,meas,Pelvis
+16,125,find,Radius
+17,367,meas,Radius
+18,83,find,Scapula
+19,198,meas,Scapula
+20,135,find,Tibia
+21,335,meas,Tibia

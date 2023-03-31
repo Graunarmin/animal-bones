@@ -1,0 +1,74 @@
+{
+  "Bd": {
+    "Bronze - Iron Age": {
+      "Medieval": [
+        0.019432964109197388,
+        "signifikant"
+      ],
+      "Roman - Saxon": [
+        0.006984723710175512,
+        "signifikant"
+      ]
+    },
+    "Medieval": {
+      "Roman - Saxon": [
+        0.6989188617940075,
+        "nicht signifikant"
+      ]
+    }
+  },
+  "Bp": {
+    "Bronze - Iron Age": {
+      "Medieval": [
+        0.045258275177673085,
+        "signifikant"
+      ],
+      "Roman - Saxon": [
+        0.0011046703581187834,
+        "signifikant"
+      ]
+    },
+    "Medieval": {
+      "Roman - Saxon": [
+        0.23329586317323853,
+        "nicht signifikant"
+      ]
+    }
+  },
+  "GL": {
+    "Bronze - Iron Age": {
+      "Medieval": [
+        0.007291720826399184,
+        "signifikant"
+      ],
+      "Roman - Saxon": [
+        0.005992553681581373,
+        "signifikant"
+      ]
+    },
+    "Medieval": {
+      "Roman - Saxon": [
+        0.9013776203777308,
+        "nicht signifikant"
+      ]
+    }
+  },
+  "SD": {
+    "Bronze - Iron Age": {
+      "Medieval": [
+        0.0019540995134435333,
+        "signifikant"
+      ],
+      "Roman - Saxon": [
+        7.193468897424948e-06,
+        "signifikant"
+      ]
+    },
+    "Medieval": {
+      "Roman - Saxon": [
+        0.8072401541597897,
+        "nicht signifikant"
+      ]
+    }
+  }
+}
