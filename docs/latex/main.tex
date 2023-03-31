@@ -23,19 +23,20 @@
  %% ----- Variables -----%%
 \newcommand\authorname{Johanna Sacher}
 \newcommand\lastname{Sacher}
-%\newcommand\mtrnmbr{5041116} % HSA
+%\newcommand\uni{Hochschule Anhalt}
+%\newcommand\mtrnmbr{5041116} 
 %\newcommand\studentmail{johanna.sacher@student.hs-anhalt.de}
+\newcommand\uni{Martin-Luther-Universität Halle-Wittenberg}
 \newcommand\mtrnmbr{221103072} % MLU
 \newcommand\studentmail{johanna.sacher@student.uni-halle.de}
-\newcommand\uni{Martin-Luther Universität Halle-Wittenberge}
 \newcommand\degree{M.Sc. Interaktive Medien}
 \newcommand\coursetitle{Informatik in den Geistes- und Kulturwissenschaften}
 \newcommand\coursenumber{INF.05370.04}
 \newcommand\dozent{Florian Linsel}
 \newcommand\semester{Wintersemester 2022/23}
-\newcommand\exercise{-}
-\newcommand\thema{Hausarbeit}
-\newcommand\subtitle{\thema}
+\newcommand\exercise{Hausarbeit}
+\newcommand\thema{}
+\newcommand\subtitle{}
 \newcommand\projecttitle{Größentwicklung der Knochen domestizierter Pferde von der späten Bronzezeit bis heute}
 
 
@@ -161,7 +162,7 @@ urlcolor=\linkcolour}
 \renewcommand{\headrule}{\hbox to\headwidth{%
     \color{\ruleColor}\leaders\hrule height \headrulewidth\hfill}}
 
-% - Header
+% - Header for normal pages
 \fancyhead[R]{\color{\ruleColor}\rmfamily\small\scshape\nouppercase \thema ~|~ \projecttitle}
 %\fancyhead[L]{\color{\ruleColor}\rmfamily\small\scshape\nouppercase \lastname ~--~ \mtrnmbr}
 %\fancyhead[R]{\color{\ruleColor}\small\scshape\nouppercase\leftmark} % write chapter or section into header
@@ -169,7 +170,7 @@ urlcolor=\linkcolour}
 % Different Header for the first page
 \fancypagestyle{firstpage}{%
     \fancyhf{}
-    \chead{\color{\ruleColor}\rmfamily\scshape\nouppercase \degree ~|~ \coursetitle ~|~ \textbf{\authorname ~ -- ~ \mtrnmbr}}
+    \chead{\color{\ruleColor}\rmfamily\scshape\nouppercase \degree ~|~ \uni}
     \renewcommand{\headrulewidth}{0pt}
 }
 
@@ -195,9 +196,15 @@ urlcolor=\linkcolour}
 %\makeatother
 
 \title{
-    \large \subtitle\\
-    \vspace{1ex}
     \LARGE \projecttitle\\
+    \vspace{2ex}
+    \normalfont
+    \large \authorname\\
+    \normalsize \mtrnmbr ~|~ \studentmail\\
+    {\color{\ruleColor}
+    \large\coursetitle\\
+    \normalsize Veranstaltungsnr.: ~\coursenumber, Dozent: ~\dozent\\
+    }
 }
 %\date{\today}
 %\large\author{\authorname~ -- ~\mtrnmbr}
@@ -239,7 +246,7 @@ urlcolor=\linkcolour}
  \begin{@twocolumnfalse}
     % --------------- TITLE ------------- % 
     \maketitle
-    
+    {\color{Gray}\rule{\linewidth}{0.2pt}}
     % --------------- ABSTRACT ------------- % 
     \input{docs/latex/sections/00_abstract}
     
@@ -264,7 +271,7 @@ urlcolor=\linkcolour}
 
 % --------- Appendix & Literature --------- %
 
-\bibliography{references}
+%\bibliography{references}
 
 %\clearpage
 
