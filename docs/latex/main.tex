@@ -1,5 +1,5 @@
 \documentclass[fontsize=10pt]{article}
-\usepackage{multicol}
+%\usepackage{multicol}
 \usepackage[english, ngerman]{babel} 
 \usepackage[T1]{fontenc} 
 \usepackage{blindtext} 
@@ -242,16 +242,13 @@ urlcolor=\linkcolour}
 %\thispagestyle{empty} %surpresses the header on the first page
 \thispagestyle{firstpage}
 
-\twocolumn[
- \begin{@twocolumnfalse}
+
     % --------------- TITLE ------------- % 
     \maketitle
 
     % --------------- ABSTRACT ------------- % 
     \input{docs/latex/sections/00_abstract}
     
-  \end{@twocolumnfalse}
-]
 
 % ------------- MAIN CONTENT ------------- % 
 
@@ -271,7 +268,7 @@ urlcolor=\linkcolour}
 
 % --------- Appendix & Literature --------- %
 
-%\bibliography{references}
+\bibliography{references}
 
 %\clearpage
 

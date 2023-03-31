@@ -1,1 +1,36 @@
 \section{Daten und Methoden}
+
+\subsection{Methoden}
+Die Daten wurden mit Hilfe von Python\cite{pythonPY}-Skripten untersucht. 
+Zum Lesen und bearbeiten der Daten wurde das python-package pandas\cite{pandasPY} genutzt. Zur übersichtlichen Darstellung der Daten in Diagrammen wurden matplotlib\cite{matplotlibPY}, seaborn\cite{matplotlibPY} und ptitprince\cite{ptitprincePY} verwendet. 
+Für die anschließende statistische Auswertung wurde außerdem
+scipy\cite{scipyPY} genutzt.
+Der Hergang der Analyse kann im Jupyter-Notebook \texttt{ab\_analysis.ipynb} nachvollzogen werden. 
+Wenn in der Arbeit auf eine Codezelle \texttt{an\_<x>} hingewiesen wird, geht es um die entsprechende Zelle in diesem Notebook nach der Ausführung aller Zellen aufeinmal (\texttt{Run all}).
+Funktionen wurden größtenteils ausgelagert und sind im \texttt{utils} Modul zu finden. 
+Die Plots wurden im Jupyter-Notebook \texttt{ab\_plots.ipynb} erstellt.
+Wenn in der Arbeit auf eine Codezelle \texttt{pl\_<x>} hingewiesen wird, geht es um die entsprechende Zelle in diesem Notebook nach der Ausführung aller Zellen aufeinmal (\texttt{Run all}).
+Der gesamte Code befindet sich in der beiliegenden .zip Datei und kann jederzeit im GitHub Repository \href{https://github.com/Graunarmin/animal-bones}{animal-bones} eingesehen werden.
+
+\subsection{Daten}
+Alle untersuchten Daten stammen aus dem \href{https://archaeologydataservice.ac.uk/archives/view/abmap/}{Animal Bone Metrical Archive Project (ABMAP)}.
+Der Datensatz des ABMAP enthält insgesamt knapp 61 000 Maße von über 24 700 Knochen aus mehr als 100 archäologischen Sammlungen.
+Alle Knochen wurden in Südengland gefunden und wurden auf verschiedene Zeitintervalle zwischen 1000 v.Chr. und heute datiert. 
+Hauptsächlich sind Knochen von Schafen, Ziegen und Rindern enthalten, aber es sind auch Daten von Schweinen, Pferden, Hunden, Hühnern, Gänsen und Katzen verfügbar. 
+Da die Daten jedoch nur über eine \href{https://archaeologydataservice.ac.uk/archives/view/abmap/search.cfm}{Online-Datenbank} verfügbar sind und pro Anfrage maximal die ersten 10 000 Datenpunkte heruntergeladen werden können, wurde der Fokus dieser Arbeit auf eine Tierart gelegt, zu der es zwar weniger als 10 000 Einträge gibt, aber immer noch genug, um sie statistisch auswerten zu können. 
+Die Spezies 'Horse' (Pferd) bot sich mit 3099 Einträge an.
+Ein Problem bei der Untersuchung von Knochenmaßen ist immer, dass häufig weder Alter noch Rasse des Tieres exakt bestimmt werden können. Manche Knochentypen erlauben den Rückschluss eher als andere und bei manchen ist der Einfluss auf die Ergebnisse nur sehr gering, aber generell ist das Ausschließen von Jungtierknochen oft nicht möglich\cite{Levine1981}.
+
+\subsubsection{Erfasste Merkmale}
+Der Datensatz ist multivariat, d.h. für jeden Knochen wurden mehrere Merkmale erfasst:
+Jeder Datenpunkt ist ein Maß (\texttt{MEASURE}) in $mm$ einer bestimmten Messart (\texttt{MEASTYPE}) und wurde einem Knochen zugeordnet, wobei ein Knochen mehrere Maße haben kann. 
+Jeder Knochen hat eine eindeutige ID (\texttt{BONEID}) und wurde einer Spezies zugeordnet (\texttt{SPECIES}). Außerdem wird angegeben, um welchen Knochentyp es sich jeweils handelt (\texttt{ELEMENT}) und von welcher Körperseite er stammt (\texttt{SIDE}).
+Jeder Eintrag wurde absoult datiert (\texttt{RANGE}) und einer Periode der Urgeschichte zugeordnet (\texttt{PERIOD}) . 
+Zusätzlich wurde jeweils der Fundort verzeichnet (\texttt{SITECODE}, \texttt{SITE}, \texttt{COUNTY}) und woher die ursprünglichen Daten stammen (\texttt{REFERENCE})
+Zum Datenmanagement sind noch einige Metadaten verfügbar.
+
+\input{docs/latex/sections/02_1_Knochentypen}
+
+\input{docs/latex/sections/02_2_Measures}
+
+\input{docs/latex/sections/02_3_Datierung}
