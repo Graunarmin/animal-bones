@@ -1,6 +1,8 @@
 from matplotlib import pyplot as plt
-import plotting_helpers as hp
-import color as clr
+import seaborn as sns
+import ptitprince as pt
+from . import plotting_helpers as hp
+from . import color as clr
 
 
 def vertical_bar_chart(x_data, y_data, title, data_label, label_rotation_threshold=10):
@@ -69,3 +71,31 @@ def __show_plot(fig, ax, title, xlabel='none', ylabel='none'):
 
     plt.tight_layout()
     plt.show()
+
+
+def raincloud_plot(df, bone_type):
+    # x MÜSSEN die kategorischen Daten sein
+    dx = "PERIOD"
+    dy = "MEASURE"
+
+    # 'orient' horizontal (h) or vertical (v)
+    ort = "h"
+
+    # 'move' moves the datapoints below the box for better visibility
+    mv = .2
+
+    # 'palette' is the color-palette
+    pal = "Set2"
+
+    # 'sigma' adjusts the smoothing kernel used to generate the probability distribution function of the data
+    sigma = .2
+
+    g = sns.FacetGrid(df, col="MEASTYPE", col_wrap=2, sharex=False, height=6).set_axis_labels(x_var="Size in mm")
+    g = g.map_dataframe(pt.RainCloud, x=dx, y=dy, data=df, palette=pal,
+                        order=["Modern", "Medieval", "Roman - Saxon", "Bronze - Iron Age"],
+                        orient=ort, move=mv, pointplot=True)
+
+    g.set_titles(col_template='{col_name}-Measure', row_template='{row_name}')
+    g.fig.suptitle(str(bone_type), fontsize='xx-large')
+    g.fig.tight_layout()
+    plt.savefig("plots/rainclouds/" + bone_type + ".png")
