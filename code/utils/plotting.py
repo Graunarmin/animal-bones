@@ -98,4 +98,12 @@ def raincloud_plot(df, bone_type):
     g.set_titles(col_template='{col_name}-Measure', row_template='{row_name}')
     g.fig.suptitle(str(bone_type), fontsize='xx-large')
     g.fig.tight_layout()
-    plt.savefig("../plots/rainclouds/" + bone_type + ".png")
+    plt.savefig("../results/plots/rainclouds/" + bone_type + ".png")
+
+
+def seaborn_vertical_barchart(data):
+    plt.figure(figsize=(8, 8))
+
+    b = sns.barplot(x='amount', y='bone_type', hue='amt_type', data=data, ci=None)
+    b.set(xlabel="Menge", ylabel="Knochentyp", title="Menge an Funden und Maßen pro Knochentyp")
+    plt.savefig("../results/plots/amounts_barchart.png")
